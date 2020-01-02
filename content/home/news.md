@@ -1,9 +1,9 @@
 +++
-# blank widget.
+# Hero widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "News"
 
@@ -20,8 +20,8 @@ hero_media = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -33,7 +33,6 @@ hero_media = ""
   # Text color (true=light or false=dark).
   text_color_light = true
 
-
 +++
 
-Our paper is accepted by TMC.
+Papaer accepted
