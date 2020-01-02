@@ -21,21 +21,21 @@ date_format = "Jan 2006"
   title = "Assistant Professor"
   company = "City University of Hong Kong"
   location = "Hong Kong"
-  date_start = "2019-08"
+  date_start = "2019-08-01"
   date_end = ""
 
 [[experience]]
   title = "Postdoc"
   company = "University of New South Wales"
   location = "Sydney, Australia"
-  date_start = "2017-06"
-  date_end = "2019-08"
+  date_start = "2017-06-01"
+  date_end = "2019-08-01"
 
 [[experience]]
   title = "Research Assistant"
   company = "Australia CSIRO"
   location = "Brisbane, Australia"
-  date_start = "2013-10"
-  date_end = "2014-12"
+  date_start = "2013-10-01"
+  date_end = "2014-12-01"
 
 +++
