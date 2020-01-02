@@ -34,5 +34,7 @@ hero_media = ""
   text_color_light = false
 
 +++
-  Our paper is  accepted by TMC
-  Another paper is accepted by INFOCOM
+<ul>
+<li>Coffee</li>
+<li>Milk</li>
+</ul>
