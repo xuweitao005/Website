@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 120  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "News"
 subtitle = ""
@@ -56,7 +56,7 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  text_color_light = false  
   
 [advanced]
  # Custom CSS. 
@@ -65,7 +65,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
 <ul>
-<li>Coffee</li>
-<li>Milk</li>
+<li>2019.10 Our paper entitled "WiEnhance: Towards Data Augmentation in Human Activity Recognition using WiFi signal " has been accepted by IEEE MSN!</li>
+<li>2019.10 Our paper entitled "Gait Recognition as a Service for Unobtrusive User Identification in Smart Spaces " has been accepted by ACM Transactions on Internet of Things!</li>
+<li>2019.10 Our paper entitled "Measurement, Characterization and Modeling of LoRa Technology in Multi-floor Buildings " has been accepted by IEEE IoT Journal (impact factor 5.863)!</li>
+<li>2019.09  Invited to serve on the Associate Editor of Ad Hoc Networks (IF:3.49, SJR Q1 journal). Please consider submitting your paper to Ad Hoc Networks https://www.journals.elsevier.com/ad-hoc-networks </li>
 </ul>
