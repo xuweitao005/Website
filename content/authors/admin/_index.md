@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-I'm an Assistant Professor at the Department of Computer Science at City University of Hong Kong. Before that, I worked as a Postdoctoral Research Associate at the School of Computer Science and Engineering (CSE) at UNSW from June 2017 to August 2019.  I obtained my PhD degree from the University of Queensland in 2017 (advised by Prof. <a href="https://scholar.google.com.au/citations?user=M7kg0MQAAAAJ&hl=en">Neil Bergmann</a> [Neil Bergmann](https://scholar.google.com.au/citations?user=M7kg0MQAAAAJ&hl=en)and Prof. <a href="https://sites.google.com/site/wenhuunsw/">Wen Hu</a>) [Wen Hu](https://sites.google.com/site/wenhuunsw/).  I received my B.E. degree in Communication Engineering and M.E. degree in Communication and Information System (advised by Prof. Dongfeng Yuan) both from the School of Information Science and Engineering, Shandong University (SDU) , China, in 2010 and 2013, respectively. 
+I'm an Assistant Professor at the Department of Computer Science at City University of Hong Kong. Before that, I worked as a Postdoctoral Research Associate at the School of Computer Science and Engineering (CSE) at UNSW from June 2017 to August 2019.  I obtained my PhD degree from the University of Queensland in 2017 (advised by Prof. [Neil Bergmann](https://scholar.google.com.au/citations?user=M7kg0MQAAAAJ&hl=en)and Prof. [Wen Hu](https://sites.google.com/site/wenhuunsw/).  I received my B.E. degree in Communication Engineering and M.E. degree in Communication and Information System both from the School of Information Science and Engineering, Shandong University (SDU) , China, in 2010 and 2013, respectively. 
 
 <p><span2>[Recruitment]</span2>  I am looking for self-motivated PhD students to join my group. Successful candidates will conduct research in Internet-of-Things (IoT), IoT+AI, IoT security, Low-power Wide-area Network (LPWAN). Please contact me if you're interested.</p>
 <style>
@@ -77,4 +77,5 @@ I'm an Assistant Professor at the Department of Computer Science at City Univers
         </style>
 
 **Email:** weitaoxu@cityu.edu.hk
+
 **Address:** Room B6421, 6/F, Department of Computer Science, Yeung Kin Man Academic Building,  City University of Hong Kong, Kowloon Tong, Hong Kong
