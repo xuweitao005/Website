@@ -10,16 +10,19 @@ header:
 
 1. Face recognition on smart glasses.
 
-
 {{< youtube lVRS4e3Glho >}}
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/watch?v=lVRS4e3Glho" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+2. Key generation for wearable devices.
 
+{{< youtube YBFBJrNZy48 >}}
 
+3. Smartglass-based eye tracking
 
-<img src="apple.jpg" alt="Pulpit rock" width="304" height="228">
+{{< youtube WsaONHEoEn0&feature=youtu.be >}}
+
+4. Key generation for LoRa
+
+{{< youtube vzbsZ9wSE4k >}}
              
 
              
