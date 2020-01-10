@@ -9,11 +9,12 @@ header:
 ---
 
 1. Face recognition on smart glasses.
-<video width="320" height="240" controls>
-  <source src="demo_breath.mp4" type="video/mp4">
-</video>
 
-<embed src='https://www.youtube.com/watch?v=lVRS4e3Glho' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
 
 
 <img src="apple.jpg" alt="Pulpit rock" width="304" height="228">
