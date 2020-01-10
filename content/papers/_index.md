@@ -1,5 +1,15 @@
+---
+title: Publications
+layout: docs  # Do not modify.
 
-<b>Journal Articles </b><br><br>
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
+<br><br>
+<b>Journal Articles </b>
+<br><br>
 <ol>
   <li>[TIOT] Chengwen Luo , Jiawei Wu,   Jianqiang Li*,   Jia Wang, Weitao Xu, Bo Wei, Wei Li, Zhong Ming,   Albert Y. Zomaya, Gait Recognition as a Service for Unobtrusive User Identification in Smart Spaces, ACM Transactions on Internet of Things, accepted in Oct 2019.</li>
   <li>[IEEE IoT Journal] Weitao Xu, Jun Young Kim, Member, IEEE, Walter Huang, Salil Kanhere, Sanjay Jha, Wen Hu, Measurement, Characterization and Modeling of LoRa Technology in Multi-floor Buildings, IEEE IoT Journal (SCI IF: 5.863), in-press, accepted in Oct 2019.</li>
@@ -17,9 +27,9 @@
 <li>[IJASUC] Weitao Xu, Liangfei Xue, Dongfeng Yuan, "Design and Implementation of Intelligent Community System based on Thin Client and Cloud Computing" International Journal of Ad Hoc, Sensor & Ubiquitous Computing; Vol. 5 Issue 4, Aug 2014.</li>
 </ol>
 
-
-
-<b>Conference Papers </b><br><br>
+<br><br>
+<b>Conference Papers </b>
+<br><br>
 
 
 <ol>
@@ -41,13 +51,9 @@
 <li>[EWSN' 2016] Yongtuo Zhang, Wen hu, Weitao xu, Hongkai wen, Chun Tung Chou. "NaviGlass: Indoor Localisation Using Smart Glasses", TU Graz, Austria, 2016.02.15-17</li>
 </ol>
  
-
-
- 
-
-
-
-<b>Posters</b><br><br>
+<br><br>
+<b>Posters</b>
+<br><br>
 
 <ol>
   <li>[Sensys' 2018] Jun Liu, Weitao Xu, Wen Hu. "Poster Abstract: Energy Efficient LPWAN Decoding via Joint Sparse Approximation"</li>
@@ -57,11 +63,11 @@
 <li>[SenSys 2015 Doctoral Colloquium (DC)] Weitao Xu "Mobile applications based on smart wearable devices".</li>
 <li>[SenSys' 2015] Weitao Xu, Yiran Shen, Neil Bergmann, Wen Hu, "Poster Abstract: Robust and Efficient Sensor-assistedFace Recognition System on Smart Glass".</li>
 <li>[NDSS' 2017] Qi Lin, Yesheng Cui, Shanqing Jiang, Tengyu Ma, Weitao Xu, Wen Hu, "Poster: Automatic Key Generation Using Motion Energy Harvesters".</li>
-<li>Milk</li>
 </ol>
 
-
-<b>Book Chapter</b><br><br>
+<br><br>
+<b>Book Chapter</b>
+<br><br>
 
 <ol>
   <li>Weitao Xu, Guohao Lan,"Smart Authentication System for Personal Wearable Devices". In Book "Wireless Body Area Networks - Enabling Technologies and Emerging Applications".</li>
