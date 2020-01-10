@@ -15,8 +15,8 @@
 
 
 [[main]]
-  name = "Projects"
-  url = "projects/"
+  name = "Demos"
+  url = "demos/"
   weight = 30
 
 [[main]]
@@ -27,17 +27,17 @@
 
 [[main]]
   name = "Teaching"
-  url = "courses/"
+  url = "teaching/"
   weight = 50
 
 [[main]]
-  name = "Honors"
-  url = "honors/"
+  name = "Awards"
+  url = "awards/"
   weight = 60
 
 [[main]]
-  name = "My Team"
-  url = "team/"
+  name = "Students"
+  url = "students/"
   weight = 70
 
 
