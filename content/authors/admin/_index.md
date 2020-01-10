@@ -79,5 +79,3 @@ My research interest lies in inventing innovative technologies and systems for I
         </style>
 
 **Email:** weitaoxu@cityu.edu.hk
-
-**Address:** Room B6421, 6/F, Department of Computer Science, City University of Hong Kong, Hong Kong
