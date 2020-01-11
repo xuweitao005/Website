@@ -12,8 +12,8 @@ header:
 <ul>
 <li>[INFOCOM 2019] "Brush like a Dentist: Accurate Monitoring of Toothbrushing via Wrist-Worn Gesture Sensing", Chengwen Luo, Xingyu Feng, Junliang Chen, Weitao Xu, Jianqiang Li, Wei Li, Li Zhang, Zahir Tari, Albert Y. Zomaya, .</li>
 </ul>
-<img border="0" src="/static/img/INFOCOM2019_brush.png" width="304" height="228">
-<img border="0" src="/static/img/INFOCOM2019_overview.png" width="304" height="228">
+<img border="0" src="/static/img/INFOCOM2019_brush.png">
+<img border="0" src="INFOCOM2019_overview.png">
 
 
 <br><br>
