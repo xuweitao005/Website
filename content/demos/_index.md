@@ -5,7 +5,7 @@ layout: docs  # Do not modify.
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "headers/wearable"
 ---
 
 1. Face recognition on smart glasses.
@@ -16,11 +16,11 @@ header:
 
 {{< youtube YBFBJrNZy48 >}}
 
-3. Smartglass-based eye tracking
+3. Smartglass-based eye tracking.
 
 {{< youtube WsaONHEoEn0&feature=youtu.be >}}
 
-4. Key generation for LoRa
+4. Key generation for LoRa.
 
 {{< youtube vzbsZ9wSE4k >}}
              
