@@ -65,10 +65,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-*2019.10 Our paper entitled "WiEnhance: Towards Data Augmentation in Human Activity Recognition using WiFi signal " has been accepted by IEEE MSN!
+*2019.09 Our paper entitled "Securing Cyber-Physical Social Interactions on Wrist-worn Devices" has been accepted by IEEE TOSN!
 
-*2019.10 Our paper entitled "Gait Recognition as a Service for Unobtrusive User Identification in Smart Spaces " has been accepted by ACM Transactions on Internet of Things!
+*2019.10 Our paper entitled "WiEnhance: Towards Data Augmentation in Human Activity Recognition using WiFi signal" has been accepted by IEEE MSN!
 
-*2019.10 Our paper entitled "Measurement, Characterization and Modeling of LoRa Technology in Multi-floor Buildings " has been accepted by IEEE IoT Journal (impact factor 5.863)!
+*2019.10 Our paper entitled "Gait Recognition as a Service for Unobtrusive User Identification in Smart Spaces" has been accepted by ACM Transactions on Internet of Things!
 
-*2019.09  Invited to serve on the Associate Editor of Ad Hoc Networks (IF:3.49, SJR Q1 journal). Please consider submitting your paper to Ad Hoc Networks https://www.journals.elsevier.com/ad-hoc-networks 
+*2019.10 Our paper entitled "Measurement, Characterization and Modeling of LoRa Technology in Multi-floor Buildings" has been accepted by IEEE IoT Journal (impact factor 5.863)!
