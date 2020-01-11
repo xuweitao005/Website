@@ -5,14 +5,14 @@ layout: docs  # Do not modify.
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "wearable"
-  image: "/headers/bubbles-wide2"
+  image: "/headers/bubbles-wide2.jpg"
 ---
 <br><br>
 <h2>1. Smartwatch-based brushing monitoring system.</h2>
 <ul>
 <li>[INFOCOM 2019] "Brush like a Dentist: Accurate Monitoring of Toothbrushing via Wrist-Worn Gesture Sensing", Chengwen Luo, Xingyu Feng, Junliang Chen, Weitao Xu, Jianqiang Li, Wei Li, Li Zhang, Zahir Tari, Albert Y. Zomaya, .</li>
 </ul>
-<img border="0" src="/static/img/INFOCOM2019_brush.png">
+<img border="0" src="/img/INFOCOM2019_brush.png">
 <img border="0" src="INFOCOM2019_overview.png">
 
 
