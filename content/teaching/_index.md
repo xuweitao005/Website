@@ -14,5 +14,5 @@ header:
 <li>2019: Guest Lecturer, Network Security, University of New South Wales</li>
 <li>2017: Lecturer/Tutor, Web, Spreadsheets and Databases, University of New South Wales</li>
 <li>2016: Tutor, Internet of Things Experimental Design Studio, University of New South Wales</li>
-<li>2014： Demonstrator, Wireless sensor network, University of Queensland</li>
+<li>2014: Demonstrator, Wireless sensor network, University of Queensland</li>
 </ul>

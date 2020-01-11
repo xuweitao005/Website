@@ -13,7 +13,7 @@ header:
 <li>2016: Google PhD Fellowship Award (1/52 all over the world)</li>
 <li>2016: IPSN' 2016 Best Paper Runner-up Award</li>
 <li>2016: Percom 2016 Best Work-in-Progress Paper Award</li>
-<li>2016： CPS Week 2016 Conference Travel Fund</li>
+<li>2016: CPS Week 2016 Conference Travel Fund</li>
 <li>2015: Sensys Conference Travel Fund </li>
 <li>2013: The China Scholarship Council(CSC) Scholarship</li>
 <li>2013: The CSIRO Top-up Scholarship</li>
