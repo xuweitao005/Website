@@ -1,3 +1,12 @@
+---
+title: Projects
+layout: docs  # Do not modify.
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
 <img border="0" src="bubbles-wide2.jpg">
 <br><br>
 <h2>1. Smartwatch-based brushing monitoring system.</h2>
