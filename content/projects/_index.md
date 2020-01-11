@@ -9,7 +9,7 @@ header:
 ---
 <img border="0" src="header.jpg">
 <br><br>
-<h2>1. Smartwatch-based brushing monitoring system.</h2>
+<h2>1. Smartwatch-based toothbrushing monitoring system.</h2>
 <ul>
 <li>[INFOCOM 2019] "Brush like a Dentist: Accurate Monitoring of Toothbrushing via Wrist-Worn Gesture Sensing", Chengwen Luo, Xingyu Feng, Junliang Chen, Weitao Xu, Jianqiang Li, Wei Li, Li Zhang, Zahir Tari, Albert Y. Zomaya, .</li>
 </ul>
