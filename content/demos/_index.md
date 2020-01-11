@@ -18,7 +18,7 @@ header:
 
 3. Smartglass-based eye tracking.
 
-{{< youtube WsaONHEoEn0&feature=youtu.be >}}
+{{< youtube WsaONHEoEn0 >}}
 
 4. Key generation for LoRa.
 
