@@ -7,14 +7,14 @@ header:
   caption: ""
   image: ""
 ---
-<br><br>
+<br>
 <b>Journal Articles </b>
-<br><br>
+<br>
 <ol>
-  <li>[TIOT] Chengwen Luo , Jiawei Wu,   Jianqiang Li*,   Jia Wang, Weitao Xu, Bo Wei, Wei Li, Zhong Ming,   Albert Y. Zomaya, Gait Recognition as a Service for Unobtrusive User Identification in Smart Spaces, ACM Transactions on Internet of Things, accepted in Oct 2019.</li>
-  <li>[IEEE IoT Journal] Weitao Xu, Jun Young Kim, Member, IEEE, Walter Huang, Salil Kanhere, Sanjay Jha, Wen Hu, Measurement, Characterization and Modeling of LoRa Technology in Multi-floor Buildings, IEEE IoT Journal (SCI IF: 5.863), in-press, accepted in Oct 2019.</li>
-  <li>[TIOT] Guohao Lan, Dong Ma, Weitao Xu, Mahbub Hassan, Wen Hu, Capacitor based activity sensing for kinetic powered wearable IoTs . ACM Transactions on Internet of Things, in-press, accepted in July 2019.</li>
-<li>[TITS] Guohao Lan, Weitao Xu*, Dong Ma, Sara Khalifa, Mahbub Hassan, Wen Hu, EnTrans: Leveraging Kinetic Energy Harvesting Signal for Transportation Mode Detection. IEEE Transactions on Intelligent Transformation System (SCI, IF:4.051), in-press, accepted in May 2019.</li>
+  <li>[TIOT] Chengwen Luo, Jiawei Wu, Jianqiang Li*, Jia Wang, **Weitao Xu**, Bo Wei, Wei Li, Zhong Ming, Albert Y. Zomaya, Gait Recognition as a Service for Unobtrusive User Identification in Smart Spaces, ACM Transactions on Internet of Things, accepted in Oct 2019.</li>
+  <li>[IEEE IoT Journal] **Weitao Xu**, Jun Young Kim, Member, IEEE, Walter Huang, Salil Kanhere, Sanjay Jha, Wen Hu, Measurement, Characterization and Modeling of LoRa Technology in Multi-floor Buildings, IEEE IoT Journal (SCI IF: 5.863), in-press, accepted in Oct 2019.</li>
+  <li>[TIOT] Guohao Lan, Dong Ma, Weitao Xu, Mahbub Hassan, Wen Hu, Capacitor based activity sensing for kinetic powered wearable IoTs, ACM Transactions on Internet of Things, in-press, accepted in July 2019.</li>
+<li>[TITS] Guohao Lan, **Weitao Xu***, Dong Ma, Sara Khalifa, Mahbub Hassan, Wen Hu, EnTrans: Leveraging Kinetic Energy Harvesting Signal for Transportation Mode Detection. IEEE Transactions on Intelligent Transformation System (SCI, IF:4.051), in-press, accepted in May 2019.</li>
 <li>[IEEE ACCESS] Weitao Xu, Xingyu Feng, Jia Wang, Chengwen Luo, Jianqiang Li, Zhong Ming,  Energy Harvesting-based Smart Transportation Mode Detection System Via Attention-based LSTM. IEEE ACCESS (SCI IF:4.098), In-press, accepted in May 2019.</li>
 <li>[IEEE IoT Journal] Weitao Xu,  Jin Zhang, Jun Young Kim, Salil Kanhere, Sanjay Jha, Wen Hu,  The Design, Implementation, and Deployment of a Smart Lighting System for Smart Buildings . IEEE IoT Journal (SCI IF: 5.863), Volume: 6, Issue:4, pp. 7266-7281 , August 2019.</li>
 <li>[IEEE IoT Journal] Weitao Xu, Sanjay Jha, Wen Hu,  LoRa-Key: Secure Key Generation System for LoRa-based Network . IEEE IoT Journal (SCI IF: 5.863), Volume: 6, Issue:4, pp. 6404-6416, December 2018. </li>
@@ -27,11 +27,9 @@ header:
 <li>[IJASUC] Weitao Xu, Liangfei Xue, Dongfeng Yuan, "Design and Implementation of Intelligent Community System based on Thin Client and Cloud Computing" International Journal of Ad Hoc, Sensor & Ubiquitous Computing; Vol. 5 Issue 4, Aug 2014.</li>
 </ol>
 
-<br><br>
+<br>
 <b>Conference Papers </b>
-<br><br>
-
-
+<br>
 <ol>
   <li>[MSN] Jin Zhang , Fuxiang Wu , Wen Hu, Qieshi Zhang , Weitao Xu, Jun Cheng, WiEnhance: Towards Data Augmentation in Human Activity Recognition using WiFi signal, IEEE MSN 2019, Hong Kong, 2019.12.11-12.13.</li>
   <li>[IPSN 2019] Qi Lin, Weitao Xu*, Jun Liu, Abdelwahed Khamis, Wen Hu, Mahbub Hassan, H2B: Heartbeat-based Secret Key Generation Using Piezo Vibration Sensors, Montreal, Canada, 2019.04.16-04.18.</li>
@@ -51,10 +49,9 @@ header:
 <li>[EWSN' 2016] Yongtuo Zhang, Wen hu, Weitao xu, Hongkai wen, Chun Tung Chou. "NaviGlass: Indoor Localisation Using Smart Glasses", TU Graz, Austria, 2016.02.15-17</li>
 </ol>
  
-<br><br>
+<br>
 <b>Posters</b>
-<br><br>
-
+<br>
 <ol>
   <li>[Sensys' 2018] Jun Liu, Weitao Xu, Wen Hu. "Poster Abstract: Energy Efficient LPWAN Decoding via Joint Sparse Approximation"</li>
   <li>[IoTDI 2018] Dong Ma, Guohao Lan, Weitao Xu, Mahbub Hassan, Wen Hu. "Demo abstract: simultaneous energy harvesting and sensing using piezoelectric energy harvester"</li>
@@ -65,10 +62,9 @@ header:
 <li>[NDSS' 2017] Qi Lin, Yesheng Cui, Shanqing Jiang, Tengyu Ma, Weitao Xu, Wen Hu, "Poster: Automatic Key Generation Using Motion Energy Harvesters".</li>
 </ol>
 
-<br><br>
+<br>
 <b>Book Chapter</b>
-<br><br>
-
+<br>
 <ol>
   <li>Weitao Xu, Guohao Lan,"Smart Authentication System for Personal Wearable Devices". In Book "Wireless Body Area Networks - Enabling Technologies and Emerging Applications".</li>
 </ol>
