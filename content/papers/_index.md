@@ -15,7 +15,7 @@ header:
   <li>[TIOT] Chengwen Luo, Jiawei Wu, Jianqiang Li*, Jia Wang, <b>Weitao Xu</b>, Bo Wei, Wei Li, Zhong Ming, Albert Y. Zomaya. "Gait Recognition as a Service for Unobtrusive User Identification in Smart Spaces", ACM Transactions on Internet of Things, accepted in Oct 2019.</li>
   <li>[IEEE IoT Journal] <b>Weitao Xu</b>, Jun Young Kim, Member, IEEE, Walter Huang, Salil Kanhere, Sanjay Jha, Wen Hu. "Measurement, Characterization and Modeling of LoRa Technology in Multi-floor Buildings", IEEE IoT Journal (SCI IF: 5.863), Volume 7, Issue 1, pages 298-310, January 2020.</li>
   <li>[TIOT] Guohao Lan, Dong Ma, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Capacitor based activity sensing for kinetic powered wearable IoTs", ACM Transactions on Internet of Things, in-press, accepted in July 2019.</li>
-<li>[TITS] Guohao Lan, <b>Weitao Xu*</b>, Dong Ma, Sara Khalifa, Mahbub Hassan, Wen Hu. "EnTrans: Leveraging Kinetic Energy Harvesting Signal for Transportation Mode Detection", IEEE Transactions on Intelligent Transformation System (SCI, IF:4.051), in-press, accepted in May 2019.</li>
+<li>[TITS] Guohao Lan, <b>Weitao Xu*</b>, Dong Ma, Sara Khalifa, Mahbub Hassan, Wen Hu. "EnTrans: Leveraging Kinetic Energy Harvesting Signal for Transportation Mode Detection", IEEE Transactions on Intelligent Transportation System (SCI, IF:4.051), in-press, accepted in May 2019.</li>
 <li>[IEEE IoT Journal] <b>Weitao Xu</b>,  Jin Zhang, Jun Young Kim, Salil Kanhere, Sanjay Jha, Wen Hu. "The Design, Implementation, and Deployment of a Smart Lighting System for Smart Buildings". IEEE IoT Journal (SCI IF: 5.863), Volume: 6, Issue:4, pp. 7266-7281 , August 2019.</li>
 <li>[IEEE IoT Journal] <b>Weitao Xu</b>, Sanjay Jha, Wen Hu. "LoRa-Key: Secure Key Generation System for LoRa-based Network". IEEE IoT Journal (SCI IF: 5.863), Volume: 6, Issue:4, pp. 6404-6416, December 2018. </li>
 <li>[TMC] <b>Weitao Xu</b>, Guohao Lan*, Qi Lin, Sara Khalifa, Neil Bergmann, Mahbub Hassan, Wen Hu. "KEH-Gait: Using Kinetic Energy Harvesting for Gait-based User Authentication System", IEEE Transactions on Mobile Computing (SCI IF: 4.474, CCF A), volume 18, issue 1, pp. 139-152, Jan. 2019. </li>
@@ -31,6 +31,7 @@ header:
 <b>Conference Papers </b>
 <br>
 <ol>
+<li>[Ubicomp 2020] Qi Lin, <b>Weitao Xu*</b>, Guohao Lan, Hong Jia, Yesheng Cui, Wen Hu, Mahbuh Hassan, Aruna Seneviratne. "KEHKey: Kinetic Energy Harvester-based Authentication and Key Generation for Body Area Network", IMWUT 2020.</li>
   <li>[MSN] Jin Zhang, Fuxiang Wu, Wen Hu, Qieshi Zhang, <b>Weitao Xu</b>, Jun Cheng. "WiEnhance: Towards Data Augmentation in Human Activity Recognition using WiFi signal", IEEE MSN 2019, Hong Kong, 2019.12.11-12.13.</li>
   <li>[IPSN 2019] Qi Lin, <b>Weitao Xu*</b>, Jun Liu, Abdelwahed Khamis, Wen Hu, Mahbub Hassan. "H2B: Heartbeat-based Secret Key Generation Using Piezo Vibration Sensors", Montreal, Canada, 2019.04.16-04.18.</li>
   <li>[INFOCOM 2019] Chengwen Luo, Xingyu Feng, Junliang Chen, <b>Weitao Xu</b>, Jianqiang Li, Wei Li, Li Zhang, Zahir Tari, Albert Y. Zomaya. Brush like a Dentist: Accurate Monitoring of Toothbrushing via Wrist-Worn Gesture Sensing, Paris, France, 2019.04.29-05.02.</li>
