@@ -65,10 +65,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-*2019.09 Our paper entitled "Securing Cyber-Physical Social Interactions on Wrist-worn Devices" has been accepted by IEEE TOSN!
+*2020.01 Our paper entitled "KEHKey: Kinetic Energy Harvester-based Authentication and Key Generation for Body Area Network" has been accepted by IMWUT 2020!
+
+*2020.01 Our paper entitled "Securing Cyber-Physical Social Interactions on Wrist-worn Devices" has been accepted by IEEE TOSN!
 
 *2019.10 Our paper entitled "WiEnhance: Towards Data Augmentation in Human Activity Recognition using WiFi signal" has been accepted by IEEE MSN!
 
 *2019.10 Our paper entitled "Gait Recognition as a Service for Unobtrusive User Identification in Smart Spaces" has been accepted by ACM Transactions on Internet of Things!
-
-*2019.10 Our paper entitled "Measurement, Characterization and Modeling of LoRa Technology in Multi-floor Buildings" has been accepted by IEEE IoT Journal (impact factor 5.863)!
