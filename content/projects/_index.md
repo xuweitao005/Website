@@ -9,6 +9,13 @@ header:
 ---
 <img border="0" src="header.jpg">
 <br><br>
+<h2>Multi-view CNN-based animal species identification system.</h2>
+<ul>
+<li>[Ad Hoc Networks] "Multi-view CNN-based Acoustic Classifi cation System for Automatic Animal Species Identification", Weitao Xu, Xiang Zhang, Lina Yao, Wanli Xue, Bo Wei.</li>
+</ul>
+<img border="0" src="animalidentification.png" width="600" height="285">
+
+<br><br>
 <h2>Smartwatch-based toothbrushing monitoring system.</h2>
 <ul>
 <li>[INFOCOM 2019] "Brush like a Dentist: Accurate Monitoring of Toothbrushing via Wrist-Worn Gesture Sensing", Chengwen Luo, Xingyu Feng, Junliang Chen, Weitao Xu, Jianqiang Li, Wei Li, Li Zhang, Zahir Tari, Albert Y. Zomaya.</li>
