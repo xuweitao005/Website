@@ -65,8 +65,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-*2020.02 Our paper entitled "Multi-view CNN-based Acoustic Classification System for Automatic Animal Species Identification" has been accepted by Ad Hoc Networks!
-
 *2020.01 Our paper entitled "KEHKey: Kinetic Energy Harvester-based Authentication and Key Generation for Body Area Network" has been accepted by IMWUT 2020!
 
 *2020.01 Our paper entitled "Securing Cyber-Physical Social Interactions on Wrist-worn Devices" has been accepted by IEEE TOSN!
