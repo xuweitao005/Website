@@ -12,9 +12,9 @@ header:
 <br>
 <ol>
 <li>[TOSN] Yiran Shen, Bowen Du, <b>Weitao Xu</b>, Chengwen Luo, Bo Wei, Lizhen Cui, Hongkai Wen. "Securing Cyber-Physical Social Interactions on Wrist-worn Devices", ACM Transactions on Sensor Networks, accepted in Jan 2020.</li>
-  <li>[TIOT] Chengwen Luo, Jiawei Wu, Jianqiang Li*, Jia Wang, <b>Weitao Xu</b>, Bo Wei, Wei Li, Zhong Ming, Albert Y. Zomaya. "Gait Recognition as a Service for Unobtrusive User Identification in Smart Spaces", ACM Transactions on Internet of Things, accepted in Oct 2019.</li>
+  <li>[TIOT] Chengwen Luo, Jiawei Wu, Jianqiang Li*, Jia Wang, <b>Weitao Xu</b>, Bo Wei, Wei Li, Zhong Ming, Albert Y. Zomaya. "Gait Recognition as a Service for Unobtrusive User Identification in Smart Spaces", ACM Transactions on Internet of Things, Volume: 1, Issue: 1, February 2020.</li>
   <li>[IEEE IoT Journal] <b>Weitao Xu</b>, Jun Young Kim, Member, IEEE, Walter Huang, Salil Kanhere, Sanjay Jha, Wen Hu. "Measurement, Characterization and Modeling of LoRa Technology in Multi-floor Buildings", IEEE IoT Journal (SCI IF: 5.863), Volume 7, Issue 1, pages 298-310, January 2020.</li>
-  <li>[TIOT] Guohao Lan, Dong Ma, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Capacitor based activity sensing for kinetic powered wearable IoTs", ACM Transactions on Internet of Things, in-press, accepted in July 2019.</li>
+  <li>[TIOT] Guohao Lan, Dong Ma, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Capacitor based activity sensing for kinetic powered wearable IoTs", ACM Transactions on Internet of Things, Volume: 1, Issue: 1, February 2020.</li>
 <li>[TITS] Guohao Lan, <b>Weitao Xu*</b>, Dong Ma, Sara Khalifa, Mahbub Hassan, Wen Hu. "EnTrans: Leveraging Kinetic Energy Harvesting Signal for Transportation Mode Detection", IEEE Transactions on Intelligent Transportation System (SCI, IF:4.051), in-press, accepted in May 2019.</li>
 <li>[IEEE IoT Journal] <b>Weitao Xu</b>,  Jin Zhang, Jun Young Kim, Salil Kanhere, Sanjay Jha, Wen Hu. "The Design, Implementation, and Deployment of a Smart Lighting System for Smart Buildings". IEEE IoT Journal (SCI IF: 5.863), Volume: 6, Issue:4, pp. 7266-7281 , August 2019.</li>
 <li>[IEEE IoT Journal] <b>Weitao Xu</b>, Sanjay Jha, Wen Hu. "LoRa-Key: Secure Key Generation System for LoRa-based Network". IEEE IoT Journal (SCI IF: 5.863), Volume: 6, Issue:4, pp. 6404-6416, December 2018. </li>
