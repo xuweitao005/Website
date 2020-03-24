@@ -45,6 +45,12 @@ header:
 </ul>
 {{< youtube WsaONHEoEn0 >}}
 
+<br>
+<h2>Smartphone-based gait recognition system.</h2>
+<ul>
+<li>[IoTDI 2017] "Gait-Watch: A Context-aware Authentication System for Smart Watch Based on Gait Recognition", Weitao Xu, Yiran Shen, Yongtuo Zhang, Neil Bergmann, Wen Hu.</li>
+</ul>
+{{< youtube SLCi4r99Tvw >}}
 
 <br>
 <h2>Face recognition on smart glasses.</h2>
