@@ -11,6 +11,8 @@ header:
 <b>Services: </b>
 <br><br>
 <ul>
+<li>2020: TPC member of IEEE ARM (Robotics and Automation Society) 2020</li>
+<li>2020: TPC member of ACAIT (Asian Conference on Artificial Intelligence Technology) 2020</li>
 <li>2020: TPC member of IoTDI 2020</li>
 <li>2019: Associate Editor of Ad Hoc Networks</li>
 <li>2018: TPC member of IEEE EWSN CoWireless Workshop</li>
