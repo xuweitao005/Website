@@ -36,6 +36,7 @@ header:
   <li>[MSN] Jin Zhang, Fuxiang Wu, Wen Hu, Qieshi Zhang, <b>Weitao Xu</b>, Jun Cheng. "WiEnhance: Towards Data Augmentation in Human Activity Recognition using WiFi signal", IEEE MSN 2019, Hong Kong, 2019.12.11-12.13.</li>
   <li>[IPSN 2019] Qi Lin, <b>Weitao Xu*</b>, Jun Liu, Abdelwahed Khamis, Wen Hu, Mahbub Hassan. "H2B: Heartbeat-based Secret Key Generation Using Piezo Vibration Sensors", Montreal, Canada, 2019.04.16-04.18.</li>
   <li>[INFOCOM 2019] Chengwen Luo, Xingyu Feng, Junliang Chen, <b>Weitao Xu</b>, Jianqiang Li, Wei Li, Li Zhang, Zahir Tari, Albert Y. Zomaya. Brush like a Dentist: Accurate Monitoring of Toothbrushing via Wrist-Worn Gesture Sensing, Paris, France, 2019.04.29-05.02.</li>
+<li>[TrustCom 2018] Weitao Xu, Sanjay Jha, Wen Hu, Exploring the Feasibility of Physical Layer Key Generation for LoRaWAN, New York, USA, 2018.7.31-2018.8.03.</li>
 <li>[IoTDI 2018] Dong Ma, Guohao Lan, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. SEHS: Simultaneous Energy Harvesting and Sensing using Piezoelectric Energy Harvester, Florida, USA, 2018.04.17-20</li>
 <li>[Percom 2018] Yiran Shen, Fengyuan Yang, Bowen Du, <b>Weitao Xu</b>, Chengwen Luo and Hongkai Wen. "Shake-n-Shack: Enabling Data Exchange Between Smart Wearables via Handshakes", Athens, Greece, 2018.3.19-23.</li>
 <li>[Ubicomp' 2018] Yongtuo Zhang, Wen Hu, <b>Weitao Xu</b>, Chun Tong Chou. “Continuous Authentication Using Eye Movement Response of Implicit Visual Stimuli”, Singapore, 2018.10.09-11</li>

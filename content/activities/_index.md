@@ -35,7 +35,7 @@ header:
 <br><br>
 <b>Reviewer For: </b>
 <br><br>
-Sensys, IPSN, Ubicomp, Percom, EWSN, LCN, ICC, WCNC, Mobiquitous
+Sensys, IPSN, Ubicomp, Percom, EWSN, LCN, ICC, WCNC, Mobiquitous, IoTDI etc.
 
 IEEE Transactions on mobile computing (TMC)
 
@@ -46,6 +46,8 @@ IEEE Transactions on Dependable and Secure Computing (TDSC)
 IEEE Transactions on Information Forensics & Security (TIFS)
 
 IEEE Transactions on Automation Science and Engineering
+
+IEEE Transactions on Vehicular Technology (TVT)
 
 IEEE Communications Magazine
 
