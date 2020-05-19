@@ -73,10 +73,10 @@ I'm an Assistant Professor at the Department of Computer Science at City Univers
 <span2>[Recruitment]</span2>  I am looking for self-motivated PhD students to join my group. I have relatively broad research interests, but generally my previous research focuses on IoT such as smart sensing, IoT security, IoT+AI, wireless network etc. Check out my previous projects [here](https://www.weitaoxu.com/projects/). If you are interested in my research direction, please visit [Recruitment](https://www.weitaoxu.com/recruitment/) for more details.
 
 <style>
-            span2 {
-                color: red;
-            }
-        </style>
+span2 {
+color: red;
+ }
+</style>
 
 
 **Email:** weitaoxu@cityu.edu.hk
