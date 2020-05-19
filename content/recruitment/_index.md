@@ -15,4 +15,5 @@ header:
 <li>Master/Bachelor in computer science, communication engineering, information technology, electronice engineering or any other related subjects. Average GPA Score should >=80 (total 100) or 3.0 (total 4.0)</li>
 <li>Solid foundation, good programming ability, enthusiasm for research, and hard working. Project/research experience is a plus.</li>
 <li>Drop me an email with your CV, transcripts (both in Engish and Chinese), and other materials if any. Although I might not reply every email, I do read them and will reply if I'm interested.</li>
+<li>For more details about how to apply CityU PhD program, please visit <a href="https://www.cityu.edu.hk/pg/research-degree-programmes" style="color:blue;">here</a>, or Hong Kong PhD fellowship scheme (HKPFS) from <a href="https://www.cityu.edu.hk/pg/hong-kong-phd-fellowship-scheme" style="color:blue;">here</a> (HKPFS is for excellent PhD applicants and highly competitive. It needs to be applied separately)</li>
 </ul>
