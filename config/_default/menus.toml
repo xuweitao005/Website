@@ -40,6 +40,10 @@
   url = "students/"
   weight = 70
 
+[[main]]
+  name = "Recruitment"
+  url = "recruitment/"
+  weight = 80
 
 
 
