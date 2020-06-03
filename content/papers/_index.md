@@ -11,7 +11,8 @@ header:
 <b>Journal Articles </b>
 <br>
 <ol>
-<li>[Ad Hoc Networks] Weitao Xu, Xiang Zhang, Lina Yao, Wanli Xue, Bo Wei. "Multi-view CNN-based Acoustic Classifi cation System for Automatic Animal Species Identification", Ad Hoc Networks, accepted in Feb 2020. <a href="https://arxiv.org/abs/2002.09821" target="_blank">[PDF]</a></li>
+<li>[Ad Hoc Networks] <b>Weitao Xu</b>, Yiran Shen, Chengwen Luo, Jianqiang Li, Wei Li, Albert Y. Zomaya. "Gait-Watch: A Gait-based Context-aware Authentication System for Smart Watch via Sparse Coding", Ad Hoc Networks, accepted in May 2020.</li>
+<li>[Ad Hoc Networks] <b>Weitao Xu</b>, Xiang Zhang, Lina Yao, Wanli Xue, Bo Wei. "Multi-view CNN-based Acoustic Classifi cation System for Automatic Animal Species Identification", Ad Hoc Networks, accepted in Feb 2020. <a href="https://arxiv.org/abs/2002.09821" target="_blank">[PDF]</a></li>
 <li>[TOSN] Yiran Shen, Bowen Du, <b>Weitao Xu</b>, Chengwen Luo, Bo Wei, Lizhen Cui, Hongkai Wen. "Securing Cyber-Physical Social Interactions on Wrist-worn Devices", ACM Transactions on Sensor Networks, accepted in Jan 2020.</li>
   <li>[TIOT] Chengwen Luo, Jiawei Wu, Jianqiang Li*, Jia Wang, <b>Weitao Xu</b>, Bo Wei, Wei Li, Zhong Ming, Albert Y. Zomaya. "Gait Recognition as a Service for Unobtrusive User Identification in Smart Spaces", ACM Transactions on Internet of Things, Volume: 1, Issue: 1, February 2020.</li>
   <li>[IEEE IoT Journal] <b>Weitao Xu</b>, Jun Young Kim, Member, IEEE, Walter Huang, Salil Kanhere, Sanjay Jha, Wen Hu. "Measurement, Characterization and Modeling of LoRa Technology in Multi-floor Buildings", IEEE IoT Journal (SCI IF: 5.863), Volume 7, Issue 1, pages 298-310, January 2020.</li>
