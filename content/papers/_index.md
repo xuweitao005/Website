@@ -33,8 +33,9 @@ header:
 <b>Conference Papers </b>
 <br>
 <ol>
+<li>[IROS 2020] Bo Wei, <b>Weitao Xu*</b>, Chengwen Luo, Guillaume Zoppi, Dong Ma, Sen Wang. "SolarSLAM: Battery-free Loop Closure for Indoor Localisation", IROS 2020.</li>
 <li>[Ubicomp 2020] Qi Lin, <b>Weitao Xu*</b>, Guohao Lan, Hong Jia, Yesheng Cui, Wen Hu, Mahbuh Hassan, Aruna Seneviratne. "KEHKey: Kinetic Energy Harvester-based Authentication and Key Generation for Body Area Network", IMWUT 2020.</li>
-  <li>[MSN] Jin Zhang, Fuxiang Wu, Wen Hu, Qieshi Zhang, <b>Weitao Xu</b>, Jun Cheng. "WiEnhance: Towards Data Augmentation in Human Activity Recognition using WiFi signal", IEEE MSN 2019, Hong Kong, 2019.12.11-12.13.</li>
+  <li>[MSN 2019] Jin Zhang, Fuxiang Wu, Wen Hu, Qieshi Zhang, <b>Weitao Xu</b>, Jun Cheng. "WiEnhance: Towards Data Augmentation in Human Activity Recognition using WiFi signal", IEEE MSN 2019, Hong Kong, 2019.12.11-12.13.</li>
   <li>[IPSN 2019] Qi Lin, <b>Weitao Xu*</b>, Jun Liu, Abdelwahed Khamis, Wen Hu, Mahbub Hassan. "H2B: Heartbeat-based Secret Key Generation Using Piezo Vibration Sensors", Montreal, Canada, 2019.04.16-04.18.</li>
   <li>[INFOCOM 2019] Chengwen Luo, Xingyu Feng, Junliang Chen, <b>Weitao Xu</b>, Jianqiang Li, Wei Li, Li Zhang, Zahir Tari, Albert Y. Zomaya. Brush like a Dentist: Accurate Monitoring of Toothbrushing via Wrist-Worn Gesture Sensing, Paris, France, 2019.04.29-05.02.</li>
 <li>[TrustCom 2018] Weitao Xu, Sanjay Jha, Wen Hu, Exploring the Feasibility of Physical Layer Key Generation for LoRaWAN, New York, USA, 2018.7.31-2018.8.03.</li>
