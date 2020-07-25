@@ -7,7 +7,15 @@ header:
   caption: ""
   image: ""
 ---
-<b>Joint-supervised Student's Projects: </b>
+<b>Incoming Students: </b>
+<br>
+<ul>
+<li>Mengzhe Ruan (PhD, since Sept 2020)</li>
+<li>Di Duan (PhD, since Sept 2020)</li>
+<li>Yongliang Chen (PhD, since Sept 2020)</li>
+</ul>
+<br>
+<b>Joint-supervised Students: </b>
 <br>
 <ul>
 <li>Jiayao Gao (UNSW PhD student, since 2017)</li>
