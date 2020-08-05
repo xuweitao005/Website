@@ -33,6 +33,7 @@ header:
 <b>Conference Papers </b>
 <br>
 <ol>
+<li>[Mobicom 2020] Jun Liu, <b>Weitao Xu</b>, Sanjay Jha, Wen Hu. "Nephalai: Towards LPWAN C-RAN with Physical Layer Compression", Mobicom 2020, 21-25 Sep, London, United Kingdom.</li>
 <li>[IROS 2020] Bo Wei, <b>Weitao Xu</b>, Chengwen Luo, Guillaume Zoppi, Dong Ma, Sen Wang. "SolarSLAM: Battery-free Loop Closure for Indoor Localisation", IROS 2020.</li>
 <li>[Ubicomp 2020] Qi Lin, <b>Weitao Xu*</b>, Guohao Lan, Hong Jia, Yesheng Cui, Wen Hu, Mahbuh Hassan, Aruna Seneviratne. "KEHKey: Kinetic Energy Harvester-based Authentication and Key Generation for Body Area Network", IMWUT 2020.</li>
   <li>[MSN 2019] Jin Zhang, Fuxiang Wu, Wen Hu, Qieshi Zhang, <b>Weitao Xu</b>, Jun Cheng. "WiEnhance: Towards Data Augmentation in Human Activity Recognition using WiFi signal", IEEE MSN 2019, Hong Kong, 2019.12.11-12.13.</li>

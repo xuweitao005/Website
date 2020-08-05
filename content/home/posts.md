@@ -67,7 +67,7 @@ subtitle = ""
 +++
 *2020.07 Invited to serve on the TPC of EWSN 2020!
 
-*2020.06 Our paper entitled "Nephalai: Towards LPWAN C-RAN with Physical Layer Compression" has been conditionally accepted by Mobicom 2020!
+*2020.06 Our paper entitled "Nephalai: Towards LPWAN C-RAN with Physical Layer Compression" has been accepted by Mobicom 2020!
 
 *2020.06 Our paper entitled "SolarSLAM: Battery-free Loop Closure for Indoor Localisation" has been accepted by IROS 2020!
 
