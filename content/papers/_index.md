@@ -11,7 +11,7 @@ header:
 <b>Journal Articles </b>
 <br>
 <ol>
-<li>[CSUR] <b>Weitao Xu</b>, Junqing Zhang, Shunqi Huang, Chengwen Luo, Wei Li. "Key Generation for Internet of Things: A Contemporary Survey". ACM Computing Surveys, accepted in Oct 2020. (IF: 7.99, 中科院一区)</li>
+<li>[CSUR] <b>Weitao Xu</b>, Junqing Zhang, Shunqi Huang, Chengwen Luo, Wei Li. "Key Generation for Internet of Things: A Contemporary Survey". ACM Computing Surveys, accepted in Oct 2020. (IF: 7.99, 中科院一区) <a href="https://arxiv.org/abs/2007.15956" target="_blank">[PDF]</a></li>
 <li>[TITS] Guohao Lan, <b>Weitao Xu*</b>, Dong Ma, Sara Khalifa, Mahbub Hassan, Wen Hu. "EnTrans: Leveraging Kinetic Energy Harvesting Signal for Transportation Mode Detection". IEEE Transactions on Intelligent Transportation System, Volume 21, Issue 7, pp. 2816-2827, July 2020. (IF: 6.319, CCF B, 中科院一区)</li>
 <li>[Ad Hoc Networks] <b>Weitao Xu</b>, Yiran Shen, Chengwen Luo, Jianqiang Li, Wei Li, Albert Y. Zomaya. "Gait-Watch: A Gait-based Context-aware Authentication System for Smart Watch via Sparse Coding". Ad Hoc Networks, Volume 107, June 2020. (IF: 3.643, CCF C, 中科院二区) <a href="https://www.sciencedirect.com/science/article/pii/S1570870520300287?dgcid=author" target="_blank">[PDF]</a></li>
 <li>[Ad Hoc Networks] <b>Weitao Xu</b>, Xiang Zhang, Lina Yao, Wanli Xue, Bo Wei. "Multi-view CNN-based Acoustic Classification System for Automatic Animal Species Identification". Ad Hoc Networks, Volume 102, May 2020. (IF: 3.643, CCF C, 中科院二区)<a href="https://www.sciencedirect.com/science/article/abs/pii/S1570870519308923" target="_blank">[PDF]</a></li>
