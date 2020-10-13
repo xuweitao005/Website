@@ -65,6 +65,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+*2020.10 Our Survey "Key Generation for Internet of Things: A Contemporary Survey" has been accepted by CSUR (IF: 7.99)!
+
 *2020.07 Invited to serve on the TPC of EWSN 2020!
 
 *2020.06 Our paper entitled "Nephalai: Towards LPWAN C-RAN with Physical Layer Compression" has been accepted by Mobicom 2020!
