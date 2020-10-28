@@ -65,6 +65,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+*2020.10 Our Paper "Simultaneous Energy Harvesting and Gait Recognition using Piezoelectric Energy Harvester" has been accepted by TMC (IF: 5.115)!
+
 *2020.10 Our Survey "Key Generation for Internet of Things: A Contemporary Survey" has been accepted by CSUR (IF: 7.99)!
 
 *2020.07 Invited to serve on the TPC of EWSN 2020!
@@ -74,5 +76,3 @@ subtitle = ""
 *2020.06 Our paper entitled "SolarSLAM: Battery-free Loop Closure for Indoor Localisation" has been accepted by IROS 2020!
 
 *2020.04 Our paper entitled "Multi-view CNN-based Acoustic Classifi cation System for Automatic Animal Species Identification" has been accepted by Adhoc Networks!
-
-*2020.01 Our paper entitled "KEHKey: Kinetic Energy Harvester-based Authentication and Key Generation for Body Area Network" has been accepted by IMWUT 2020!
