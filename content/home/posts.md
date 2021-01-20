@@ -65,6 +65,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+*2021.1  We have two papers accepted by IPSN 2021!
+
 *2020.10 Our Paper "Simultaneous Energy Harvesting and Gait Recognition using Piezoelectric Energy Harvester" has been accepted by TMC (IF: 5.115)!
 
 *2020.10 Our Survey "Key Generation for Internet of Things: A Contemporary Survey" has been accepted by CSUR (IF: 7.99)!
@@ -74,5 +76,3 @@ subtitle = ""
 *2020.06 Our paper entitled "Nephalai: Towards LPWAN C-RAN with Physical Layer Compression" has been accepted by Mobicom 2020!
 
 *2020.06 Our paper entitled "SolarSLAM: Battery-free Loop Closure for Indoor Localisation" has been accepted by IROS 2020!
-
-*2020.04 Our paper entitled "Multi-view CNN-based Acoustic Classifi cation System for Automatic Animal Species Identification" has been accepted by Adhoc Networks!
