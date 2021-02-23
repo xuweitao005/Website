@@ -35,8 +35,8 @@ header:
 <b>Conference Papers </b>
 <br>
 <ol>
-<li>[IPSN 2021] <b>Weitao Xu</b>, Zhenjiang Li, Wanli Xue, Xiaotong Yu, Bo Wei, Jia Wang, Chengwen Luo, Wei Li, Albert Y. Zomaya. "Nephalai: Towards LPWAN C-RAN with Physical Layer Compression", IPSN 2021, MAY 18-21, 2021, Nashville, Tennessee, USA. (CCF B)</li>
-<li>[IPSN 2021] Jiayao Gao, <b>Weitao Xu</b>, Salil Kanhere, Sanjay Jha, Wen Hu. "Nephalai: Towards LPWAN C-RAN with Physical Layer Compression", IPSN 2021, MAY 18-21, 2021, Nashville, Tennessee, USA. (CCF B)</li>
+<li>[IPSN 2021] <b>Weitao Xu</b>, Zhenjiang Li, Wanli Xue, Xiaotong Yu, Bo Wei, Jia Wang, Chengwen Luo, Wei Li, Albert Y. Zomaya. "InaudibleKey: Generic Inaudible Acoustic Signal based Key Agreement Protocol for Mobile Devices", IPSN 2021, MAY 18-21, 2021, Nashville, Tennessee, USA. (CCF B)</li>
+<li>[IPSN 2021] Jiayao Gao, <b>Weitao Xu</b>, Salil Kanhere, Sanjay Jha, Wen Hu. "A Novel Model-Based Security Scheme for LoRa Key Generation", IPSN 2021, MAY 18-21, 2021, Nashville, Tennessee, USA. (CCF B)</li>
 <li>[Mobicom 2020] Jun Liu, <b>Weitao Xu</b>, Sanjay Jha, Wen Hu. "Nephalai: Towards LPWAN C-RAN with Physical Layer Compression", Mobicom 2020, 21-25 Sep, London, United Kingdom. (CCF A)<a href="https://arxiv.org/abs/2008.02599" target="_blank">[PDF]</a></li>
 <li>[IROS 2020] Bo Wei, <b>Weitao Xu</b>, Chengwen Luo, Guillaume Zoppi, Dong Ma, Sen Wang. "SolarSLAM: Battery-free Loop Closure for Indoor Localisation", IROS 2020. (CCF C)</li>
 <li>[Ubicomp 2020] Qi Lin, <b>Weitao Xu*</b>, Guohao Lan, Hong Jia, Yesheng Cui, Wen Hu, Mahbuh Hassan, Aruna Seneviratne. "KEHKey: Kinetic Energy Harvester-based Authentication and Key Generation for Body Area Network", IMWUT 2020. (CCF A)</li>
