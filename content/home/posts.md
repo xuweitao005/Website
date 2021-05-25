@@ -65,6 +65,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+*2021.5  Our paper entitled "No Need of Data Pre-processing: A General Framework for Radio-Based Device-Free Context Awareness" has been accepted by ACM Transactions on Internet of Things!
+
 *2021.1  We have two papers accepted by IPSN 2021!
 
 *2020.10 Our Paper "Simultaneous Energy Harvesting and Gait Recognition using Piezoelectric Energy Harvester" has been accepted by TMC (IF: 5.115)!
@@ -74,5 +76,3 @@ subtitle = ""
 *2020.07 Invited to serve on the TPC of EWSN 2020!
 
 *2020.06 Our paper entitled "Nephalai: Towards LPWAN C-RAN with Physical Layer Compression" has been accepted by Mobicom 2020!
-
-*2020.06 Our paper entitled "SolarSLAM: Battery-free Loop Closure for Indoor Localisation" has been accepted by IROS 2020!
