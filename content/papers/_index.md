@@ -11,6 +11,7 @@ header:
 <b>Journal Articles </b>
 <br>
 <ol>
+<li>[IoTJ] <b>Weitao Xu</b>, Wanli Xue, Qi Lin, Guohao Lan, Xingyu Feng, Bo Wei, Chengwen Luo, Wei Li,Albert Y. Zomaya. "PrivGait: An Energy Harvesting-based Privacy-Preserving User Identification System by Gait Analysis", Accepted by IEEE Internet of Things Journal.
 <li>[TIoT] Bo Wei, Kai Li, Chengwen Luo, <b>Weitao Xu</b>, Jin Zhang, Kuan Zhang. "No Need of Data Pre-processing: A General Framework for Radio-Based Device-Free Context Awareness". Accepted by ACM Transactions on Internet of Things.
 <li>[TMC] Dong Ma, Guohao Lan, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Simultaneous Energy Harvesting and Gait Recognition using Piezoelectric Energy Harvester". IEEE Transactions on Mobile Computing, accepted in Oct 2020. (SCI IF: 5.115, CCF A, 中科院二区) <a href="https://arxiv.org/abs/2009.02752" target="_blank">[PDF]</a></li>
 <li>[CSUR] <b>Weitao Xu</b>, Junqing Zhang, Shunqi Huang, Chengwen Luo, Wei Li. "Key Generation for Internet of Things: A Contemporary Survey". ACM Computing Surveys, accepted in Oct 2020. (IF: 7.99, 中科院一区) <a href="https://arxiv.org/abs/2007.15956" target="_blank">[PDF]</a></li>
