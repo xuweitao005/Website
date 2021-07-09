@@ -11,6 +11,7 @@ header:
 <b>Journal Articles </b>
 <br>
 <ol>
+<li>[TMC] Junqing Zhang, Yushi Zheng, <b>Weitao Xu</b>, Yingying Chen. "H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals", accepted by IEEE Transactions on Mobile Computing in July 2021.
 <li>[DSP] Shuqi Liu, Wei Shao, Tan Li, <b>Weitao Xu</b>, Linqi Song. "Recent advances in biometrics-based user authentication for wearable devices: A contemporary survey", accepted by Digital Signal Processing.</li>
 <li>[IoTJ] <b>Weitao Xu</b>, Wanli Xue, Qi Lin, Guohao Lan, Xingyu Feng, Bo Wei, Chengwen Luo, Wei Li,Albert Y. Zomaya. "PrivGait: An Energy Harvesting-based Privacy-Preserving User Identification System by Gait Analysis", Accepted by IEEE Internet of Things Journal.</li>
 <li>[TIoT] Bo Wei, Kai Li, Chengwen Luo, <b>Weitao Xu</b>, Jin Zhang, Kuan Zhang. "No Need of Data Pre-processing: A General Framework for Radio-Based Device-Free Context Awareness". Accepted by ACM Transactions on Internet of Things.</li>
