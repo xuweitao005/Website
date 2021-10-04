@@ -65,6 +65,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+*2021.10  I'm so honoured to receive 2021 ACM SIGBED China Rasing Star Award!
+
+*2021.10  Congrats to Tony, we received the 2021 Ubicomp CPD Workshop Best Paper Award!
+
 *2021.5  Our paper entitled "No Need of Data Pre-processing: A General Framework for Radio-Based Device-Free Context Awareness" has been accepted by ACM Transactions on Internet of Things!
 
 *2021.1  We have two papers accepted by IPSN 2021!
