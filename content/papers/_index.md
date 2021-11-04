@@ -8,32 +8,6 @@ header:
   image: ""
 ---
 <br>
-<b>Journal Articles </b>
-<br>
-<ol>
-<li>[TMC] Junqing Zhang, Yushi Zheng, <b>Weitao Xu</b>, Yingying Chen. "H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals", accepted by IEEE Transactions on Mobile Computing in July 2021.
-<li>[DSP] Shuqi Liu, Wei Shao, Tan Li, <b>Weitao Xu</b>, Linqi Song. "Recent advances in biometrics-based user authentication for wearable devices: A contemporary survey", accepted by Digital Signal Processing.</li>
-<li>[IoTJ] <b>Weitao Xu</b>, Wanli Xue, Qi Lin, Guohao Lan, Xingyu Feng, Bo Wei, Chengwen Luo, Wei Li,Albert Y. Zomaya. "PrivGait: An Energy Harvesting-based Privacy-Preserving User Identification System by Gait Analysis", Accepted by IEEE Internet of Things Journal.</li>
-<li>[TIoT] Bo Wei, Kai Li, Chengwen Luo, <b>Weitao Xu</b>, Jin Zhang, Kuan Zhang. "No Need of Data Pre-processing: A General Framework for Radio-Based Device-Free Context Awareness". Accepted by ACM Transactions on Internet of Things.</li>
-<li>[TMC] Dong Ma, Guohao Lan, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Simultaneous Energy Harvesting and Gait Recognition using Piezoelectric Energy Harvester". IEEE Transactions on Mobile Computing, accepted in Oct 2020. (SCI IF: 5.115, CCF A) <a href="https://arxiv.org/abs/2009.02752" target="_blank">[PDF]</a></li>
-<li>[CSUR] <b>Weitao Xu</b>, Junqing Zhang, Shunqi Huang, Chengwen Luo, Wei Li. "Key Generation for Internet of Things: A Contemporary Survey". ACM Computing Surveys, accepted in Oct 2020. (IF: 7.99) <a href="https://arxiv.org/abs/2007.15956" target="_blank">[PDF]</a></li>
-<li>[TITS] Guohao Lan, <b>Weitao Xu*</b>, Dong Ma, Sara Khalifa, Mahbub Hassan, Wen Hu. "EnTrans: Leveraging Kinetic Energy Harvesting Signal for Transportation Mode Detection". IEEE Transactions on Intelligent Transportation System, Volume 21, Issue 7, pp. 2816-2827, July 2020. (IF: 6.319, CCF B)</li>
-<li>[Ad Hoc Networks] <b>Weitao Xu</b>, Yiran Shen, Chengwen Luo, Jianqiang Li, Wei Li, Albert Y. Zomaya. "Gait-Watch: A Gait-based Context-aware Authentication System for Smart Watch via Sparse Coding". Ad Hoc Networks, Volume 107, June 2020. (IF: 3.643, CCF C) <a href="https://www.sciencedirect.com/science/article/pii/S1570870520300287?dgcid=author" target="_blank">[PDF]</a></li>
-<li>[Ad Hoc Networks] <b>Weitao Xu</b>, Xiang Zhang, Lina Yao, Wanli Xue, Bo Wei. "Multi-view CNN-based Acoustic Classification System for Automatic Animal Species Identification". Ad Hoc Networks, Volume 102, May 2020. (IF: 3.643, CCF C)<a href="https://www.sciencedirect.com/science/article/abs/pii/S1570870519308923" target="_blank">[PDF]</a></li>
-<li>[TOSN] Yiran Shen, Bowen Du, <b>Weitao Xu</b>, Chengwen Luo, Bo Wei, Lizhen Cui, Hongkai Wen. "Securing Cyber-Physical Social Interactions on Wrist-worn Devices". ACM Transactions on Sensor Networks, Volume 16, Issue 2, April 2020. (SCI IF: 2.322, CCF B)</li>
-<li>[TIoT] Guohao Lan, Dong Ma, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Capacitor based activity sensing for kinetic powered wearable IoTs", ACM Transactions on Internet of Things, Volume: 1, Issue: 1, February 2020.</li>
-<li>[TIoT] Chengwen Luo, Jiawei Wu, Jianqiang Li*, Jia Wang, <b>Weitao Xu</b>, Bo Wei, Wei Li, Zhong Ming, Albert Y. Zomaya. "Gait Recognition as a Service for Unobtrusive User Identification in Smart Spaces", ACM Transactions on Internet of Things, Volume 1, Issue 1, February 2020.</li>
-<li>[IEEE IoT Journal] <b>Weitao Xu</b>, Jun Young Kim, Walter Huang, Salil Kanhere, Sanjay Jha, Wen Hu. "Measurement, Characterization and Modeling of LoRa Technology in Multi-floor Buildings". IEEE Internet of Things Journal, Volume 7, Issue 1, pp. 298-310, January 2020. (SCI IF: 9.936)</li>
-<li>[IEEE IoT Journal] <b>Weitao Xu</b>, Sanjay Jha, Wen Hu. "LoRa-Key: Secure Key Generation System for LoRa-based Network". IEEE Internet of Things Journal, Volume 6, Issue 4, pp. 6404-6416, August 2019. (SCI IF: 9.936)</li>
-<li>[IEEE IoT Journal] <b>Weitao Xu</b>, Jin Zhang, Jun Young Kim, Salil Kanhere, Sanjay Jha, Wen Hu. "The Design, Implementation, and Deployment of a Smart Lighting System for Smart Buildings". IEEE Internet of Things Journal, Volume 6, Issue 4, pp. 7266-7281 , August 2019. (SCI IF: 9.936)</li> 
-<li>[TMC] <b>Weitao Xu</b>, Guohao Lan*, Qi Lin, Sara Khalifa, Neil Bergmann, Mahbub Hassan, Wen Hu. "KEH-Gait: Using Kinetic Energy Harvesting for Gait-based User Authentication System", IEEE Transactions on Mobile Computing, volume 18, issue 1, pp. 139-152, Jan. 2019. (SCI IF: 5.115, CCF A)</li>
-<li>[TDSC] Yiran Shen, Hongkai Wen*, Chengwen Luo, <b>Weitao Xu</b>, Tao Zhang, Wen Hu and Daniela Rus. "GaitLock: Protect Virtual and Augmented Reality Headsets Using Gait", IEEE Transactions on Dependable and Secure Computing, volume 16, issue 3, pp.484-497, June 2019. (SCI IF: 6.864, CCF A)</li>
-<li>[TMC] <b>Weitao Xu</b>, Yiran Shen*, Neil Bergmann, Wen Hu. "Sensor-assisted Multi-view Face Recognition System on Smart Glass", IEEE Transactions on Mobile Computing (SCI IF: 3.822, CCF A), volume 17, issue 1, pp.197-210, Jan 2018. (SCI IF: 5.115, CCF A)</li>
-<li>[TIFS] Girish Revadigar, Chitra Javali, <b>Weitao Xu</b>, Sanjay Jha, Wen Hu. "Accelerometer and Fuzzy Vault-Based Secure Group Key Generation and Sharing Protocol for Smart Wearables", IEEE Transactions on Information Forensics & Security, volume 12, issue 10, pp. 2467-2482, Oct. 2017. (SCI IF: 6.013, CCF A)</li>
-<li>[TOSN] <b>Weitao Xu</b>, Girish Revadigar, Chengwen Luo*, Neil Bergmann, Wen Hu. "Gait-Key: A Gait-based Shared Secret Key Generation Protocol for Wearable Devices", ACM Transactions on Sensor Network, volume 13, issue 1, February 2017. (SCI IF: 2.322, CCF B) </li>
-</ol>
-
-<br>
 <b>Conference Papers </b>
 <br>
 <ol>
@@ -60,6 +34,34 @@ header:
 <li>[Percom' 2016] Girish Revadigar, Chitra Javali, <b>Weitao Xu</b>, Wen Hu, Sanjay Jha. "Secure Key Generation and Distribution Protocol for Wearable Devices". Sydney, Australia, 2016.03.14-03.18. (CCF B)</li>
 <li>[EWSN' 2016] Yongtuo Zhang, Wen hu, <b>Weitao Xu</b>, Hongkai wen, Chun Tung Chou. "NaviGlass: Indoor Localisation Using Smart Glasses", TU Graz, Austria, 2016.02.15-17</li>
 </ol>
+
+
+<br>
+<b>Journal Papers </b>
+<br>
+<ol>
+<li>[TMC] Junqing Zhang, Yushi Zheng, <b>Weitao Xu</b>, Yingying Chen. "H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals", accepted by IEEE Transactions on Mobile Computing in July 2021.
+<li>[DSP] Shuqi Liu, Wei Shao, Tan Li, <b>Weitao Xu</b>, Linqi Song. "Recent advances in biometrics-based user authentication for wearable devices: A contemporary survey", accepted by Digital Signal Processing.</li>
+<li>[IoTJ] <b>Weitao Xu</b>, Wanli Xue, Qi Lin, Guohao Lan, Xingyu Feng, Bo Wei, Chengwen Luo, Wei Li,Albert Y. Zomaya. "PrivGait: An Energy Harvesting-based Privacy-Preserving User Identification System by Gait Analysis", Accepted by IEEE Internet of Things Journal.</li>
+<li>[TIoT] Bo Wei, Kai Li, Chengwen Luo, <b>Weitao Xu</b>, Jin Zhang, Kuan Zhang. "No Need of Data Pre-processing: A General Framework for Radio-Based Device-Free Context Awareness". Accepted by ACM Transactions on Internet of Things.</li>
+<li>[TMC] Dong Ma, Guohao Lan, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Simultaneous Energy Harvesting and Gait Recognition using Piezoelectric Energy Harvester". IEEE Transactions on Mobile Computing, accepted in Oct 2020. (SCI IF: 5.115, CCF A) <a href="https://arxiv.org/abs/2009.02752" target="_blank">[PDF]</a></li>
+<li>[CSUR] <b>Weitao Xu</b>, Junqing Zhang, Shunqi Huang, Chengwen Luo, Wei Li. "Key Generation for Internet of Things: A Contemporary Survey". ACM Computing Surveys, accepted in Oct 2020. (IF: 7.99) <a href="https://arxiv.org/abs/2007.15956" target="_blank">[PDF]</a></li>
+<li>[TITS] Guohao Lan, <b>Weitao Xu*</b>, Dong Ma, Sara Khalifa, Mahbub Hassan, Wen Hu. "EnTrans: Leveraging Kinetic Energy Harvesting Signal for Transportation Mode Detection". IEEE Transactions on Intelligent Transportation System, Volume 21, Issue 7, pp. 2816-2827, July 2020. (IF: 6.319, CCF B)</li>
+<li>[Ad Hoc Networks] <b>Weitao Xu</b>, Yiran Shen, Chengwen Luo, Jianqiang Li, Wei Li, Albert Y. Zomaya. "Gait-Watch: A Gait-based Context-aware Authentication System for Smart Watch via Sparse Coding". Ad Hoc Networks, Volume 107, June 2020. (IF: 3.643, CCF C) <a href="https://www.sciencedirect.com/science/article/pii/S1570870520300287?dgcid=author" target="_blank">[PDF]</a></li>
+<li>[Ad Hoc Networks] <b>Weitao Xu</b>, Xiang Zhang, Lina Yao, Wanli Xue, Bo Wei. "Multi-view CNN-based Acoustic Classification System for Automatic Animal Species Identification". Ad Hoc Networks, Volume 102, May 2020. (IF: 3.643, CCF C)<a href="https://www.sciencedirect.com/science/article/abs/pii/S1570870519308923" target="_blank">[PDF]</a></li>
+<li>[TOSN] Yiran Shen, Bowen Du, <b>Weitao Xu</b>, Chengwen Luo, Bo Wei, Lizhen Cui, Hongkai Wen. "Securing Cyber-Physical Social Interactions on Wrist-worn Devices". ACM Transactions on Sensor Networks, Volume 16, Issue 2, April 2020. (SCI IF: 2.322, CCF B)</li>
+<li>[TIoT] Guohao Lan, Dong Ma, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Capacitor based activity sensing for kinetic powered wearable IoTs", ACM Transactions on Internet of Things, Volume: 1, Issue: 1, February 2020.</li>
+<li>[TIoT] Chengwen Luo, Jiawei Wu, Jianqiang Li*, Jia Wang, <b>Weitao Xu</b>, Bo Wei, Wei Li, Zhong Ming, Albert Y. Zomaya. "Gait Recognition as a Service for Unobtrusive User Identification in Smart Spaces", ACM Transactions on Internet of Things, Volume 1, Issue 1, February 2020.</li>
+<li>[IEEE IoT Journal] <b>Weitao Xu</b>, Jun Young Kim, Walter Huang, Salil Kanhere, Sanjay Jha, Wen Hu. "Measurement, Characterization and Modeling of LoRa Technology in Multi-floor Buildings". IEEE Internet of Things Journal, Volume 7, Issue 1, pp. 298-310, January 2020. (SCI IF: 9.936)</li>
+<li>[IEEE IoT Journal] <b>Weitao Xu</b>, Sanjay Jha, Wen Hu. "LoRa-Key: Secure Key Generation System for LoRa-based Network". IEEE Internet of Things Journal, Volume 6, Issue 4, pp. 6404-6416, August 2019. (SCI IF: 9.936)</li>
+<li>[IEEE IoT Journal] <b>Weitao Xu</b>, Jin Zhang, Jun Young Kim, Salil Kanhere, Sanjay Jha, Wen Hu. "The Design, Implementation, and Deployment of a Smart Lighting System for Smart Buildings". IEEE Internet of Things Journal, Volume 6, Issue 4, pp. 7266-7281 , August 2019. (SCI IF: 9.936)</li> 
+<li>[TMC] <b>Weitao Xu</b>, Guohao Lan*, Qi Lin, Sara Khalifa, Neil Bergmann, Mahbub Hassan, Wen Hu. "KEH-Gait: Using Kinetic Energy Harvesting for Gait-based User Authentication System", IEEE Transactions on Mobile Computing, volume 18, issue 1, pp. 139-152, Jan. 2019. (SCI IF: 5.115, CCF A)</li>
+<li>[TDSC] Yiran Shen, Hongkai Wen*, Chengwen Luo, <b>Weitao Xu</b>, Tao Zhang, Wen Hu and Daniela Rus. "GaitLock: Protect Virtual and Augmented Reality Headsets Using Gait", IEEE Transactions on Dependable and Secure Computing, volume 16, issue 3, pp.484-497, June 2019. (SCI IF: 6.864, CCF A)</li>
+<li>[TMC] <b>Weitao Xu</b>, Yiran Shen*, Neil Bergmann, Wen Hu. "Sensor-assisted Multi-view Face Recognition System on Smart Glass", IEEE Transactions on Mobile Computing (SCI IF: 3.822, CCF A), volume 17, issue 1, pp.197-210, Jan 2018. (SCI IF: 5.115, CCF A)</li>
+<li>[TIFS] Girish Revadigar, Chitra Javali, <b>Weitao Xu</b>, Sanjay Jha, Wen Hu. "Accelerometer and Fuzzy Vault-Based Secure Group Key Generation and Sharing Protocol for Smart Wearables", IEEE Transactions on Information Forensics & Security, volume 12, issue 10, pp. 2467-2482, Oct. 2017. (SCI IF: 6.013, CCF A)</li>
+<li>[TOSN] <b>Weitao Xu</b>, Girish Revadigar, Chengwen Luo*, Neil Bergmann, Wen Hu. "Gait-Key: A Gait-based Shared Secret Key Generation Protocol for Wearable Devices", ACM Transactions on Sensor Network, volume 13, issue 1, February 2017. (SCI IF: 2.322, CCF B) </li>
+</ol>
+
  
 <br>
 <b>Posters</b>
