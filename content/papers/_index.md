@@ -11,7 +11,6 @@ header:
 <b>Journal Articles </b>
 <br>
 <ol>
-<li>[Sensors] Axiu Mao, Endai Huang, Haiming Gan, Rebecca S.V. Parkes, <b>Weitao Xu</b>, Kai Liu. "Cross-modality Interaction Network for Equine Activity Recognition Using Imbalanced Multi-modal Data", accepted by sensors in August 2021.
 <li>[TMC] Junqing Zhang, Yushi Zheng, <b>Weitao Xu</b>, Yingying Chen. "H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals", accepted by IEEE Transactions on Mobile Computing in July 2021.
 <li>[DSP] Shuqi Liu, Wei Shao, Tan Li, <b>Weitao Xu</b>, Linqi Song. "Recent advances in biometrics-based user authentication for wearable devices: A contemporary survey", accepted by Digital Signal Processing.</li>
 <li>[IoTJ] <b>Weitao Xu</b>, Wanli Xue, Qi Lin, Guohao Lan, Xingyu Feng, Bo Wei, Chengwen Luo, Wei Li,Albert Y. Zomaya. "PrivGait: An Energy Harvesting-based Privacy-Preserving User Identification System by Gait Analysis", Accepted by IEEE Internet of Things Journal.</li>
@@ -32,8 +31,6 @@ header:
 <li>[TMC] <b>Weitao Xu</b>, Yiran Shen*, Neil Bergmann, Wen Hu. "Sensor-assisted Multi-view Face Recognition System on Smart Glass", IEEE Transactions on Mobile Computing (SCI IF: 3.822, CCF A), volume 17, issue 1, pp.197-210, Jan 2018. (SCI IF: 5.115, CCF A)</li>
 <li>[TIFS] Girish Revadigar, Chitra Javali, <b>Weitao Xu</b>, Sanjay Jha, Wen Hu. "Accelerometer and Fuzzy Vault-Based Secure Group Key Generation and Sharing Protocol for Smart Wearables", IEEE Transactions on Information Forensics & Security, volume 12, issue 10, pp. 2467-2482, Oct. 2017. (SCI IF: 6.013, CCF A)</li>
 <li>[TOSN] <b>Weitao Xu</b>, Girish Revadigar, Chengwen Luo*, Neil Bergmann, Wen Hu. "Gait-Key: A Gait-based Shared Secret Key Generation Protocol for Wearable Devices", ACM Transactions on Sensor Network, volume 13, issue 1, February 2017. (SCI IF: 2.322, CCF B) </li>
-<li>[TICT] <b>Weitao Xu</b>, Liangfei Xue, Dongfeng Yuan, "A New Information System Using Multimedia Thin Client And Cloud Architecture", WIT Transactions on Information and Communication Technologies. Vol.56, pp. 31-38, May 2014.</li>
-<li>[IJASUC] <b>Weitao Xu</b>, Liangfei Xue, Dongfeng Yuan. "Design and Implementation of Intelligent Community System based on Thin Client and Cloud Computing", International Journal of Ad Hoc, Sensor & Ubiquitous Computing; Vol. 5 Issue 4, Aug 2014.</li>
 </ol>
 
 <br>
