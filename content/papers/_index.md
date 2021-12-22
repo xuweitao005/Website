@@ -11,7 +11,7 @@ header:
 <b>Conference Papers </b>
 <br>
 <ol>
-<li><b>[INFOCOM 2022]</b> Jiao Li, Yang Liu, Zhenjiang Li, <b>Weitao Xu</b>. "GASLA: Enhancing the Applicability of Sign Language Translation", Accepted by INFOCOM 2022. (CCF A)</li>
+<li><b>[INFOCOM 2022]</b> Jiao Li, Yang Liu, <b>Weitao Xu</b>, Zhenjiang Li. "GASLA: Enhancing the Applicability of Sign Language Translation", Accepted by INFOCOM 2022. (CCF A)</li>
 <li><b>[IPSN 2021]</b> <b>Weitao Xu</b>, Zhenjiang Li, Wanli Xue, Xiaotong Yu, Bo Wei, Jia Wang, Chengwen Luo, Wei Li, Albert Y. Zomaya. "InaudibleKey: Generic Inaudible Acoustic Signal based Key Agreement Protocol for Mobile Devices", IPSN 2021, MAY 18-21, 2021, Nashville, Tennessee, USA. (CCF B)</li>
 <li><b>[IPSN 2021]</b> Jiayao Gao, <b>Weitao Xu</b>, Salil Kanhere, Sanjay Jha, Wen Hu. "A Novel Model-Based Security Scheme for LoRa Key Generation", IPSN 2021, MAY 18-21, 2021, Nashville, Tennessee, USA. (CCF B)</li>
 <li><b>[Mobicom 2020]</b> Jun Liu, <b>Weitao Xu</b>, Sanjay Jha, Wen Hu. "Nephalai: Towards LPWAN C-RAN with Physical Layer Compression", Mobicom 2020, 21-25 Sep, London, United Kingdom. (CCF A)<a href="https://arxiv.org/abs/2008.02599" target="_blank"><b>[PDF]</b></a></li>
