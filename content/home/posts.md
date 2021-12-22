@@ -65,6 +65,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+*2021.12 Our paper entitled "GASLA: Enhancing the Applicability of Sign Language Translation" has been accepted by INFOCOM 2022!
+
 *2021.10  I'm so honoured to receive 2021 ACM SIGBED China Rasing Star Award!
 
 *2021.10  Congrats to Tony, we received the 2021 Ubicomp CPD Workshop Best Paper Award!
