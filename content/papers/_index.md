@@ -11,6 +11,7 @@ header:
 <b>Conference Papers </b>
 <br>
 <ol>
+<li><b>[IPSN 2022]</b> Bo Wei, <b>Weitao Xu</b>, Kai Li, Chengwen Luo, Jin Zhang. "i^2Key: A Cross-sensor Symmetric Key Generation System using Inertial Measurements and Inaudible Sound", Accepted by IPSN 2022. (CCF B)</li>
 <li><b>[INFOCOM 2022]</b> Jiao Li, Yang Liu, <b>Weitao Xu</b>, Zhenjiang Li. "GASLA: Enhancing the Applicability of Sign Language Translation", Accepted by INFOCOM 2022. (CCF A)</li>
 <li><b>[IPSN 2021]</b> <b>Weitao Xu</b>, Zhenjiang Li, Wanli Xue, Xiaotong Yu, Bo Wei, Jia Wang, Chengwen Luo, Wei Li, Albert Y. Zomaya. "InaudibleKey: Generic Inaudible Acoustic Signal based Key Agreement Protocol for Mobile Devices", IPSN 2021, MAY 18-21, 2021, Nashville, Tennessee, USA. (CCF B)</li>
 <li><b>[IPSN 2021]</b> Jiayao Gao, <b>Weitao Xu</b>, Salil Kanhere, Sanjay Jha, Wen Hu. "A Novel Model-Based Security Scheme for LoRa Key Generation", IPSN 2021, MAY 18-21, 2021, Nashville, Tennessee, USA. (CCF B)</li>
