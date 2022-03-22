@@ -7,14 +7,27 @@ header:
   caption: ""
   image: ""
 ---
-<b>Students: </b>
+<b>PhD Students: </b>
 <br>
 <ul>
-<li>Keqi Song (Mphil, since Jan 2021)</li>
-<li>Tao Ni (PhD, since Jan 2021)</li>
-<li>Mengzhe Ruan (PhD, since Sept 2020)</li>
-<li>Di Duan (PhD, since Sept 2020)</li>
-<li>Yongliang Chen (PhD, since Sept 2020)</li>
+<li>Zehua Sun (Spet 2022 - present)</li>
+<li>Huanqi Yang (Spet 2022 - present)</li>
+<li>Tao Ni (Jan 2021 - present)</li>
+<li>Mengzhe Ruan (Sept 2020 - present)</li>
+<li>Di Duan (Sept 2020 - present)</li>
+<li>Yongliang Chen (Sept 2020 - present)</li>
+</ul>
+<br>
+<b>Master Students: </b>
+<br>
+<ul>
+<li>Keqi Song (Jan 2021- present)</li>
+</ul>
+<br>
+<b>Research Assistants: </b>
+<br>
+<ul>
+<li>Mingda Han (Jan 2021- present)</li>
 </ul>
 <br>
 <b>Joint-supervised Students: </b>
