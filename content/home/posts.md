@@ -66,6 +66,10 @@ subtitle = ""
  css_class = ""
 +++ 
 
+*2022.4 Our paper entitled "Vehicle-Key: A Secret Key Establishment Scheme for LoRa-enabled IoV Communications" has been accepted by ICDCS 2022! Congrats, Huanqi!
+
+*2022.3 Our paper entitled "Time-constrained Ensemble Sensing with Heterogeneous IoT Devices in Intelligent Transportation Systems" has been accepted by IEEE TITS!
+
 *2022.2 Our paper entitled "i^2Key: A Cross-sensor Symmetric Key Generation System using Inertial Measurements and Inaudible Sound" has been accepted by IPSN 2022!
 
 *2021.12 Our paper entitled "GASLA: Enhancing the Applicability of Sign Language Translation" has been accepted by INFOCOM 2022!
