@@ -11,6 +11,7 @@ header:
 <b>Services: </b>
 <br><br>
 <ul>
+<li>2021: Social Media Chair of Mobicom 2022</li>
 <li>2021: TPC member of Mobiquitous 2021</li>
 <li>2021: TPC member of CHASE 2021</li>
 <li>2021: Chair of workshop on Combining Physical and Data-Driven Knowledge in Ubiquitous Computing 2021</li>
