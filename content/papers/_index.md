@@ -41,6 +41,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
+<li><b>[TOSN]</b> Zehua Sun, Kai Liu, Zhimeng Yin, Zhenjiang Li, <b>Weitao Xu</b>. "Recent Advances in LoRa: A Comprehensive Survey", accepted by ACM Transactions on Sensor Network in June 2022.
 <li><b>[TMC]</b> Junqing Zhang, Yushi Zheng, <b>Weitao Xu</b>, Yingying Chen. "H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals", accepted by IEEE Transactions on Mobile Computing in July 2021.
 <li><b>[DSP]</b> Shuqi Liu, Wei Shao, Tan Li, <b>Weitao Xu</b>, Linqi Song. "Recent advances in biometrics-based user authentication for wearable devices: A contemporary survey", accepted by Digital Signal Processing.</li>
 <li><b>[IoTJ]</b> <b>Weitao Xu</b>, Wanli Xue, Qi Lin, Guohao Lan, Xingyu Feng, Bo Wei, Chengwen Luo, Wei Li,Albert Y. Zomaya. "PrivGait: An Energy Harvesting-based Privacy-Preserving User Identification System by Gait Analysis", Accepted by IEEE Internet of Things Journal.</li>

@@ -65,6 +65,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+* Our paper entitled "Recent Advances in LoRa: A Comprehensive Survey" has been accepted by ACM TOSN!
+
 *2021.12 Our paper entitled "GASLA: Enhancing the Applicability of Sign Language Translation" has been accepted by INFOCOM 2022!
 
 *2021.10  I'm so honoured to receive 2021 ACM SIGBED China Rasing Star Award!
