@@ -44,9 +44,7 @@ header:
 <br>
 <ol>
 <li><b>[TOSN]</b> Zehua Sun, Kai Liu, Zhimeng Yin, Zhenjiang Li, <b>Weitao Xu</b>. "Recent Advances in LoRa: A Comprehensive Survey", accepted by ACM Transactions on Sensor Network in June 2022.
-<li><b>[TMC]</b> Junqing Zhang, Yushi Zheng, <b>Weitao Xu</b>, Yingying Chen. "H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals", accepted by IEEE Transactions on Mobile Computing in July 2021.
-<li><b>[Computer Communications]</b> Wanli Xue, Yiran Shen, Chengwen Luo, <b>Weitao Xu</b>, Wen Hu, Aruna Seneviratne
-. "A differential privacy-based classification system for edge computing in IoT", Computer Communications, Volume 182, pages 117-128.</li>
+<li><b>[Computer Communications]</b> Wanli Xue, Yiran Shen, Chengwen Luo, <b>Weitao Xu</b>, Wen Hu, Aruna Seneviratne. "A differential privacy-based classification system for edge computing in IoT", Computer Communications, Volume 182, pages 117-128.</li>
 <li><b>[TITS]</b> Xingyu Feng, Chengwen Luo, Bo Wei, Jin Zhang, Jianqiang Li, Huihui Wang, <b>Weitao Xu</b>, Mun Chan, Victor Leung. "Time-constrained Ensemble Sensing with Heterogeneous IoT Devices in Intelligent Transportation Systems", accepted by IEEE Transactions on Intelligent Transportation Systems in April 2022.</li>
 <li><b>[TMC]</b> Junqing Zhang, Yushi Zheng, <b>Weitao Xu</b>, Yingying Chen. "H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals", accepted by IEEE Transactions on Mobile Computing in July 2021.</li>
 <li><b>[DSP]</b> Shuqi Liu, Wei Shao, Tan Li, <b>Weitao Xu</b>, Linqi Song. "Recent advances in biometrics-based user authentication for wearable devices: A contemporary survey", accepted by Digital Signal Processing.</li>
