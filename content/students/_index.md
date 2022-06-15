@@ -10,8 +10,8 @@ header:
 <b>PhD Students: </b>
 <br>
 <ul>
-<li>Renqi Jia (Spet 2022 - present)</li>
-<li>Zehua Sun (Spet 2021 - present)</li>
+<li>Renqi Jia (Sept 2022 - present)</li>
+<li>Zehua Sun (Sept 2021 - present)</li>
 <li>Huanqi Yang (Spet 2021 - present)</li>
 <li>Tao Ni (Jan 2021 - present)</li>
 <li>Mengzhe Ruan (Sept 2020 - present)</li>
