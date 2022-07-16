@@ -66,7 +66,11 @@ subtitle = ""
  css_class = ""
 +++
 
-*Our paper entitled "Recent Advances in LoRa: A Comprehensive Survey" has been accepted by ACM TOSN!, Congrats, Zehua!
+*2022.7 We paper entitled "Eavesdropping Mobile App Activity via Radio Frequency Energy Harvesting" has been conditionally accepted by USENIX Security!, Congrats, Tao Ni!
+
+*2022.6 We paper entitled "SwipePass: Acoustic-based Second-factor User Authentication for Smartphones" has been conditionally accepted by IMWUT 2022!, Congrats, Yongliang!
+
+*2022.5 Our paper entitled "Recent Advances in LoRa: A Comprehensive Survey" has been accepted by ACM TOSN!, Congrats, Zehua!
 
 *2022.4 Our paper entitled "Vehicle-Key: A Secret Key Establishment Scheme for LoRa-enabled IoV Communications" has been accepted by ICDCS 2022! Congrats, Huanqi!
 
