@@ -10,12 +10,14 @@ header:
 <b>PhD Students: </b>
 <br>
 <ul>
-<li>Zehua Sun (Spet 2022 - present)</li>
-<li>Huanqi Yang (Spet 2022 - present)</li>
+<li>Renqi Jia (Sept 2022 - present)</li>
+<li>Zehua Sun (Sept 2021 - present)</li>
+<li>Huanqi Yang (Spet 2021 - present)</li>
 <li>Tao Ni (Jan 2021 - present)</li>
 <li>Mengzhe Ruan (Sept 2020 - present)</li>
 <li>Di Duan (Sept 2020 - present)</li>
 <li>Yongliang Chen (Sept 2020 - present)</li>
+<li>Endai Huang (Transfered from Prof. Chee Wei Tan, expected graduation date Dec 2022)</li>
 </ul>
 <br>
 <b>Master Students: </b>

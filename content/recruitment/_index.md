@@ -18,4 +18,4 @@ header:
 <li>For more details about how to apply CityU PhD program, please visit <a href="https://www.cityu.edu.hk/pg/research-degree-programmes" style="color:blue;">here</a>, or Hong Kong PhD fellowship scheme (HKPFS) from <a href="https://www.cityu.edu.hk/pg/hong-kong-phd-fellowship-scheme" style="color:blue;">here</a> (HKPFS is for excellent PhD applicants and highly competitive. It needs to be applied separately)</li>
 </ul>
 <br>
-<b>All the positions for 2022 have been filled. Please don't email me for PhD application.</b>
+<b>We have several PhD positions for 2023 (enroll in September 2023). If you're interested in my research direction, please feel free to drop me an email.</b>
