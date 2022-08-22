@@ -15,7 +15,7 @@ header:
 <li>2022: TPC member of ICPADS 2022</li>
 <li>2022: TPC member of SECON 2022</li>
 <li>2022: TPC member of Workshop on Smart Wearable Systems and Applications (SmartWear) 2022</li>
-<li>2022: TPC member of Glebocom 2022</li>
+<li>2022: TPC member of Globecom 2022</li>
 <li>2022: TPC member of EWSN 2022</li>
 <li>2022: Social Media Chair of Mobicom 2022</li>
 <li>2021: TPC member of Mobiquitous 2021</li>
