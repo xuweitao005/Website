@@ -11,6 +11,7 @@ header:
 <b>Conference Papers </b>
 <br>
 <ol>
+<li><b>[MASS 2022]</b> <b>Weitao Xu</b>, Jun Young Kim, Walter Huang, Wen Hu, Salil Kanhere, Sanjay Jha, and Prasant Misra, "A Novel Emergency Light Based Smart Building Solution: Design, Implementation and Use Cases", MASS 2022.</li>
 <li><b>[USENIX Security 2023]</b> Tao Ni, Guohao Lan, Jia Zhang, Qingchuan Zhao, and <b>Weitao Xu</b>. "Eavesdropping Mobile App Activity via Radio Frequency Energy Harvesting", Conditionally accepted by USENIX Security 2023.</li>
 <li><b>[IMWUT 2022]</b> Yongliang Chen, Tao Ni, <b>Weitao Xu</b>, and Tao Gu. "SwipePass: Acoustic-based Second-factor User Authentication for Smartphones", Conditionally accepted by IMWUT 2022.</li>
 <li><b>[ICDCS 2022]</b> Huanqi Yang, Hongbo Liu, Yuezhong Wu, Chengwen Luo, Wei Li, Albert Zomaya, Linqi Song and <b>Weitao Xu</b>. "Vehicle-Key: A Secret Key Establishment Scheme for LoRa-enabled IoV Communications", Accepted by ICDCS 2022.</li>

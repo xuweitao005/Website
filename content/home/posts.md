@@ -65,6 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+*2022.9 Congrats to Zehua who recevied the Outstanding Academic Performnace Award and Huanqi who received the Research Tuition Scholarship!
 
 *2022.7 We paper entitled "Eavesdropping Mobile App Activity via Radio Frequency Energy Harvesting" has been conditionally accepted by USENIX Security!, Congrats, Tao Ni!
 
