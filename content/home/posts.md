@@ -65,6 +65,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+*2022.12 Our paper entitled "ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing" was accpeted by INFOCOM 2023. Congrats to Huanqi!
+
+*2022.12 Our paper entitled "WashRing: An Energy-efficient and Highly Accurate Handwashing Monitoring System via Smart Ring" was accpeted by IEEE TMC!
+
 *2022.9 Congrats to Zehua who recevied the Outstanding Academic Performnace Award and Huanqi who received the Research Tuition Scholarship!
 
 *2022.7 We paper entitled "Eavesdropping Mobile App Activity via Radio Frequency Energy Harvesting" has been conditionally accepted by USENIX Security!, Congrats, Tao Ni!
@@ -80,19 +84,3 @@ subtitle = ""
 *2022.2 Our paper entitled "i^2Key: A Cross-sensor Symmetric Key Generation System using Inertial Measurements and Inaudible Sound" has been accepted by IPSN 2022!
 
 *2021.12 Our paper entitled "GASLA: Enhancing the Applicability of Sign Language Translation" has been accepted by INFOCOM 2022!
-
-*2021.10  I'm so honoured to receive 2021 ACM SIGBED China Rising Star Award!
-
-*2021.10  Congrats to Tony, we received the 2021 Ubicomp CPD Workshop Best Paper Award!
-
-*2021.5  Our paper entitled "No Need of Data Pre-processing: A General Framework for Radio-Based Device-Free Context Awareness" has been accepted by ACM Transactions on Internet of Things!
-
-*2021.1  We have two papers accepted by IPSN 2021!
-
-*2020.10 Our Paper "Simultaneous Energy Harvesting and Gait Recognition using Piezoelectric Energy Harvester" has been accepted by TMC (IF: 5.115)!
-
-*2020.10 Our Survey "Key Generation for Internet of Things: A Contemporary Survey" has been accepted by CSUR (IF: 7.99)!
-
-*2020.07 Invited to serve on the TPC of EWSN 2020!
-
-*2020.06 Our paper entitled "Nephalai: Towards LPWAN C-RAN with Physical Layer Compression" has been accepted by Mobicom 2020!

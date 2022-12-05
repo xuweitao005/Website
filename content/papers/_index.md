@@ -11,7 +11,8 @@ header:
 <b>Conference Papers </b>
 <br>
 <ol>
-<li><b>[UbiComp CPD Workshop 2022]</b> Keqi Song, Zimeng Zhu, Huanqi Yang, Tao Ni, and <b>Weitao Xu</b>. "MobileKey: A Fast and Robust Key Generation System for Mobile Devices".</li>
+<li><b>[INFOCOM 2023]</b> Huanqi Yang, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke and <b>Weitao Xu</b>, "ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing", INFOCOM 2023.</li>
+<li><b>[UbiComp CPD Workshop 2022]</b> Keqi Song, Zimeng Zhu, Huanqi Yang, Tao Ni, and <b>Weitao Xu</b>, "MobileKey: A Fast and Robust Key Generation System for Mobile Devices".</li>
 <li><b>[MASS 2022]</b> <b>Weitao Xu</b>, Jun Young Kim, Walter Huang, Wen Hu, Salil Kanhere, Sanjay Jha, and Prasant Misra, "A Novel Emergency Light Based Smart Building Solution: Design, Implementation and Use Cases", MASS 2022.</li>
 <li><b>[USENIX Security 2023]</b> Tao Ni, Guohao Lan, Jia Zhang, Qingchuan Zhao, and <b>Weitao Xu</b>. "Eavesdropping Mobile App Activity via Radio Frequency Energy Harvesting", USENIX Security 2023.</li>
 <li><b>[IMWUT 2022]</b> Yongliang Chen, Tao Ni, <b>Weitao Xu</b>, and Tao Gu. "SwipePass: Acoustic-based Second-factor User Authentication for Smartphones", IMWUT 2022.</li>
@@ -48,6 +49,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
+<li><b>[TMC]</b> <b>Weitao Xu</b>, Huanqi Yang, Jiongzhang Chen, Chengwen Luo, Jia Zhang, Yuliang Zhao and Wen Jung Li. "WashRing: An Energy-efficient and Highly Accurate Handwashing Monitoring System via Smart Ring", accepted by IEEE TMC in December 2022.
 <li><b>[TOSN]</b> Zehua Sun, Kai Liu, Zhimeng Yin, Zhenjiang Li, <b>Weitao Xu</b>. "Recent Advances in LoRa: A Comprehensive Survey", accepted by ACM Transactions on Sensor Network in June 2022.
 <li><b>[Computer Communications]</b> Wanli Xue, Yiran Shen, Chengwen Luo, <b>Weitao Xu</b>, Wen Hu, Aruna Seneviratne. "A differential privacy-based classification system for edge computing in IoT", Computer Communications, Volume 182, pages 117-128.</li>
 <li><b>[TITS]</b> Xingyu Feng, Chengwen Luo, Bo Wei, Jin Zhang, Jianqiang Li, Huihui Wang, <b>Weitao Xu</b>, Mun Chan, Victor Leung. "Time-constrained Ensemble Sensing with Heterogeneous IoT Devices in Intelligent Transportation Systems", accepted by IEEE Transactions on Intelligent Transportation Systems in April 2022.</li>
