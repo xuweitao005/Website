@@ -8,7 +8,7 @@ header:
   image: ""
 ---
 <br>
-<b>Conference Papers ABC</b>
+<b>Conference Papers</b>
 <br>
 <ol>
 <li><b>[INFOCOM 2023]</b> Huanqi Yang, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke and <b>Weitao Xu</b>, "ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing", INFOCOM 2023.</li>
