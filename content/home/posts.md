@@ -65,6 +65,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+*2022.12 Our paper entitled "Uncovering User Interactions on Smartphones via Contactless Wireless Charging Side Channels" was accpeted by S&P 2023. Congrats to Tao Ni!
+
 *2022.12 Our paper entitled "ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing" was accpeted by INFOCOM 2023. Congrats to Huanqi!
 
 *2022.12 Our paper entitled "WashRing: An Energy-efficient and Highly Accurate Handwashing Monitoring System via Smart Ring" was accpeted by IEEE TMC!
