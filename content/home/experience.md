@@ -32,10 +32,10 @@ date_format = "Jan 2006"
   date_end = "2019-08-01"
 
 [[experience]]
-  title = "Research Assistant"
-  company = "Australia CSIRO"
+  title = "PhD candidate"
+  company = "University of Queensland"
   location = "Brisbane, Australia"
   date_start = "2013-10-01"
-  date_end = "2014-12-01"
+  date_end = "2017-05-30"
 
 +++
