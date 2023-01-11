@@ -9,6 +9,10 @@ header:
 ---
 
 <ul>
+<li>2022: Lecturer, CS1302 Introduction to Computer Programming (Semester B), City University of Hong Kong</li>
+<li>2022: Lecturer, CS1302 Introduction to Computer Programming (Semester A), City University of Hong Kong</li>
+<li>2021: Lecturer, CS1302 Introduction to Computer Programming (Semester B), City University of Hong Kong</li>
+<li>2021: Lecturer, CS1302 Introduction to Computer Programming (Semester A), City University of Hong Kong</li>
 <li>2020: Lecturer, CS1302 Introduction to Computer Programming (Semester B), City University of Hong Kong</li>
 <li>2020: Lecturer, CS1302 Introduction to Computer Programming (Semester A), City University of Hong Kong</li>
 <li>2020: Lecturer, CS2311 Computer Programming (Semester B), City University of Hong Kong</li>
