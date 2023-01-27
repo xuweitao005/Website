@@ -10,6 +10,7 @@ header:
 <b>PhD Students: </b>
 <br>
 <ul>
+<li>Rucheng Wu (Jan 2023 - present)</li>
 <li>Renqi Jia (Sept 2022 - present)</li>
 <li>Zehua Sun (Sept 2021 - present)</li>
 <li>Huanqi Yang (Sept 2021 - present)</li>
