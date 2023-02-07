@@ -8,6 +8,7 @@ header:
   image: ""
 ---
 <ul>
+<li>2022: Stanford's top 2% most highly cited scientists 2022</li>
 <li>2021: ACM SIGBED China Rising Star Award</li>
 <li>2021: Ubicomp CPD Workshop Best Paper Award</li>
 <li>2018: IoTDI 2018 Best Demo Runner-up Award</li>
