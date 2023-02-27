@@ -11,6 +11,7 @@ header:
 <b>Conference Papers</b>
 <br>
 <ol>
+<li><b>[IPSN 2023]</b> Zehua Sun, Tao Ni, Huanqi Yang, Kai Liu, Yu Zhang, Tao Gu and <b>Weitao Xu</b>, "FLoRa: Energy-Efficient, Reliable, and Beamforming-Assisted Over-The-Air Firmware Update in LoRa Networks", accepted by IPSN 2023.</li>
 <li><b>[Percom 2023]</b> Di Duan, Huanqi Yang, Guohao Lan, Tianxing Li, Xiaohua Jia, and <b>Weitao Xu</b>, "EMGSense: A Low-Effort Self-Supervised Domain Adaptation Framework for EMG Sensing", accepted by Percom 2023.</li>
 <li><b>[S&P 2023]</b> Tao Ni, Xiaokuan Zhang, Chaoshun Zuo, Jianfeng Li, Zhenyu Yan, Wubing Wang, <b>Weitao Xu</b> and Qingchuan Zhao, "Uncovering User Interactions on Smartphones via Contactless Wireless Charging Side Channels", accepted by S&P 2023.</li>
 <li><b>[INFOCOM 2023]</b> Huanqi Yang, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke and <b>Weitao Xu</b>, "ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing", accepted by INFOCOM 2023.</li>
