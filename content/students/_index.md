@@ -21,12 +21,6 @@ header:
 <li>Endai Huang (Transfered from Prof. Chee Wei Tan, expected graduation date Dec 2022)</li>
 </ul>
 <br>
-<b>Master Students: </b>
-<br>
-<ul>
-<li>Keqi Song (Jan 2021- present)</li>
-</ul>
-<br>
 <b>Research Assistants: </b>
 <br>
 <ul>
@@ -41,6 +35,11 @@ header:
 <li>Christopher Manouvrier (UNSW undergraduate thesis, 2015)</li>
 <li>Christopher Marwick (UNSW undergraduate thesis, 2015)</li>
 <li>Thoamas Kothmayr (CSIRO intern,  PhD at TU Munich)</li>
+
+<b>Alumnus: </b>
+<br>
+<ul>
+<li>Keqi Song (Mphil, agraduated in May 2023, now PhD at The University of Utah)</li>
 </ul>
 
 
