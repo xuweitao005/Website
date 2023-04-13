@@ -35,11 +35,13 @@ header:
 <li>Christopher Manouvrier (UNSW undergraduate thesis, 2015)</li>
 <li>Christopher Marwick (UNSW undergraduate thesis, 2015)</li>
 <li>Thoamas Kothmayr (CSIRO intern,  PhD at TU Munich)</li>
+</ul>
 
-<b>Alumnus: </b>
+<ul>
+<b>Alumni: </b>
 <br>
 <ul>
-<li>Keqi Song (Mphil, agraduated in May 2023, now PhD at The University of Utah)</li>
+<li>Keqi Song (Mphil, January 2021-May 2023, now PhD at The University of Utah)</li>
 </ul>
 
 
