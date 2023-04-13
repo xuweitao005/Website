@@ -37,15 +37,13 @@ header:
 <li>Thoamas Kothmayr (CSIRO intern,  PhD at TU Munich)</li>
 </ul>
 
-<ul>
-<b>Alumni: </b>
+<br>
+<b>Alumni(last known position): </b>
 <br>
 <ul>
 <li>Keqi Song (Mphil, January 2021-May 2023, now PhD at The University of Utah)</li>
 </ul>
-
-
-
+<br>
 
 
 
