@@ -41,7 +41,7 @@ header:
 <b>Alumni(last known position): </b>
 <br>
 <ul>
-<li>Keqi Song (Mphil, January 2021-May 2023, now PhD at The University of Utah)</li>
+<li>Keqi Song (Mphil, January 2021-May 2023, The University of Utah)</li>
 </ul>
 <br>
 
