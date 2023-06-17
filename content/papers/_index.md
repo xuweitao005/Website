@@ -53,7 +53,8 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
-<li><b>[IoTJ]</b> Xingyu Feng, Chengwen Luo, Jiongzhang Chen, Yijing Huang, Jin Zhang, <b>Weitao Xu</b>, Jianqiang Li, and Victor C.M. Leung. "IoTSL: Towards Efficient Distributed Learning for Resource-constrained Internet of Things", accepted by IEEE IoT Journal in December 2022.
+<li><b>[IoTJ]</b> Xingyu Feng, Lingjie Li, Tenglong Wang, <b>Weitao Xu</b>, Jin Zhang, Bo Wei, Chengwen Luo. "CoBC: A Blockchain-based Collaborative Inference System for the Internet of Things", IEEE Internet of Things Journal, June 2023.
+<li><b>[IoTJ]</b> Xingyu Feng, Chengwen Luo, Jiongzhang Chen, Yijing Huang, Jin Zhang, <b>Weitao Xu</b>, Jianqiang Li, and Victor C.M. Leung. "IoTSL: Towards Efficient Distributed Learning for Resource-constrained Internet of Things", IEEE Internet of Things Journal, December 2022.
 <li><b>[TMC]</b> <b>Weitao Xu</b>, Huanqi Yang, Jiongzhang Chen, Chengwen Luo, Jia Zhang, Yuliang Zhao and Wen Jung Li. "WashRing: An Energy-efficient and Highly Accurate Handwashing Monitoring System via Smart Ring", accepted by IEEE TMC in December 2022.
 <li><b>[TOSN]</b> Zehua Sun, Kai Liu, Zhimeng Yin, Zhenjiang Li, <b>Weitao Xu</b>. "Recent Advances in LoRa: A Comprehensive Survey", accepted by ACM Transactions on Sensor Network in June 2022.
 <li><b>[Computer Communications]</b> Wanli Xue, Yiran Shen, Chengwen Luo, <b>Weitao Xu</b>, Wen Hu, Aruna Seneviratne. "A differential privacy-based classification system for edge computing in IoT", Computer Communications, Volume 182, pages 117-128.</li>
