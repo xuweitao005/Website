@@ -53,6 +53,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
+<li><b>[IoTJ]</b> Mingda Han, Huanqi Yang, Tao Ni, Di Duan, Ruanmeng Zhe, Yongliang Chen, Jia Zhang, <b>Weitao Xu</b>. "mmSign: mmWave-based Few-Shot Online Handwriten Signature Verification", ACM Transactions on Sensor Networks, June 2023.
 <li><b>[IoTJ]</b> Xingyu Feng, Lingjie Li, Tenglong Wang, <b>Weitao Xu</b>, Jin Zhang, Bo Wei, Chengwen Luo. "CoBC: A Blockchain-based Collaborative Inference System for the Internet of Things", IEEE Internet of Things Journal, June 2023.
 <li><b>[IoTJ]</b> Xingyu Feng, Chengwen Luo, Jiongzhang Chen, Yijing Huang, Jin Zhang, <b>Weitao Xu</b>, Jianqiang Li, and Victor C.M. Leung. "IoTSL: Towards Efficient Distributed Learning for Resource-constrained Internet of Things", IEEE Internet of Things Journal, December 2022.
 <li><b>[TMC]</b> <b>Weitao Xu</b>, Huanqi Yang, Jiongzhang Chen, Chengwen Luo, Jia Zhang, Yuliang Zhao and Wen Jung Li. "WashRing: An Energy-efficient and Highly Accurate Handwashing Monitoring System via Smart Ring", accepted by IEEE TMC in December 2022.
