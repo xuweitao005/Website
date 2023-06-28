@@ -11,6 +11,7 @@ header:
 <b>Services: </b>
 <br><br>
 <ul>
+<li>2023: TPC member of DCOSS-IoT 2023</li>
 <li>2023: TPC member of ICDCS 2023</li>
 <li>2022: TPC member of IPSN 2023</li>
 <li>2022: TPC member of ICPADS 2022</li>
@@ -21,7 +22,7 @@ header:
 <li>2022: Social Media Chair of Mobicom 2022</li>
 <li>2021: TPC member of Mobiquitous 2021</li>
 <li>2021: TPC member of CHASE 2021</li>
-<li>2021: Chair of workshop on Combining Physical and Data-Driven Knowledge in Ubiquitous Computing 2021</li>
+<li>2021: Co-Chair of workshop on Combining Physical and Data-Driven Knowledge in Ubiquitous Computing 2021</li>
 <li>2021: TPC member of workshop on VNI: Virtualization for Enabling Next-Generation IoT Networks</li>
 <li>2021: TPC member of workshop on Combining Physical and Data-Driven Knowledge in Ubiquitous Computing 2020</li>
 <li>2021: TPC member of The First International Workshop on Cyber-Physical-Human System Design and Implementation (CPHS 2021)</li>
