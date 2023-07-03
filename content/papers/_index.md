@@ -8,7 +8,7 @@ header:
   image: ""
 ---
 <br>
-<b>Conference Papers</b>(The underlined first authors are under my supervision)
+<b>Conference Papers</b> (The underlined first authors are under my supervision)
 <br>
 <ol>
 <li><b>[IPSN 2023]</b> <u>Zehua Sun</u>, Tao Ni, Huanqi Yang, Kai Liu, Yu Zhang, Tao Gu and <b>Weitao Xu</b>, "FLoRa: Energy-Efficient, Reliable, and Beamforming-Assisted Over-The-Air Firmware Update in LoRa Networks", accepted by IPSN 2023.</li>
