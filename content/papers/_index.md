@@ -8,22 +8,22 @@ header:
   image: ""
 ---
 <br>
-<b>Conference Papers</b>
+<b>Conference Papers</b>(The underlined first authors are under my supervision)
 <br>
 <ol>
-<li><b>[IPSN 2023]</b> Zehua Sun, Tao Ni, Huanqi Yang, Kai Liu, Yu Zhang, Tao Gu and <b>Weitao Xu</b>, "FLoRa: Energy-Efficient, Reliable, and Beamforming-Assisted Over-The-Air Firmware Update in LoRa Networks", accepted by IPSN 2023.</li>
-<li><b>[Percom 2023]</b> Di Duan, Huanqi Yang, Guohao Lan, Tianxing Li, Xiaohua Jia, and <b>Weitao Xu</b>, "EMGSense: A Low-Effort Self-Supervised Domain Adaptation Framework for EMG Sensing", accepted by Percom 2023, <b>Best Paper Award</b>.</li>
-<li><b>[S&P 2023]</b> Tao Ni, Xiaokuan Zhang, Chaoshun Zuo, Jianfeng Li, Zhenyu Yan, Wubing Wang, <b>Weitao Xu</b> and Qingchuan Zhao, "Uncovering User Interactions on Smartphones via Contactless Wireless Charging Side Channels", accepted by S&P 2023.</li>
-<li><b>[INFOCOM 2023]</b> Huanqi Yang, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke and <b>Weitao Xu</b>, "ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing", accepted by INFOCOM 2023.</li>
-<li><b>[USENIX Security 2023]</b> Tao Ni, Guohao Lan, Jia Zhang, Qingchuan Zhao, and <b>Weitao Xu</b>. "Eavesdropping Mobile App Activity via Radio Frequency Energy Harvesting", accepted by USENIX Security 2023.</li>
-<li><b>[UbiComp CPD Workshop 2022]</b> Keqi Song, Zimeng Zhu, Huanqi Yang, Tao Ni, and <b>Weitao Xu</b>, "MobileKey: A Fast and Robust Key Generation System for Mobile Devices".</li>
+<li><b>[IPSN 2023]</b> <u>Zehua Sun</u>, Tao Ni, Huanqi Yang, Kai Liu, Yu Zhang, Tao Gu and <b>Weitao Xu</b>, "FLoRa: Energy-Efficient, Reliable, and Beamforming-Assisted Over-The-Air Firmware Update in LoRa Networks", accepted by IPSN 2023.</li>
+<li><b>[Percom 2023]</b> <u>Di Duan</u>, Huanqi Yang, Guohao Lan, Tianxing Li, Xiaohua Jia, and <b>Weitao Xu</b>, "EMGSense: A Low-Effort Self-Supervised Domain Adaptation Framework for EMG Sensing", accepted by Percom 2023, <b>Best Paper Award</b>.</li>
+<li><b>[S&P 2023]</b> <u>Tao Ni</u>, Xiaokuan Zhang, Chaoshun Zuo, Jianfeng Li, Zhenyu Yan, Wubing Wang, <b>Weitao Xu</b> and Qingchuan Zhao, "Uncovering User Interactions on Smartphones via Contactless Wireless Charging Side Channels", accepted by S&P 2023.</li>
+<li><b>[INFOCOM 2023]</b> <u>Huanqi Yang</u>, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke and <b>Weitao Xu</b>, "ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing", accepted by INFOCOM 2023.</li>
+<li><b>[USENIX Security 2023]</b> <u>Tao Ni</u>, Guohao Lan, Jia Zhang, Qingchuan Zhao, and <b>Weitao Xu</b>. "Eavesdropping Mobile App Activity via Radio Frequency Energy Harvesting", accepted by USENIX Security 2023.</li>
+<li><b>[UbiComp CPD Workshop 2022]</b> <u>Keqi Song</u>, Zimeng Zhu, Huanqi Yang, Tao Ni, and <b>Weitao Xu</b>, "MobileKey: A Fast and Robust Key Generation System for Mobile Devices".</li>
 <li><b>[MASS 2022]</b> <b>Weitao Xu</b>, Jun Young Kim, Walter Huang, Wen Hu, Salil Kanhere, Sanjay Jha, and Prasant Misra, "A Novel Emergency Light Based Smart Building Solution: Design, Implementation and Use Cases", MASS 2022.</li>
-<li><b>[IMWUT 2022]</b> Yongliang Chen, Tao Ni, <b>Weitao Xu</b>, and Tao Gu. "SwipePass: Acoustic-based Second-factor User Authentication for Smartphones", IMWUT 2022.</li>
-<li><b>[ICDCS 2022]</b> Huanqi Yang, Hongbo Liu, Yuezhong Wu, Chengwen Luo, Wei Li, Albert Zomaya, Linqi Song and <b>Weitao Xu</b>. "Vehicle-Key: A Secret Key Establishment Scheme for LoRa-enabled IoV Communications", Accepted by ICDCS 2022.</li>
+<li><b>[IMWUT 2022]</b> <u>Yongliang Chen</u>, Tao Ni, <b>Weitao Xu</b>, and Tao Gu. "SwipePass: Acoustic-based Second-factor User Authentication for Smartphones", IMWUT 2022.</li>
+<li><b>[ICDCS 2022]</b> <u>Huanqi Yang</u>, Hongbo Liu, Yuezhong Wu, Chengwen Luo, Wei Li, Albert Zomaya, Linqi Song and <b>Weitao Xu</b>. "Vehicle-Key: A Secret Key Establishment Scheme for LoRa-enabled IoV Communications", Accepted by ICDCS 2022.</li>
 <li><b>[IPSN 2022]</b> Bo Wei, <b>Weitao Xu</b>, Kai Li, Chengwen Luo, Jin Zhang. "i^2Key: A Cross-sensor Symmetric Key Generation System using Inertial Measurements and Inaudible Sound", Accepted by IPSN 2022.</li>
 <li><b>[INFOCOM 2022]</b> Jiao Li, Yang Liu, <b>Weitao Xu</b>, Zhenjiang Li. "GASLA: Enhancing the Applicability of Sign Language Translation", Accepted by INFOCOM 2022.</li>
 <li><b>[ISAEW 2021]</b> Axiu Mao, Endai Huang, <b>Weitao Xu</b>, Kai Liu. "Cross-modality Interaction Network for Equine Activity Recognition Using Time-Series Motion Data", 2021 International Symposium on Animal Environment and Welfare.</li>
-<li><b>[UbiComp CPD Workshop 2021]</b> Tao Ni, Yongliang Chen, Keqi Song, and <b>Weitao Xu</b>. "A Simple and Fast Human Activity Recognition System Using Radio Frequency Energy Harvesting", <b>Best Paper Award</b>.</li>
+<li><b>[UbiComp CPD Workshop 2021]</b> <u>Tao Ni</u>, Yongliang Chen, Keqi Song, and <b>Weitao Xu</b>. "A Simple and Fast Human Activity Recognition System Using Radio Frequency Energy Harvesting", <b>Best Paper Award</b>.</li>
 <li><b>[IPSN 2021]</b> <b>Weitao Xu</b>, Zhenjiang Li, Wanli Xue, Xiaotong Yu, Bo Wei, Jia Wang, Chengwen Luo, Wei Li, Albert Y. Zomaya. "InaudibleKey: Generic Inaudible Acoustic Signal based Key Agreement Protocol for Mobile Devices", IPSN 2021, MAY 18-21, 2021, Nashville, Tennessee, USA.</li>
 <li><b>[IPSN 2021]</b> Jiayao Gao, <b>Weitao Xu</b>, Salil Kanhere, Sanjay Jha, Wen Hu. "A Novel Model-Based Security Scheme for LoRa Key Generation", IPSN 2021, MAY 18-21, 2021, Nashville, Tennessee, USA.</li>
 <li><b>[Mobicom 2020]</b> Jun Liu, <b>Weitao Xu</b>, Sanjay Jha, Wen Hu. "Nephalai: Towards LPWAN C-RAN with Physical Layer Compression", Mobicom 2020, 21-25 Sep, London, United Kingdom.<a href="https://arxiv.org/abs/2008.02599" target="_blank"><b>[PDF]</b></a></li>
@@ -54,11 +54,11 @@ header:
 <br>
 <ol>
 <li><b>[TOSN]</b> Bo Wei, <b>Weitao Xu</b>, Mingcen Gao, Guohao Lan, Lucas Li, Chengwen Luo, Jin Zhang. "SolarKey: Battery-free Key Generation Using Solar Cells", ACM Transactions on Sensor Networks, June 2023.
-<li><b>[TOSN]</b> Mingda Han, Huanqi Yang, Tao Ni, Di Duan, Ruanmeng Zhe, Yongliang Chen, Jia Zhang, <b>Weitao Xu</b>. "mmSign: mmWave-based Few-Shot Online Handwriten Signature Verification", ACM Transactions on Sensor Networks, June 2023.
+<li><b>[TOSN]</b> <u>Mingda Han</u>, Huanqi Yang, Tao Ni, Di Duan, Ruanmeng Zhe, Yongliang Chen, Jia Zhang, <b>Weitao Xu</b>. "mmSign: mmWave-based Few-Shot Online Handwriten Signature Verification", ACM Transactions on Sensor Networks, June 2023.
 <li><b>[IoTJ]</b> Xingyu Feng, Lingjie Li, Tenglong Wang, <b>Weitao Xu</b>, Jin Zhang, Bo Wei, Chengwen Luo. "CoBC: A Blockchain-based Collaborative Inference System for the Internet of Things", IEEE Internet of Things Journal, June 2023.
 <li><b>[IoTJ]</b> Xingyu Feng, Chengwen Luo, Jiongzhang Chen, Yijing Huang, Jin Zhang, <b>Weitao Xu</b>, Jianqiang Li, and Victor C.M. Leung. "IoTSL: Towards Efficient Distributed Learning for Resource-constrained Internet of Things", IEEE Internet of Things Journal, December 2022.
 <li><b>[TMC]</b> <b>Weitao Xu</b>, Huanqi Yang, Jiongzhang Chen, Chengwen Luo, Jia Zhang, Yuliang Zhao and Wen Jung Li. "WashRing: An Energy-efficient and Highly Accurate Handwashing Monitoring System via Smart Ring", accepted by IEEE TMC in December 2022.
-<li><b>[TOSN]</b> Zehua Sun, Kai Liu, Zhimeng Yin, Zhenjiang Li, <b>Weitao Xu</b>. "Recent Advances in LoRa: A Comprehensive Survey", accepted by ACM Transactions on Sensor Network in June 2022.
+<li><b>[TOSN]</b> <u>Zehua Sun</u>, Kai Liu, Zhimeng Yin, Zhenjiang Li, <b>Weitao Xu</b>. "Recent Advances in LoRa: A Comprehensive Survey", accepted by ACM Transactions on Sensor Network in June 2022.
 <li><b>[Computer Communications]</b> Wanli Xue, Yiran Shen, Chengwen Luo, <b>Weitao Xu</b>, Wen Hu, Aruna Seneviratne. "A differential privacy-based classification system for edge computing in IoT", Computer Communications, Volume 182, pages 117-128.</li>
 <li><b>[TITS]</b> Xingyu Feng, Chengwen Luo, Bo Wei, Jin Zhang, Jianqiang Li, Huihui Wang, <b>Weitao Xu</b>, Mun Chan, Victor Leung. "Time-constrained Ensemble Sensing with Heterogeneous IoT Devices in Intelligent Transportation Systems", accepted by IEEE Transactions on Intelligent Transportation Systems in April 2022.</li>
 <li><b>[TMC]</b> Junqing Zhang, Yushi Zheng, <b>Weitao Xu</b>, Yingying Chen. "H2K: A Heartbeat-based Key Generation Framework for ECG and PPG Signals", accepted by IEEE Transactions on Mobile Computing in July 2021.</li>
