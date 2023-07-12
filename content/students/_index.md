@@ -18,14 +18,8 @@ header:
 <li>Mengzhe Ruan (Sept 2020 - present)</li>
 <li>Di Duan (Sept 2020 - present)</li>
 <li>Yongliang Chen (Sept 2020 - present)</li>
-<li>Endai Huang (Transfered from Prof. Chee Wei Tan, expected graduation date Dec 2022)</li>
 </ul>
-<br>
-<b>Research Assistants: </b>
-<br>
-<ul>
-<li>Mingda Han (March 2022- present)</li>
-</ul>
+
 <br>
 <b>Joint-supervised Students: </b>
 <br>
@@ -38,10 +32,12 @@ header:
 </ul>
 
 <br>
-<b>Alumni(last known position): </b>
+<b>Alumni (last known position): </b>
 <br>
 <ul>
 <li>Keqi Song (Mphil, January 2021-May 2023, The University of Utah)</li>
+<li>Mingda Han (RA, January 2021-May 2023, PhD at Shandong University)</li>
+<li>Endai Huang (PhD, Sept 2019-July 2023)</li>
 </ul>
 <br>
 
