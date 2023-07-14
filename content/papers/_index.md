@@ -11,6 +11,7 @@ header:
 <b>Conference Papers</b> (The underlined first authors are under my supervision)
 <br>
 <ol>
+<li><b>[MobiHoc 2023]</b> <u>Huanqi Yang</u>, Mingda Han, Shuyao Shi, Zhenyu Yan, Guoliang Xing, Jianping Wang and <b>Weitao Xu</b>, "Wave-for-Safe: Multisensor-based Mutual Authentication for Unmanned Delivery Vehicle Services", accepted by MobiHoc 2023.</li>
 <li><b>[IPSN 2023]</b> <u>Zehua Sun</u>, Tao Ni, Huanqi Yang, Kai Liu, Yu Zhang, Tao Gu and <b>Weitao Xu</b>, "FLoRa: Energy-Efficient, Reliable, and Beamforming-Assisted Over-The-Air Firmware Update in LoRa Networks", accepted by IPSN 2023.</li>
 <li><b>[Percom 2023]</b> <u>Di Duan</u>, Huanqi Yang, Guohao Lan, Tianxing Li, Xiaohua Jia, and <b>Weitao Xu</b>, "EMGSense: A Low-Effort Self-Supervised Domain Adaptation Framework for EMG Sensing", accepted by Percom 2023, <b>Best Paper Award</b>.</li>
 <li><b>[S&P 2023]</b> <u>Tao Ni</u>, Xiaokuan Zhang, Chaoshun Zuo, Jianfeng Li, Zhenyu Yan, Wubing Wang, <b>Weitao Xu</b> and Qingchuan Zhao, "Uncovering User Interactions on Smartphones via Contactless Wireless Charging Side Channels", accepted by S&P 2023.</li>
