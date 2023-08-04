@@ -11,6 +11,8 @@ header:
 <b>Conference Papers</b> (The underlined first authors are under my supervision)
 <br>
 <ol>
+<li><b>[GLOBECOM 2023]</b> Peilin Ren, Jia Zhang, Shihao Yan, <b>Weitao Xu</b>, Jiande Sun, and Naofal Al-Dhahir. "Covert Communications Assisted by Reconfigurable Intelligent Surfaces with Discrete Phase Shifts", accepted by GLOBECOM 2023.</li>
+<li><b>[GLOBECOM 2023]</b> <u>Mengzhe Ruan</u>, Guangfeng Yan, Yuanzhang Xiao, Linqi Song, and <b>Weitao Xu</b>, "Adaptive Top-K in SGD for Communication-Efficient Distributed Learning", accepted by GLOBECOM 2023.</li>
 <li><b>[MobiHoc 2023]</b> <u>Huanqi Yang</u>, Mingda Han, Shuyao Shi, Zhenyu Yan, Guoliang Xing, Jianping Wang and <b>Weitao Xu</b>, "Wave-for-Safe: Multisensor-based Mutual Authentication for Unmanned Delivery Vehicle Services", accepted by MobiHoc 2023.</li>
 <li><b>[IPSN 2023]</b> <u>Zehua Sun</u>, Tao Ni, Huanqi Yang, Kai Liu, Yu Zhang, Tao Gu and <b>Weitao Xu</b>, "FLoRa: Energy-Efficient, Reliable, and Beamforming-Assisted Over-The-Air Firmware Update in LoRa Networks", accepted by IPSN 2023.</li>
 <li><b>[Percom 2023]</b> <u>Di Duan</u>, Huanqi Yang, Guohao Lan, Tianxing Li, Xiaohua Jia, and <b>Weitao Xu</b>, "EMGSense: A Low-Effort Self-Supervised Domain Adaptation Framework for EMG Sensing", accepted by Percom 2023, <b>Best Paper Award</b>.</li>
