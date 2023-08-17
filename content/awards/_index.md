@@ -8,8 +8,9 @@ header:
   image: ""
 ---
 <ul>
+<li>2023: Percom Best Paper Award</li>
 <li>2022: Stanford's top 2% most highly cited scientists 2022</li>
-<li>2021: ACM SIGBED China Rising Star Award</li>
+<li>2021: ACM SIGBED China Rising Star Award (1 out of 2 nationwide)</li>
 <li>2021: Ubicomp CPD Workshop Best Paper Award</li>
 <li>2018: IoTDI 2018 Best Demo Runner-up Award</li>
 <li>2017: Our KEH-Sense project is selected as a WINNER for TWO Awards at 2017 NSW iAwards Mobility Innovation of the year and  Research & Development Innovation  of the year.</li>
