@@ -11,6 +11,8 @@ header:
 <b>Conference Papers</b> (The underlined first authors are under my supervision)
 <br>
 <ol>
+<li><b>[MobiCom 2023]</b> <u>Tao Ni</u>, Jianfeng Li, Xiaokuan Zhang, Chaoshun Zuo, Wubing Wang, <b>Weitao Xu</b>, Xiapu Luo, and Qingchuan Zhao, "Exploiting Contactless Side Channels in Wireless Charging Power Banks for User Privacy Inference via Few-shot Learning", accepted by MobiCom 2023.</li>
+<li><b>[MobiCom 2023]</b> <u>Tao Ni</u>, Yongliang Chen, <b>Weitao Xu</b>, Lei Xue, and Qingchuan Zhao, <b>Weitao Xu</b>, Xiapu Luo, and Qingchuan Zhao, "XPorter: A Study of the Multi-Port Charger Security on Privacy Leakage and Voice Injection", accepted by MobiCom 2023.</li>
 <li><b>[GLOBECOM 2023]</b> Peilin Ren, Jia Zhang, Shihao Yan, <b>Weitao Xu</b>, Jiande Sun, and Naofal Al-Dhahir. "Covert Communications Assisted by Reconfigurable Intelligent Surfaces with Discrete Phase Shifts", accepted by GLOBECOM 2023.</li>
 <li><b>[GLOBECOM 2023]</b> <u>Mengzhe Ruan</u>, Guangfeng Yan, Yuanzhang Xiao, Linqi Song, and <b>Weitao Xu</b>, "Adaptive Top-K in SGD for Communication-Efficient Distributed Learning", accepted by GLOBECOM 2023.</li>
 <li><b>[MobiHoc 2023]</b> <u>Huanqi Yang</u>, Mingda Han, Shuyao Shi, Zhenyu Yan, Guoliang Xing, Jianping Wang and <b>Weitao Xu</b>, "Wave-for-Safe: Multisensor-based Mutual Authentication for Unmanned Delivery Vehicle Services", accepted by MobiHoc 2023.</li>
