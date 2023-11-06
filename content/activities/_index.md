@@ -11,6 +11,8 @@ header:
 <b>Services: </b>
 <br><br>
 <ul>
+<li>2023: TPC member of IoTDI 2024</li>
+<li>2023: TPC member of IPSN 2024</li>
 <li>2023: TPC member of DCOSS-IoT 2023</li>
 <li>2023: TPC member of ICDCS 2023</li>
 <li>2022: TPC member of IPSN 2023</li>
