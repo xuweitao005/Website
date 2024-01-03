@@ -60,6 +60,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
+<li><b>[TMC]</b> Jiao Li, Jiakai Xu, Yang Liu, <b>Weitao Xu</b>, Zhenjiang Li. "Enhancing the Applicability of Sign Language Translation", IEEE Transactions on Mobile Computing, Jan 2024.
 <li><b>[TOSN]</b> Bo Wei, <b>Weitao Xu</b>, Mingcen Gao, Guohao Lan, Lucas Li, Chengwen Luo, Jin Zhang. "SolarKey: Battery-free Key Generation Using Solar Cells", ACM Transactions on Sensor Networks, June 2023.
 <li><b>[TOSN]</b> <u>Mingda Han</u>, Huanqi Yang, Tao Ni, Di Duan, Ruanmeng Zhe, Yongliang Chen, Jia Zhang, <b>Weitao Xu</b>. "mmSign: mmWave-based Few-Shot Online Handwriten Signature Verification", ACM Transactions on Sensor Networks, June 2023.
 <li><b>[IoTJ]</b> Xingyu Feng, Lingjie Li, Tenglong Wang, <b>Weitao Xu</b>, Jin Zhang, Bo Wei, Chengwen Luo. "CoBC: A Blockchain-based Collaborative Inference System for the Internet of Things", IEEE Internet of Things Journal, June 2023.
