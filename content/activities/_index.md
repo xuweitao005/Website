@@ -11,7 +11,7 @@ header:
 <b>Services: </b>
 <br><br>
 <ul>
-<li>2023: TPC member of WiSec 2024</li>
+<li>2024: TPC member of WiSec 2024</li>
 <li>2024: TPC member of ICDCS 2024</li>
 <li>2023: TPC member of IoTDI 2024</li>
 <li>2023: TPC member of IPSN 2024</li>
