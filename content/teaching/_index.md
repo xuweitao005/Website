@@ -9,6 +9,8 @@ header:
 ---
 
 <ul>
+<li>2023: Lecturer, CS1302 Introduction to Computer Programming (Semester B), City University of Hong Kong</li>
+<li>2023: Lecturer, CS1302 Introduction to Computer Programming (Semester A), City University of Hong Kong</li>
 <li>2022: Lecturer, CS1302 Introduction to Computer Programming (Semester B), City University of Hong Kong</li>
 <li>2022: Lecturer, CS1302 Introduction to Computer Programming (Semester A), City University of Hong Kong</li>
 <li>2021: Lecturer, CS1302 Introduction to Computer Programming (Semester B), City University of Hong Kong</li>
@@ -20,5 +22,4 @@ header:
 <li>2019: Guest Lecturer, Network Security, University of New South Wales</li>
 <li>2017: Lecturer/Tutor, Web, Spreadsheets and Databases, University of New South Wales</li>
 <li>2016: Tutor, Internet of Things Experimental Design Studio, University of New South Wales</li>
-<li>2014: Demonstrator, Wireless sensor network, University of Queensland</li>
 </ul>
