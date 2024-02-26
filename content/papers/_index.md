@@ -60,6 +60,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
+<li><b>[T-ASE]</b> Chengwen Luo, Yuhao Chen, Haozheng Cao, Mustafa A. Al Sibahee, <b>Weitao Xu</b>, Jin Zhang. "Multi-modal Autonomous Ultrasound Scanning for Efficient Human-machine Fusion Interaction", accepted by IEEE Transactions on Automation Science and Engineering, February 2024.
 <li><b>[TOSN]</b> <u>Zehua Sun</u>, Tao Ni, Huanqi Yang, Kai Liu, Yu Zhang, Tao Gu, <b>Weitao Xu</b>. "FLoRa+: Energy-Efficient, Reliable, Beamforming-Assisted, and Secure Over-The-Air Firmware Update in LoRa Networks", ACM Transactions on Sensor Networks, January 2023.
 <li><b>[IoT-J]</b> Yuezhong Wu, Wei Song, Yanxiang Wang, Dong Ma, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "VibMilk: Non-intrusive Milk Spoilage Detection via Smartphone Vibration", IEEE Internet of Things Journal, January 2024.
 <li><b>[TMC]</b> Jiao Li, Jiakai Xu, Yang Liu, <b>Weitao Xu</b>, Zhenjiang Li. "Enhancing the Applicability of Sign Language Translation", IEEE Transactions on Mobile Computing, Jan 2024.
