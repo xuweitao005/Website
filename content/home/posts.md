@@ -65,6 +65,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+*2024.02 Our paper entitled "RF-Egg: An RF Solution for Fine-Grained Multi-Target and Multi-Task Egg Incubation Sensing" was accpeted by MobiCom 2024. Congrats to Zehua Sun!
+
+*2023.10 Our paper entitled "XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition" was accpeted by Sensys 2023. Congrats to Huanqi Yang!
 
 *2022.12 Our paper entitled "EMGSense: A Low-Effort Self-Supervised Domain Adaptation Framework for EMG Sensing" was accpeted by Percom 2023. Congrats to Di Duan!
 
