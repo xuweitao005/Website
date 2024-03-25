@@ -117,5 +117,6 @@ header:
 <b>Book Chapter</b>
 <br>
 <ol>
-  <li><b>Weitao Xu</b>, Guohao Lan,"Smart Authentication System for Personal Wearable Devices". In Book "Wireless Body Area Networks - Enabling Technologies and Emerging Applications".</li>
+<li>Huanqi Yang, Zehua Sun, <b>Weitao Xu</b>,"Physical layer key generation for LoRa-enabled networks". In Book "Physical Layer Security for 6G Networks".</li>
+<li><b>Weitao Xu</b>, Guohao Lan,"Smart Authentication System for Personal Wearable Devices". In Book "Wireless Body Area Networks - Enabling Technologies and Emerging Applications".</li>
 </ol>
