@@ -25,7 +25,6 @@ header:
 <li><b>[S&P 2023]</b> <u>Tao Ni</u>, Xiaokuan Zhang, Chaoshun Zuo, Jianfeng Li, Zhenyu Yan, Wubing Wang, <b>Weitao Xu</b> and Qingchuan Zhao, "Uncovering User Interactions on Smartphones via Contactless Wireless Charging Side Channels", S&P 2023.</li>
 <li><b>[INFOCOM 2023]</b> <u>Huanqi Yang</u>, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke and <b>Weitao Xu</b>, "ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing", INFOCOM 2023.</li>
 <li><b>[USENIX Security 2023]</b> <u>Tao Ni</u>, Guohao Lan, Jia Wang, Qingchuan Zhao, and <b>Weitao Xu</b>. "Eavesdropping Mobile App Activity via Radio Frequency Energy Harvesting", USENIX Security 2023.</li>
-<li><b>[UbiComp CPD Workshop 2022]</b> <u>Keqi Song</u>, Zimeng Zhu, Huanqi Yang, Tao Ni, and <b>Weitao Xu</b>, "MobileKey: A Fast and Robust Key Generation System for Mobile Devices".</li>
 <li><b>[MASS 2022]</b> <b>Weitao Xu</b>, Jun Young Kim, Walter Huang, Wen Hu, Salil Kanhere, Sanjay Jha, and Prasant Misra, "A Novel Emergency Light Based Smart Building Solution: Design, Implementation and Use Cases", MASS 2022.</li>
 <li><b>[IMWUT 2022]</b> <u>Yongliang Chen</u>, Tao Ni, <b>Weitao Xu</b>, and Tao Gu. "SwipePass: Acoustic-based Second-factor User Authentication for Smartphones", IMWUT 2022.</li>
 <li><b>[ICDCS 2022]</b> <u>Huanqi Yang</u>, Hongbo Liu, Yuezhong Wu, Chengwen Luo, Wei Li, Albert Zomaya, Linqi Song and <b>Weitao Xu</b>. "Vehicle-Key: A Secret Key Establishment Scheme for LoRa-enabled IoV Communications", ICDCS 2022.</li>
@@ -99,9 +98,12 @@ header:
 
  
 <br>
-<b>Posters</b>
+<b>Short Papers</b>
 <br>
 <ol>
+<li><b>[CPS-IoT Week CSCAIoTSys Workshop 2024]</b> <u>Shengzhe Lyu</u>, Yongliang Chen, Di Duan, Renqi Jia, and <b>Weitao Xu</b>, "EarDA: Towards Accurate and Data-Efficient Earable Activity Sensing".</li>
+<li><b>[CPS-IoT Week CSCAIoTSys Workshop 2024]</b> <u>Huanqi Yang</u>, Sijie Ji, Rucheng Wu, and <b>Weitao Xu</b>, "Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs!".</li>
+<li><b>[UbiComp CPD Workshop 2022]</b> <u>Keqi Song</u>, Zimeng Zhu, Huanqi Yang, Tao Ni, and <b>Weitao Xu</b>, "MobileKey: A Fast and Robust Key Generation System for Mobile Devices".</li>
   <li><b>[Sensys' 2018]</b> Jun Liu, <b>Weitao Xu</b>, Wen Hu. "Poster Abstract: Energy Efficient LPWAN Decoding via Joint Sparse Approximation"</li>
   <li><b>[IoTDI 2018]</b> Dong Ma, Guohao Lan, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Demo abstract: simultaneous energy harvesting and sensing using piezoelectric energy harvester"</li>
   <li><b>[Mobiquitous 2017]</b> Dong Ma, Guohao Lan, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Poster abstract: unobtrusive user verification using piezoelectric energy harvesting"</li>
