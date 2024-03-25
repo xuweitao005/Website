@@ -11,6 +11,8 @@ header:
 <b>Services: </b>
 <br><br>
 <ul>
+<li>2024: TPC member of MobiSys BodySys Workshop 2024</li>
+<li>2024: TPC member of MobiCom Artifact Evaluation 2024</li>
 <li>2024: TPC member of DCOSS-IoT 2024</li>
 <li>2024: TPC member of WiSec 2024</li>
 <li>2024: TPC member of ICDCS 2024</li>
@@ -43,6 +45,11 @@ header:
 <li>2011-2012: Chairman of IEEE Shandong University Student Branch</li>
 </ul>
 
+<br><br>
+<b>Associate Editor: </b>
+<ul>
+<li>Ad Hoc Networks, 2020-present.</li>
+</ul>
 
 <br><br>
 <b>Invited Talks: </b>
@@ -76,11 +83,9 @@ IEEE Transactions on Embedded Computing Systems
 
 IEEE Communications Magazine
 
-IEEE Internet of Things (IoT) Journal
+IEEE Internet of Things Journal
 
 IEEE Sensors Journal
-
-IEEE Access
 
 Computer Communications
 
