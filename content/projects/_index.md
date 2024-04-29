@@ -9,12 +9,48 @@ header:
 ---
 <img border="0" src="header.jpg">
 
+
+<br><br>
+<h2>Application of LLM in tracking.</h2>
+<ul>
+<li>[CPS-IoT Week CSCAIoTSys Workshop 2024] "Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs!", Aochen Jiao, Di Duan, and Weitao Xu.</li>
+</ul>
+<img border="0" src="llm_track.png" width="600" height="285">
+
+<br><br>
+<h2>User authentication for AR/VR devices.</h2>
+<ul>
+<li>[MobileHCI 2024] "Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions", Huanqi Yang, Sijie Ji, Rucheng Wu, and Weitao Xu.</li>
+</ul>
+<img border="0" src="Medusa3D.pdf" width="600" height="285">
+
+<br><br>
+<h2>RFID-based egg incubation monitoring system.</h2>
+<ul>
+<li>[MobiCom 2024] "RF-Egg: An RF Solution for Fine-Grained Multi-Target and Multi-Task Egg Incubation Sensing", Zehua Sun, Tao Ni, Yongliang Chen, Di Duan, Kai Liu, and Weitao Xu.</li>
+</ul>
+<img border="0" src="RFegg.pdf" width="600" height="285">
+
+<br><br>
+<h2>Speech Enhancement for headphones.</h2>
+<ul>
+<li>[IMWUT 2024] "EarSE: Bringing Robust Speech Enhancement to COTS Headphones", Di Duan, Yongliang Chen, Weitao Xu, and Tianxing Li.</li>
+</ul>
+<img border="0" src="EarSE.pdf" width="600" height="285">
+
 <br>
 <h2>Security of Multi-Port Charger.</h2>
 <ul>
 <li>[MobiCom 2023] “XPorter: A Study of the Multi-Port Charger Security on Privacy Leakage and Voice Injection”, Tao Ni, Yongliang Chen, Weitao Xu, Lei Xue, and Qingchuan Zhao.</li>
 </ul>
 {{< youtube X9HY9mIDTGw >}}
+
+<br><br>
+<h2>Key generation for LoRa-based smart transportation.</h2>
+<ul>
+<li>[ICDCS 2022] "Vehicle-Key: A Secret Key Establishment Scheme for LoRa-enabled IoV Communications", Huanqi Yang, Hongbo Liu, Yuezhong Wu, Chengwen Luo, Wei Li, Albert Zomaya, Linqi Song and Weitao Xu.</li>
+</ul>
+<img border="0" src="Vehiclekey.pdf" width="600" height="285">
 
 
 <br>
