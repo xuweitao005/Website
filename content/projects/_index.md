@@ -22,21 +22,21 @@ header:
 <ul>
 <li>[MobileHCI 2024] "Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions", Huanqi Yang, Sijie Ji, Rucheng Wu, and Weitao Xu.</li>
 </ul>
-<img border="0" src="Medusa3D.pdf" width="600" height="285">
+<img border="0" src="Medusa3D.png" width="600" height="285">
 
 <br><br>
 <h2>RFID-based egg incubation monitoring system.</h2>
 <ul>
 <li>[MobiCom 2024] "RF-Egg: An RF Solution for Fine-Grained Multi-Target and Multi-Task Egg Incubation Sensing", Zehua Sun, Tao Ni, Yongliang Chen, Di Duan, Kai Liu, and Weitao Xu.</li>
 </ul>
-<img border="0" src="RFegg.pdf" width="600" height="285">
+<img border="0" src="RFegg.png" width="600" height="285">
 
 <br><br>
 <h2>Speech Enhancement for headphones.</h2>
 <ul>
 <li>[IMWUT 2024] "EarSE: Bringing Robust Speech Enhancement to COTS Headphones", Di Duan, Yongliang Chen, Weitao Xu, and Tianxing Li.</li>
 </ul>
-<img border="0" src="EarSE.pdf" width="600" height="285">
+<img border="0" src="EarSE.png" width="600" height="285">
 
 <br>
 <h2>Security of Multi-Port Charger.</h2>
@@ -50,7 +50,7 @@ header:
 <ul>
 <li>[ICDCS 2022] "Vehicle-Key: A Secret Key Establishment Scheme for LoRa-enabled IoV Communications", Huanqi Yang, Hongbo Liu, Yuezhong Wu, Chengwen Luo, Wei Li, Albert Zomaya, Linqi Song and Weitao Xu.</li>
 </ul>
-<img border="0" src="Vehiclekey.pdf" width="600" height="285">
+<img border="0" src="Vehiclekey.png" width="600" height="285">
 
 
 <br>
