@@ -8,6 +8,22 @@ header:
   image: ""
 ---
 <img border="0" src="header.jpg">
+
+<br>
+<h2>Security of Multi-Port Charger.</h2>
+<ul>
+<li>[MobiCom 2023] “XPorter: A Study of the Multi-Port Charger Security on Privacy Leakage and Voice Injection”, Tao Ni, Yongliang Chen, Weitao Xu, Lei Xue, and Qingchuan Zhao.</li>
+</ul>
+{{< youtube X9HY9mIDTGw >}}
+
+
+<br>
+<h2>Acoustic-based user authentication for smartphones.</h2>
+<ul>
+<li>[IMWUT 2022] “SwipePass: Acoustic-based Second-factor User Authentication for Smartphones”, Yongliang Chen, Tao Ni, Weitao Xu, and Tao Gu.</li>
+</ul>
+{{< youtube wom0x8u9J2c >}}
+
 <br><br>
 <h2>Multi-view CNN-based animal species identification system.</h2>
 <ul>
