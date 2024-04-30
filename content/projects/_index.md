@@ -20,7 +20,7 @@ header:
 <br><br>
 <h2>User authentication for AR/VR devices.</h2>
 <ul>
-<li>[MobileHCI 2024] "Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions", Huanqi Yang, Sijie Ji, Rucheng Wu, and Weitao Xu.</li>
+<li>[MobileHCI 2024] "Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions", Aochen Jiao, Di Duan, and Weitao Xu.</li>
 </ul>
 <img border="0" src="Medusa3D.png" width="600" height="285">
 
