@@ -17,7 +17,7 @@ header:
 <li><a href="https://huanqiyang.site/" target="_blank">Huanqi Yang</a> (Sept 2021 - present)</li>
 <li><a href="https://tony520.github.io/" target="_blank">Tao Ni</a> (Jan 2021 - present)</li>
 <li>Mengzhe Ruan (Sept 2020 - present)</li>
-<li><a href="https://diduan.netlify.app/" target="_blank">Duan Di</a> (Sept 2020 - present)</li>
+<li><a href="https://raphaelduan.github.io/" target="_blank">Duan Di</a> (Sept 2020 - present)</li>
 <li><a href="https://chenyongliang97.github.io/page/" target="_blank">Yongliang Chen</a> (Sept 2020 - present)</li>
 </ul>
 
