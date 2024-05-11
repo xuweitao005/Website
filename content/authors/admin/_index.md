@@ -24,7 +24,8 @@ interests:
 - Internet of Things (IoT)
 - Mobile Computing
 - IoT Security
-- Wearable Devices
+- Wearables/AR/VR
+- Large Language Model (LLM)
 - Low-power Wide-area Network (LPWAN)
 
 education:
@@ -70,7 +71,7 @@ user_groups:
 I'm an Assistant Professor at the Department of Computer Science at City University of Hong Kong. I worked as a Postdoctoral Research Associate at University of New South Wales (UNSW) from June 2017 to August 2019.  I obtained my PhD degree from the University of Queensland in 2017 (advised by Prof. [Neil Bergmann](https://scholar.google.com.au/citations?user=M7kg0MQAAAAJ&hl=en) and Prof. [Wen Hu](https://scholar.google.com/citations?user=LKpTCwkAAAAJ&hl=en)).  I received my B.E. degree in Communication Engineering and M.E. degree in Communication and Information System both from the School of Information Science and Engineering, Shandong University (SDU) , China, in 2010 and 2013, respectively.
 
 
-<span2>[Recruitment]</span2>  I'm leading the [S2MC lab@CityU](http://s2mc.site/) and continuously look for self-motivated PhD/Postdoc/RA to join us. I have relatively broad research interests, but generally my previous research focuses on IoT such as smart sensing, IoT security, IoT+AI, wireless network etc (please visit our group website for more details). For current available PhD positions in my group. please visit [Recruitment](https://www.weitaoxu.com/recruitment/) for more information.
+<span2>[Recruitment]</span2>  I'm leading the [S2MC lab@CityU](http://s2mc.site/) and continuously look for self-motivated PhD/Postdoc/RA to join us. I have relatively broad research interests, but generally my previous research focuses on IoT such as smart sensing, IoT security, wearables/AR/VR, application of LLM in IoT, wireless network etc (please visit our group website for more details). For current available PhD positions in my group. please visit [Recruitment](https://www.weitaoxu.com/recruitment/) for more information.
 
 <style>
 span2 {
