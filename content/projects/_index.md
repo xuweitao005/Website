@@ -13,7 +13,7 @@ header:
 <br><br>
 <h2>Application of LLM in tracking.</h2>
 <ul>
-<li>[CPS-IoT Week CSCAIoTSys Workshop 2024] "Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs!", Aochen Jiao, Di Duan, and Weitao Xu.</li>
+<li>[CPS-IoT Week CSCAIoTSys Workshop 2024] "Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs!", Huanqi Yang, Sijie Ji, Rucheng Wu, and Weitao Xu.</li>
 </ul>
 <img border="0" src="llm_track.png" width="600" height="285">
 
