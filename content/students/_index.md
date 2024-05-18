@@ -38,7 +38,7 @@ header:
 <ul>
 <li>Keqi Song (Mphil, January 2021-May 2023, PhD at the University of Utah)</li>
 <li><a href="https://mdhan.github.io/mingdahan/" target="_blank">Mingda Han</a> (RA, January 2021-May 2023, PhD at Shandong University)</li>
-<li><a href="https://scholar.google.com.hk/citations?user=u20yyPQAAAAJ&hl=zh-CN" target="_blank">Endai Huang</a> (PhD, Sept 2019-July 2023)</li>
+<li><a href="https://scholar.google.com.hk/citations?user=u20yyPQAAAAJ&hl=zh-CN" target="_blank">Endai Huang</a> (PhD, Sept 2019-July 2023, Associate Professor at Ningbo University)</li>
 </ul>
 <br>
 
