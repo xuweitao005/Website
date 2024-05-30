@@ -62,6 +62,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
+<li><b>[ToN]</b> <u>Huanqi Yang</u>, Zhenjiang Li, Chengwen Luo, Bo Wei, and <b>Weitao Xu</b>, "InaudibleKey2.0: Deep Learning-empowered Mobile Device Pairing Protocol based on Inaudible Acoustic Signals", accepted by IEEE/ACM Transactions on Networking, May 2024.
 <li><b>[J-STSP]</b> <u>Mengzhe Ruan</u>, Guangfeng Yan, Yuanzhang Xiao, Linqi Song, and <b>Weitao Xu</b>, "Adaptive Top-K in SGD for Communication-Efficient Distributed Learning in Multi-Robot Collaboration", accepted by Journal of Selected Topics in Signal Procecessing, March 2024.
 <li><b>[T-ASE]</b> Chengwen Luo, Yuhao Chen, Haozheng Cao, Mustafa A. Al Sibahee, <b>Weitao Xu</b>, Jin Zhang. "Multi-modal Autonomous Ultrasound Scanning for Efficient Human-machine Fusion Interaction", accepted by IEEE Transactions on Automation Science and Engineering, February 2024.
 <li><b>[TOSN]</b> <u>Zehua Sun</u>, Tao Ni, Huanqi Yang, Kai Liu, Yu Zhang, Tao Gu, <b>Weitao Xu</b>. "FLoRa+: Energy-Efficient, Reliable, Beamforming-Assisted, and Secure Over-The-Air Firmware Update in LoRa Networks", ACM Transactions on Sensor Networks, January 2023.
