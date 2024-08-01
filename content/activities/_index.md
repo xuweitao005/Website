@@ -11,6 +11,7 @@ header:
 <b>Services: </b>
 <br><br>
 <ul>
+<li>2024: TPC member of DCOSS-IoT 2025</li>
 <li>2024: TPC member of MobiSys BodySys Workshop 2024</li>
 <li>2024: TPC member of MobiCom Artifact Evaluation 2024</li>
 <li>2024: TPC member of DCOSS-IoT 2024</li>

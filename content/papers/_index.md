@@ -32,7 +32,6 @@ header:
 <li><b>[IPSN 2022]</b> Bo Wei, <b>Weitao Xu</b>, Kai Li, Chengwen Luo, Jin Zhang. "i^2Key: A Cross-sensor Symmetric Key Generation System using Inertial Measurements and Inaudible Sound", IPSN 2022.</li>
 <li><b>[INFOCOM 2022]</b> Jiao Li, Yang Liu, <b>Weitao Xu</b>, Zhenjiang Li. "GASLA: Enhancing the Applicability of Sign Language Translation", INFOCOM 2022.</li>
 <li><b>[ISAEW 2021]</b> Axiu Mao, Endai Huang, <b>Weitao Xu</b>, Kai Liu. "Cross-modality Interaction Network for Equine Activity Recognition Using Time-Series Motion Data", 2021 International Symposium on Animal Environment and Welfare.</li>
-<li><b>[UbiComp CPD Workshop 2021]</b> <u>Tao Ni</u>, Yongliang Chen, Keqi Song, and <b>Weitao Xu</b>. "A Simple and Fast Human Activity Recognition System Using Radio Frequency Energy Harvesting", <b>Best Paper Award</b>.</li>
 <li><b>[IPSN 2021]</b> <b>Weitao Xu</b>, Zhenjiang Li, Wanli Xue, Xiaotong Yu, Bo Wei, Jia Wang, Chengwen Luo, Wei Li, Albert Y. Zomaya. "InaudibleKey: Generic Inaudible Acoustic Signal based Key Agreement Protocol for Mobile Devices", IPSN 2021, MAY 18-21, 2021, Nashville, Tennessee, USA.</li>
 <li><b>[IPSN 2021]</b> Jiayao Gao, <b>Weitao Xu</b>, Salil Kanhere, Sanjay Jha, Wen Hu. "A Novel Model-Based Security Scheme for LoRa Key Generation", IPSN 2021, MAY 18-21, 2021, Nashville, Tennessee, USA.</li>
 <li><b>[Mobicom 2020]</b> Jun Liu, <b>Weitao Xu</b>, Sanjay Jha, Wen Hu. "Nephalai: Towards LPWAN C-RAN with Physical Layer Compression", Mobicom 2020, 21-25 Sep, London, United Kingdom.<a href="https://arxiv.org/abs/2008.02599" target="_blank"><b>[PDF]</b></a></li>
@@ -62,8 +61,10 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
-<li><b>[TMC]</b> <u>Huanqi Yang</u>, Di Duan, Hongbo Liu, Chengwen Luo, Yuezhong Wu, Wei Li, Albert Y. Zomaya, Linqi Song, and <b>Weitao Xu</b>, "Scenario-Adaptive Key Establishment Scheme for LoRa-enabled IoV Communications", accepted by IEEE Transactions on Mobile Computing, June 2024.
-<li><b>[ToN]</b> <u>Huanqi Yang</u>, Zhenjiang Li, Chengwen Luo, Bo Wei, and <b>Weitao Xu</b>, "InaudibleKey2.0: Deep Learning-empowered Mobile Device Pairing Protocol based on Inaudible Acoustic Signals", accepted by IEEE/ACM Transactions on Networking, May 2024.
+<li><b>[TMC]</b> Bo Wei*, <b>Weitao Xu</b>, Chengwen Luo, and Jin Zhang, "FaceFinger: Embracing Variance for Heartbeat Based Symmetric Key Generation System", accepted by IEEE Transactions on Mobile Computing, August 2024.
+<li><b>[IoT-J]</b> <u>Xingyu Feng</u>, Chengwen Luo, Junliang Chen, Jianqiang Li, Li Zhang, Zahir Tari, and <b>Weitao Xu*</b>. "Hygiea+: Towards Energy-efficient and Highly Accurate Toothbrushing Monitoring via Wrist-Worn Gesture Sensing", accepted by IEEE Internet of Things Journal, August 2024.
+<li><b>[TMC]</b> <u>Huanqi Yang</u>, Di Duan, Hongbo Liu, Chengwen Luo, Yuezhong Wu, Wei Li, Albert Y. Zomaya, Linqi Song, and <b>Weitao Xu*</b>, "Scenario-Adaptive Key Establishment Scheme for LoRa-enabled IoV Communications", accepted by IEEE Transactions on Mobile Computing, June 2024.
+<li><b>[ToN]</b> <u>Huanqi Yang</u>, Zhenjiang Li, Chengwen Luo, Bo Wei, and <b>Weitao Xu*</b>, "InaudibleKey2.0: Deep Learning-empowered Mobile Device Pairing Protocol based on Inaudible Acoustic Signals", accepted by IEEE/ACM Transactions on Networking, May 2024.
 <li><b>[J-STSP]</b> <u>Mengzhe Ruan</u>, Guangfeng Yan, Yuanzhang Xiao, Linqi Song, and <b>Weitao Xu</b>, "Adaptive Top-K in SGD for Communication-Efficient Distributed Learning in Multi-Robot Collaboration", accepted by Journal of Selected Topics in Signal Procecessing, March 2024.
 <li><b>[T-ASE]</b> Chengwen Luo, Yuhao Chen, Haozheng Cao, Mustafa A. Al Sibahee, <b>Weitao Xu</b>, Jin Zhang. "Multi-modal Autonomous Ultrasound Scanning for Efficient Human-machine Fusion Interaction", accepted by IEEE Transactions on Automation Science and Engineering, February 2024.
 <li><b>[TOSN]</b> <u>Zehua Sun</u>, Tao Ni, Huanqi Yang, Kai Liu, Yu Zhang, Tao Gu, <b>Weitao Xu</b>. "FLoRa+: Energy-Efficient, Reliable, Beamforming-Assisted, and Secure Over-The-Air Firmware Update in LoRa Networks", ACM Transactions on Sensor Networks, January 2023.
@@ -107,6 +108,7 @@ header:
 <li><b>[CPS-IoT Week CSCAIoTSys Workshop 2024]</b> <u>Shengzhe Lyu</u>, Yongliang Chen, Di Duan, Renqi Jia, and <b>Weitao Xu</b>, "EarDA: Towards Accurate and Data-Efficient Earable Activity Sensing".</li>
 <li><b>[CPS-IoT Week CSCAIoTSys Workshop 2024]</b> <u>Huanqi Yang</u>, Sijie Ji, Rucheng Wu, and <b>Weitao Xu</b>, "Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs!".</li>
 <li><b>[UbiComp CPD Workshop 2022]</b> <u>Keqi Song</u>, Zimeng Zhu, Huanqi Yang, Tao Ni, and <b>Weitao Xu</b>, "MobileKey: A Fast and Robust Key Generation System for Mobile Devices".</li>
+<li><b>[UbiComp CPD Workshop 2021]</b> <u>Tao Ni</u>, Yongliang Chen, Keqi Song, and <b>Weitao Xu</b>. "A Simple and Fast Human Activity Recognition System Using Radio Frequency Energy Harvesting", <b>Best Paper Award</b>.</li>
   <li><b>[Sensys' 2018]</b> Jun Liu, <b>Weitao Xu</b>, Wen Hu. "Poster Abstract: Energy Efficient LPWAN Decoding via Joint Sparse Approximation"</li>
   <li><b>[IoTDI' 2018]</b> Dong Ma, Guohao Lan, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Demo abstract: simultaneous energy harvesting and sensing using piezoelectric energy harvester"</li>
   <li><b>[Mobiquitous 2017]</b> Dong Ma, Guohao Lan, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Poster abstract: unobtrusive user verification using piezoelectric energy harvesting"</li>
