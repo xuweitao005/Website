@@ -7,18 +7,15 @@ header:
   caption: ""
   image: ""
 ---
-<b>PhD Students: </b>
+<b>Students: </b>
 <br>
 <ul>
-<li>Shengzhe Lyu (Sept 2023 - present)</li>
-<li><a href="https://scholar.google.com/citations?user=Fk5F1p8AAAAJ&hl=en" target="_blank">Rucheng Wu</a> (Jan 2023 - present)</li>
-<li>Renqi Jia (Sept 2022 - present)</li>
-<li><a href="https://scholar.google.com/citations?user=N2cotUwAAAAJ&hl=en" target="_blank">Zehua Sun</a> (Sept 2021 - present)</li>
-<li><a href="https://huanqiyang.site/" target="_blank">Huanqi Yang</a> (Sept 2021 - present)</li>
-<li><a href="https://tony520.github.io/" target="_blank">Tao Ni</a> (Jan 2021 - present)</li>
-<li>Mengzhe Ruan (Sept 2020 - present)</li>
-<li><a href="https://raphaelduan.github.io/" target="_blank">Duan Di</a> (Sept 2020 - present)</li>
-<li><a href="https://chenyongliang97.github.io/page/" target="_blank">Yongliang Chen</a> (Sept 2020 - present)</li>
+<li>Shengzhe Lyu (PhD, September 2023-present)</li>
+<li><a href="https://scholar.google.com/citations?user=Fk5F1p8AAAAJ&hl=en" target="_blank">Rucheng Wu</a> (PhD, January 2023-present)</li>
+<li>Renqi Jia (PhD, September 2022-present)</li>
+<li><a href="https://scholar.google.com/citations?user=N2cotUwAAAAJ&hl=en" target="_blank">Zehua Sun</a> (PhD, September 2021-present)</li>
+<li><a href="https://huanqiyang.site/" target="_blank">Huanqi Yang</a> (PhD, September 2021-present)</li>
+
 </ul>
 
 <br>
@@ -36,9 +33,12 @@ header:
 <b>Alumni (last known position): </b>
 <br>
 <ul>
-<li>Keqi Song (Mphil, January 2021-May 2023, PhD at the University of Utah)</li>
+<li><a href="https://tony520.github.io/" target="_blank">Tao Ni</a> (PhD, January 2021-June 2024, Postdoc at City University of Hong Kong)</li>
+<li><a href="https://raphaelduan.github.io/" target="_blank">Duan Di</a> (PhD, September 2020-June 2024, Postdoc at Chinese University of Hong Kong)</li>
+<li><a href="https://chenyongliang97.github.io/page/" target="_blank">Yongliang Chen</a> (PhD, September 2020-June 2024, Postdoc at City University of Hong Kong)</li>
+<li>Keqi Song (Mphil, January 2021-February 2023, PhD at City University of Hong Kong)</li>
 <li><a href="https://mdhan.github.io/mingdahan/" target="_blank">Mingda Han</a> (RA, January 2021-May 2023, PhD at Shandong University)</li>
-<li><a href="https://scholar.google.com.hk/citations?user=u20yyPQAAAAJ&hl=zh-CN" target="_blank">Endai Huang</a> (PhD, Sept 2019-July 2023, Associate Professor at Ningbo University)</li>
+<li><a href="https://scholar.google.com.hk/citations?user=u20yyPQAAAAJ&hl=zh-CN" target="_blank">Endai Huang</a> (PhD, September 2019-June 2023, Associate Professor at Ningbo University)</li>
 </ul>
 <br>
 
