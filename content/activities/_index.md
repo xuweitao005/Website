@@ -12,11 +12,13 @@ header:
 <br><br>
 <ul>
 <li>2024: TPC member of DCOSS-IoT 2025</li>
+<li>2024: TPC member of MobiCom PICASSO Workshop 2024</li>
 <li>2024: TPC member of MobiSys BodySys Workshop 2024</li>
 <li>2024: TPC member of MobiCom Artifact Evaluation 2024</li>
 <li>2024: TPC member of DCOSS-IoT 2024</li>
 <li>2024: TPC member of WiSec 2024</li>
 <li>2024: TPC member of ICDCS 2024</li>
+<li>2023: Co-Chair of Workshop on Emerging Physical-layer Security Technologies and Applications for BG5 and 6G</li>
 <li>2023: TPC member of IoTDI 2024</li>
 <li>2023: TPC member of IPSN 2024</li>
 <li>2023: TPC member of DCOSS-IoT 2023</li>
