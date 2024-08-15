@@ -11,7 +11,8 @@ header:
 <b>Conference Papers</b> (The underlined first authors are under my supervision)
 <br>
 <ol>
-<li><b>[MobileHCI 2024]</b> <u>Aochen Jiao</u>, Di Duan, and <b>Weitao Xu</b>, "Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions", MobileHCI 2024.</li>
+<li><b>[MobiHoc 2024]</b> <u>Tao Ni</u>, Zehua Sun, Mingda Han, Yaxiong Xie, Guohao Lan, Zhenjiang Li, Tao Gu, and <b>Weitao Xu*</b>. “REHSense: Towards Battery-Free Wireless Sensing via Radio Frequency Energy Harvesting”, In Proceedings of  the 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc), Athens, Greece, 2024.</li>
+<li><b>[MobileHCI 2024]</b> <u>Aochen Jiao</u>, Di Duan, and <b>Weitao Xu*</b>, "Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions", MobileHCI 2024.</li>
 <li><b>[MobiSys 2024]</b> <u>Di Duan</u>, Zehua Sun, Tao Ni, Xiaohua Jia, <b>Weitao Xu</b>, and Tianxing Li, "F2Key: Dynamically Converting Your Face into a Private Key Based on COTS Headphones for Reliable Voice Interaction", MobiSys 2024.</li>
 <li><b>[MobiCom 2024]</b> <u>Zehua Sun</u>, Tao Ni, Yongliang Chen, Di Duan, Kai Liu, and <b>Weitao Xu</b>, "RF-Egg: An RF Solution for Fine-Grained Multi-Target and Multi-Task Egg Incubation Sensing", MobiCom 2024.</li>
 <li><b>[SenSys 2023]</b> <u>Huanqi Yang</u>, Mingda Han, Mingda Jia, Zehua Sun, Pengfei Hu, Yu Zhang, Tao Gu, and <b>Weitao Xu</b>, "XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition", SenSys 2023. (Acceptance rate: 34/179=18.9%)</li>
