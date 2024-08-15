@@ -62,7 +62,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
-<li><b>[TMC] Mingda Han, Huanqi Yang, Mingda Jia, <b>Weitao Xu</b>, Yanni Yang, Zhijian Huang, Jun Luo, Xiuzhen Cheng, and Pengfei Hu*. "Seeing the Invisible: Recovering Surveillance Video with COTS mmWave Radar", IEEE Transactions on Mobile Computing, Early Access, August 2024.
+<li><b>[TMC]</b> Mingda Han, Huanqi Yang, Mingda Jia, <b>Weitao Xu</b>, Yanni Yang, Zhijian Huang, Jun Luo, Xiuzhen Cheng, and Pengfei Hu*. "Seeing the Invisible: Recovering Surveillance Video with COTS mmWave Radar", IEEE Transactions on Mobile Computing, Early Access, August 2024.
 <li><b>[TMC]</b> Bo Wei*, <b>Weitao Xu</b>, Chengwen Luo, and Jin Zhang, "FaceFinger: Embracing Variance for Heartbeat Based Symmetric Key Generation System", accepted by IEEE Transactions on Mobile Computing, August 2024.
 <li><b>[IoT-J]</b> <u>Xingyu Feng</u>, Chengwen Luo, Junliang Chen, Jianqiang Li, Li Zhang, Zahir Tari, and <b>Weitao Xu*</b>. "Hygiea+: Towards Energy-efficient and Highly Accurate Toothbrushing Monitoring via Wrist-Worn Gesture Sensing", accepted by IEEE Internet of Things Journal, August 2024.
 <li><b>[TMC]</b> <u>Huanqi Yang</u>, Di Duan, Hongbo Liu, Chengwen Luo, Yuezhong Wu, Wei Li, Albert Y. Zomaya, Linqi Song, and <b>Weitao Xu*</b>, "Scenario-Adaptive Key Establishment Scheme for LoRa-enabled IoV Communications", accepted by IEEE Transactions on Mobile Computing, June 2024.
