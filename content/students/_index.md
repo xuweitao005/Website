@@ -15,6 +15,7 @@ header:
 <li>Renqi Jia (PhD, September 2022-present)</li>
 <li><a href="https://scholar.google.com/citations?user=N2cotUwAAAAJ&hl=en" target="_blank">Zehua Sun</a> (PhD, September 2021-present)</li>
 <li><a href="https://huanqiyang.site/" target="_blank">Huanqi Yang</a> (PhD, September 2021-present)</li>
+<li>Mengzhe Ruan (PhD, September 2020-present)</li>
 
 </ul>
 
