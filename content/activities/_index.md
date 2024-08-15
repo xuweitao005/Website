@@ -52,7 +52,7 @@ header:
 <br><br>
 <b>Associate Editor: </b>
 <ul>
-<li>Ad Hoc Networks, 2020-present.</li>
+<li>Ad Hoc Networks, Nov 2019-present.</li>
 </ul>
 
 <br><br>
@@ -88,8 +88,6 @@ IEEE Transactions on Embedded Computing Systems
 IEEE Communications Magazine
 
 IEEE Internet of Things Journal
-
-IEEE Sensors Journal
 
 Computer Communications
 
