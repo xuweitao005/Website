@@ -28,7 +28,7 @@ header:
 <li>2022: TPC member of ICPADS 2022</li>
 <li>2022: TPC member of SECON 2022</li>
 <li>2022: TPC member of Workshop on Smart Wearable Systems and Applications (SmartWear) 2022</li>
-<li>2022: TPC member of Globecom 2022</li>
+<li>2022: TPC member of GLOBECOM 2022</li>
 <li>2022: TPC member of EWSN 2022</li>
 <li>2022: Social Media Chair of Mobicom 2022</li>
 <li>2021: TPC member of Mobiquitous 2021</li>
@@ -36,7 +36,7 @@ header:
 <li>2021: Co-Chair of Workshop on Combining Physical and Data-Driven Knowledge in Ubiquitous Computing 2021</li>
 <li>2021: TPC member of Workshop on VNI: Virtualization for Enabling Next-Generation IoT Networks</li>
 <li>2021: TPC member of Workshop on Combining Physical and Data-Driven Knowledge in Ubiquitous Computing 2020</li>
-<li>2021: TPC member of The First International Workshop on Cyber-Physical-Human System Design and Implementation (CPHS 2021)</li>
+<li>2021: TPC member of the First International Workshop on Cyber-Physical-Human System Design and Implementation (CPHS 2021)</li>
 <li>2020: Publicity chair of Buildsys 2020</li>
 <li>2020: TPC member of COMSNET 2021</li>
 <li>2020: TPC member of IEEE EWSN 2020</li>
@@ -68,11 +68,12 @@ header:
 <br><br>
 <b>Reviewer For: </b>
 <br><br>
-CCS, Sensys, IPSN, Ubicomp, Percom, EWSN, LCN, ICC, WCNC, Mobiquitous, IoTDI etc.
 
-IEEE Transactions on mobile computing (TMC)
+IEEE Transactions on Mobile Computing (TMC)
 
 ACM Transactions on Sensor Networks (TOSN)
+
+IEEE Transactions on Wireless Communication (TWC)
 
 IEEE Transactions on Dependable and Secure Computing (TDSC)
 
@@ -88,11 +89,7 @@ IEEE Communications Magazine
 
 IEEE Internet of Things Journal
 
-Computer Communications
-
-Pervasive and Mobile Computing
-
-Computer Networks
+etc
 
 
 
