@@ -22,7 +22,7 @@ header:
 <ul>
 <li>[MobileHCI 2024] "Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions", Aochen Jiao, Di Duan, and Weitao Xu.</li>
 </ul>
-<img border="0" src="Medusa3D.png" width="600" height="285">
+<img border="0" src="Medusa3D.jpg" width="600" height="285">
 
 <br><br>
 <h2>RFID-based egg incubation monitoring system.</h2>
