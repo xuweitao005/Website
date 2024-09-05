@@ -65,30 +65,40 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-*2024.02 Our paper entitled "RF-Egg: An RF Solution for Fine-Grained Multi-Target and Multi-Task Egg Incubation Sensing" was accpeted by MobiCom 2024. Congrats to Zehua Sun!
+*2024.08 Our paper entitled "Seeing the Invisible: Recovering Surveillance Video with COTS mmWave Radar" has been accepted by IEEE Transactions on Mobile Computing. Congrats to Mingda!
 
-*2023.10 Our paper entitled "XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition" was accpeted by Sensys 2023. Congrats to Huanqi Yang!
+*2024.06 Our paper entitled "InaudibleKey2.0: Deep Learning-empowered Mobile Device Pairing Protocol based on Inaudible Acoustic Signals" has been accepted by IEEE/ACM Transactions on Networking. Congrats to Huanqi!
 
-*2022.12 Our paper entitled "EMGSense: A Low-Effort Self-Supervised Domain Adaptation Framework for EMG Sensing" was accpeted by Percom 2023. Congrats to Di Duan!
+*2024.06 Our paper entitled "Scenario-Adaptive Key Establishment Scheme for LoRa-enabled IoV Communications" has been accepted by IEEE Transactions on Mobile Computing. Congrats to Huanqi!
 
-*2022.12 Our paper entitled "Uncovering User Interactions on Smartphones via Contactless Wireless Charging Side Channels" was accpeted by S&P 2023. Congrats to Tao Ni!
+*2024.06 Our paper entitled "REHSense: Towards Battery-Free Wireless Sensing via Radio Frequency Energy Harvesting" has been accepted by MobiHoc 2024. Congrats to Tao Ni!
 
-*2022.12 Our paper entitled "ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing" was accpeted by INFOCOM 2023. Congrats to Huanqi!
+*2024.02 Our paper entitled "RF-Egg: An RF Solution for Fine-Grained Multi-Target and Multi-Task Egg Incubation Sensing" has been accepted by MobiCom 2024. Congrats to Zehua Sun!
 
-*2022.12 Our paper entitled "WashRing: An Energy-efficient and Highly Accurate Handwashing Monitoring System via Smart Ring" was accpeted by IEEE TMC!
+*2023.10 Our paper entitled "XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition" has been accepted by SenSys 2023. Congrats to Huanqi Yang!
 
-*2022.9 Congrats to Zehua who recevied the Outstanding Academic Performnace Award and Huanqi who received the Research Tuition Scholarship!
+*2023.03 Our paper entitled "EMGSense: A Low-Effort Self-Supervised Domain Adaptation Framework for EMG Sensing" received the IEEE PerCom 2023 Best Paper Award (1 out of the 27 accepted papers). Big congrats to Di Duan!
 
-*2022.7 We paper entitled "Eavesdropping Mobile App Activity via Radio Frequency Energy Harvesting" has been conditionally accepted by USENIX Security!, Congrats, Tao Ni!
+*2022.12 Our paper entitled "EMGSense: A Low-Effort Self-Supervised Domain Adaptation Framework for EMG Sensing" has been accepted by Percom 2023. Congrats to Di Duan!
 
-*2022.6 We paper entitled "SwipePass: Acoustic-based Second-factor User Authentication for Smartphones" has been conditionally accepted by IMWUT 2022!, Congrats, Yongliang!
+*2022.12 Our paper entitled "Uncovering User Interactions on Smartphones via Contactless Wireless Charging Side Channels" was accepted by S&P 2023. Congrats to Tao Ni!
 
-*2022.5 Our paper entitled "Recent Advances in LoRa: A Comprehensive Survey" has been accepted by ACM TOSN!, Congrats, Zehua!
+*2022.12 Our paper entitled "ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing" was accepted by INFOCOM 2023. Congrats to Huanqi!
 
-*2022.4 Our paper entitled "Vehicle-Key: A Secret Key Establishment Scheme for LoRa-enabled IoV Communications" has been accepted by ICDCS 2022! Congrats, Huanqi!
+*2022.12 Our paper entitled "WashRing: An Energy-efficient and Highly Accurate Handwashing Monitoring System via Smart Ring" was accepted by IEEE TMC!
 
-*2022.3 Our paper entitled "Time-constrained Ensemble Sensing with Heterogeneous IoT Devices in Intelligent Transportation Systems" has been accepted by IEEE TITS!
+*2022.09 Congrats to Zehua who recevied the Outstanding Academic Performnace Award and Huanqi who received the Research Tuition Scholarship!
 
-*2022.2 Our paper entitled "i^2Key: A Cross-sensor Symmetric Key Generation System using Inertial Measurements and Inaudible Sound" has been accepted by IPSN 2022!
+*2022.07 We paper entitled "Eavesdropping Mobile App Activity via Radio Frequency Energy Harvesting" has been conditionally accepted by USENIX Security!, Congrats, Tao Ni!
+
+*2022.06 We paper entitled "SwipePass: Acoustic-based Second-factor User Authentication for Smartphones" has been conditionally accepted by IMWUT 2022!, Congrats, Yongliang!
+
+*2022.05 Our paper entitled "Recent Advances in LoRa: A Comprehensive Survey" has been accepted by ACM TOSN!, Congrats, Zehua!
+
+*2022.04 Our paper entitled "Vehicle-Key: A Secret Key Establishment Scheme for LoRa-enabled IoV Communications" has been accepted by ICDCS 2022! Congrats, Huanqi!
+
+*2022.03 Our paper entitled "Time-constrained Ensemble Sensing with Heterogeneous IoT Devices in Intelligent Transportation Systems" has been accepted by IEEE TITS!
+
+*2022.02 Our paper entitled "i^2Key: A Cross-sensor Symmetric Key Generation System using Inertial Measurements and Inaudible Sound" has been accepted by IPSN 2022!
 
 *2021.12 Our paper entitled "GASLA: Enhancing the Applicability of Sign Language Translation" has been accepted by INFOCOM 2022!
