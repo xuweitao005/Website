@@ -32,6 +32,15 @@ header:
 </ul>
 
 <br>
+<b>Postdoc and RA: </b>
+<br>
+<ul>
+<li>Dr. Chih Wei Ling (Postdoc, September 2024-present)</li>
+<li>Aochen Jiao (RA, June 2023-present)</li>
+</ul>
+
+
+<br>
 <b>Alumni (last known position): </b>
 <br>
 <ul>
