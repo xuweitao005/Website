@@ -8,7 +8,7 @@ header:
   image: ""
 ---
 <ul>
-<li>2024: MobiHCI Honorable Mention Award</li>
+<li>2024: MobileHCI Honorable Mention Award</li>
 <li>2024: Stanford's top 2% most highly cited scientists 2024</li>
 <li>2023: IEEE PerCom Best Paper Award (1 out of 27 accepted papers)</li>
 <li>2022: Stanford's top 2% most highly cited scientists 2022</li>

@@ -65,7 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-*2024.08 Our paper "Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions" received the Honorable Mention Award in MobiHCI 2024. Congrats to Aochen nd Di Duan!
+*2024.08 Our paper "Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions" received the Honorable Mention Award in MobileHCI 2024. Congrats to Aochen nd Di Duan!
 
 *2024.08 Our paper entitled "Seeing the Invisible: Recovering Surveillance Video with COTS mmWave Radar" has been accepted by IEEE Transactions on Mobile Computing. Congrats to Mingda!
 
