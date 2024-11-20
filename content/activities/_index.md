@@ -11,6 +11,7 @@ header:
 <b>Services: </b>
 <br><br>
 <ul>
+<li>2024: TPC member of SenSys 2025</li>
 <li>2024: TPC member of MobiCom 2025</li>
 <li>2024: TPC member of DCOSS-IoT 2025</li>
 <li>2024: TPC member of MobiCom PICASSO Workshop 2024</li>
