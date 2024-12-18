@@ -11,6 +11,7 @@ header:
 <b>Conference Papers</b> (The underlined first authors are under my supervision)
 <br>
 <ol>
+<li><b>[INFOCOM 2025]</b> <u>Huanqi Yang</u>, Mingda Han, Xinyue Li, Di Duan, Tianxing Li, and <b>Weitao Xu*</b>. "iRadar: Synthesizing Millimeter-Waves from Wearable Inertial Inputs for Human Gesture Sensing," In Proceedings of IEEE Conference on Computer Communications (INFOCOM), London, UK, 2025.</li>
 <li><b>[ICPADS 2024]</b> <u>Mengzhe Ruan</u>, Yunhe Li, Weizhou Zhang, Linqi Song, and <b>Weitao Xu*</b>. "Optimal Power Control for Over-the-Air Federated Learning with Gradient Compression," In Proceedings of  the 30th International Conference on Parallel and Distributed Systems (ICPADS), Belgrade, Serbia, 2024.</li>
 <li><b>[MobiHoc 2024]</b> <u>Tao Ni</u>, Zehua Sun, Mingda Han, Guohao Lan, Yaxiong Xie, Zhenjiang Li, Tao Gu, and <b>Weitao Xu*</b>. "REHSense: Towards Battery-Free Wireless Sensing via Radio Frequency Energy Harvesting," In Proceedings of  the 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc), Athens, Greece, 2024.</li>
 <li><b>[MobileHCI 2024]</b> <u>Aochen Jiao</u>, Di Duan, and <b>Weitao Xu*</b>. "Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions," In Proceedings of  the ACM International Conference on Mobile Human-Computer Interaction (MobileHCI), Melbourne, Australia, 2024.</li>
