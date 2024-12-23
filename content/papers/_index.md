@@ -63,6 +63,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
+<li><b>[IoT-J]</b> <u>Xingyu Feng</u>, Renqi Jia,  Chengwen Luo, Victor C.M. Leung, and <b>Weitao Xu*</b>. "SLwF: A Split Learning without Forgetting Framework for Internet of Things," IEEE Internet of Things Journal, Early Access, December 2024.
 <li><b>[TMC]</b> Bo Wei*, <b>Weitao Xu</b>, Chengwen Luo, and Jin Zhang. "FaceFinger: Embracing Variance for Heartbeat Based Symmetric Key Generation System," IEEE Transactions on Mobile Computing, Early Access, August 2024.
 <li><b>[IoT-J]</b> <u>Xingyu Feng</u>, Chengwen Luo, Junliang Chen, Jianqiang Li, Li Zhang, Zahir Tari, and <b>Weitao Xu*</b>. "Hygiea+: Towards Energy-efficient and Highly Accurate Toothbrushing Monitoring via Wrist-Worn Gesture Sensing," IEEE Internet of Things Journal, Early Access, August 2024.
 <li><b>[TMC]</b> <u>Huanqi Yang</u>, Di Duan, Hongbo Liu, Chengwen Luo, Yuezhong Wu, Wei Li, Albert Y. Zomaya, Linqi Song, and <b>Weitao Xu*</b>. "Scenario-Adaptive Key Establishment Scheme for LoRa-enabled IoV Communications," IEEE Transactions on Mobile Computing, Early Access, June 2024.
