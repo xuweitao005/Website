@@ -10,6 +10,7 @@ header:
 <b>Students: </b>
 <br>
 <ul>
+<li>Yihan Wang (PhD, January 2025-present)</li>
 <li>Jiawen Chen (PhD, September 2024-present)</li>
 <li>Shengzhe Lyu (PhD, September 2023-present)</li>
 <li><a href="https://scholar.google.com/citations?user=Fk5F1p8AAAAJ&hl=en" target="_blank">Rucheng Wu</a> (PhD, January 2023-present)</li>
