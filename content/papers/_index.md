@@ -64,6 +64,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
+<li><b>[TMC]</b> Chengwen Luo, Renqi Jia,  Chengwen Luo, Victor C.M. Leung, and <b>Weitao Xu*</b>. "LaserKey: Eavesdropping Keyboard Typing Leveraging Vibrational Emanations via Laser Sensing," IEEE Transactions on Mobile Computing, Early Access, January 2025.
 <li><b>[IoT-J]</b> <u>Xingyu Feng</u>, Renqi Jia,  Chengwen Luo, Victor C.M. Leung, and <b>Weitao Xu*</b>. "SLwF: A Split Learning without Forgetting Framework for Internet of Things," IEEE Internet of Things Journal, Early Access, December 2024.
 <li><b>[TMC]</b> Bo Wei*, <b>Weitao Xu</b>, Chengwen Luo, and Jin Zhang. "FaceFinger: Embracing Variance for Heartbeat Based Symmetric Key Generation System," IEEE Transactions on Mobile Computing, Early Access, August 2024.
 <li><b>[IoT-J]</b> <u>Xingyu Feng</u>, Chengwen Luo, Junliang Chen, Jianqiang Li, Li Zhang, Zahir Tari, and <b>Weitao Xu*</b>. "Hygiea+: Towards Energy-efficient and Highly Accurate Toothbrushing Monitoring via Wrist-Worn Gesture Sensing," IEEE Internet of Things Journal, Early Access, August 2024.
