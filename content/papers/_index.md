@@ -11,7 +11,8 @@ header:
 <b>Conference Papers</b> (The underlined first authors are under my supervision)
 <br>
 <ol>
-<li><b>[SDM 2025]</b> <u>Renqi Jia</u>, Xiaokun Zhang, Bowei He, Qiannan Zhu, <b>Weitao Xu</b>, Jiehao Chen and Chen Ma. "Beyond Models! Data Valuation and Metric Adaption for Recommendation," In Proceedings of SIAM International Conference on Data Mining (SDM), Alexandria Virginia, U.S., 2025.</li>
+<li><b>[SenSys 2025]</b> <u>Di Duan</u>, Shengzhe Lyu,  Mu Yuan, Hongfei Xue, Tianxing Li, <b>Weitao Xu</b>, Kaishun Wu, and Guoliang Xing. "Argus: Multi-View Egocentric Human Mesh Reconstruction Based on Stripped-Down Wearable mmWave Add-on," In Proceedings of the 23rd ACM Conference on Embedded Networked Sensor Systems (SenSys), Irvine, USA, 2025.</li>
+<li><b>[SDM 2025]</b> <u>Renqi Jia</u>, Xiaokun Zhang, Bowei He, Qiannan Zhu, <b>Weitao Xu</b>, Jiehao Chen and Chen Ma. "Beyond Models! Data Valuation and Metric Adaption for Recommendation," In Proceedings of SIAM International Conference on Data Mining (SDM), Alexandria Virginia, USA, 2025.</li>
 <li><b>[INFOCOM 2025]</b> <u>Huanqi Yang</u>, Mingda Han, Xinyue Li, Di Duan, Tianxing Li, and <b>Weitao Xu*</b>. "iRadar: Synthesizing Millimeter-Waves from Wearable Inertial Inputs for Human Gesture Sensing," In Proceedings of IEEE Conference on Computer Communications (INFOCOM), London, UK, 2025.</li>
 <li><b>[ICPADS 2024]</b> <u>Mengzhe Ruan</u>, Yunhe Li, Weizhou Zhang, Linqi Song, and <b>Weitao Xu*</b>. "Optimal Power Control for Over-the-Air Federated Learning with Gradient Compression," In Proceedings of  the 30th International Conference on Parallel and Distributed Systems (ICPADS), Belgrade, Serbia, 2024.</li>
 <li><b>[MobiHoc 2024]</b> <u>Tao Ni</u>, Zehua Sun, Mingda Han, Guohao Lan, Yaxiong Xie, Zhenjiang Li, Tao Gu, and <b>Weitao Xu*</b>. "REHSense: Towards Battery-Free Wireless Sensing via Radio Frequency Energy Harvesting," In Proceedings of  the 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc), Athens, Greece, 2024.</li>
@@ -64,6 +65,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
+<li><b>[Ad Hoc Networks]</b> Ming Li, Furong Xu, Yuqin Wu, Jianshan Zhang, <b>Weitao Xu</b>, and Yuezhong Wu. "Real-time task dispatching and scheduling in serverless edge computing,"  Ad Hoc Networks, Early Access, April 2025.
 <li><b>[TMC]</b> Chengwen Luo, Renqi Jia,  Chengwen Luo, Victor C.M. Leung, and <b>Weitao Xu*</b>. "LaserKey: Eavesdropping Keyboard Typing Leveraging Vibrational Emanations via Laser Sensing," IEEE Transactions on Mobile Computing, Early Access, January 2025.
 <li><b>[IoT-J]</b> <u>Xingyu Feng</u>, Renqi Jia,  Chengwen Luo, Victor C.M. Leung, and <b>Weitao Xu*</b>. "SLwF: A Split Learning without Forgetting Framework for Internet of Things," IEEE Internet of Things Journal, Early Access, December 2024.
 <li><b>[TMC]</b> Bo Wei*, <b>Weitao Xu</b>, Chengwen Luo, and Jin Zhang. "FaceFinger: Embracing Variance for Heartbeat Based Symmetric Key Generation System," IEEE Transactions on Mobile Computing, Early Access, August 2024.
