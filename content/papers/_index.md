@@ -65,6 +65,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
+<li><b>[TMC]</b> Xingyu Feng, Zehua Sun, Zhuangzhuang Chen, Chengwen Luo, Zhangbing Zhou, Victor C.M. Leung, and <b>Weitao Xu*</b>. "LLM-CoSen: Revisiting Collaborative Sensing with Large Language Models (LLMs)," IEEE Transactions on Mobile Computing, Early Access, June 2025.
 <li><b>[Ad Hoc Networks]</b> Ming Li, Furong Xu, Yuqin Wu, Jianshan Zhang, <b>Weitao Xu</b>, and Yuezhong Wu. "Real-time task dispatching and scheduling in serverless edge computing,"  Ad Hoc Networks, Early Access, April 2025.
 <li><b>[TMC]</b> Chengwen Luo, Renqi Jia,  Chengwen Luo, Victor C.M. Leung, and <b>Weitao Xu*</b>. "LaserKey: Eavesdropping Keyboard Typing Leveraging Vibrational Emanations via Laser Sensing," IEEE Transactions on Mobile Computing, Early Access, January 2025.
 <li><b>[IoT-J]</b> <u>Xingyu Feng</u>, Renqi Jia,  Chengwen Luo, Victor C.M. Leung, and <b>Weitao Xu*</b>. "SLwF: A Split Learning without Forgetting Framework for Internet of Things," IEEE Internet of Things Journal, Early Access, December 2024.
