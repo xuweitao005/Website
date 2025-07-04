@@ -65,7 +65,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
-<li><b>[TMC]</b> Tao Ni, Zehua Sun, Yongliang Chen, Yihe Zhou, Jiayimei Wang, <b>Weitao Xu*</b>, Qingchuan Zhao, and Cong Wang. "When Good Becomes Evil: Exploring Crosstalk Attack Surfaces on Multi-Port USB Chargers," IEEE Transactions on Mobile Computing, Early Access, July 2025.
+<li><b>[TMC]</b> Tao Ni, Zehua Sun, Yongliang Chen, Yihe Zhou, Jiayimei Wang, <b>Weitao Xu</b>, Qingchuan Zhao, and Cong Wang. "When Good Becomes Evil: Exploring Crosstalk Attack Surfaces on Multi-Port USB Chargers," IEEE Transactions on Mobile Computing, Early Access, July 2025.
 <li><b>[TMC]</b> Xingyu Feng, Zehua Sun, Zhuangzhuang Chen, Chengwen Luo, Zhangbing Zhou, Victor C.M. Leung, and <b>Weitao Xu*</b>. "LLM-CoSen: Revisiting Collaborative Sensing with Large Language Models (LLMs)," IEEE Transactions on Mobile Computing, Early Access, June 2025.
 <li><b>[Ad Hoc Networks]</b> Ming Li, Furong Xu, Yuqin Wu, Jianshan Zhang, <b>Weitao Xu</b>, and Yuezhong Wu. "Real-time task dispatching and scheduling in serverless edge computing,"  Ad Hoc Networks, Early Access, April 2025.
 <li><b>[TMC]</b> Chengwen Luo, Renqi Jia,  Chengwen Luo, Victor C.M. Leung, and <b>Weitao Xu*</b>. "LaserKey: Eavesdropping Keyboard Typing Leveraging Vibrational Emanations via Laser Sensing," IEEE Transactions on Mobile Computing, Early Access, January 2025.
