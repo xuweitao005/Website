@@ -9,8 +9,8 @@ header:
 ---
 <ul>
 <li>2025: ACM SenSys 2025 Best Paper Honorable Mention Award</li>
-<li>2024: ACM EIFCom 2024 Best Paper Award</li>
-<li>2024: MobileHCI Honorable Mention Award</li>
+<li>2024: ACM EIFCom 2024 Best Paper Award </li>
+<li>2024: ACM MobileHCI Honorable Mention Award (3 out of 141 submissions)</li>
 <li>2024: Stanford's top 2% most highly cited scientists 2024</li>
 <li>2023: IEEE PerCom Best Paper Award (1 out of 27 accepted papers)</li>
 <li>2022: Stanford's top 2% most highly cited scientists 2022</li>
