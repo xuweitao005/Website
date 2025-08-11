@@ -116,18 +116,21 @@ header:
 <b>Short Papers</b>
 <br>
 <ol>
-<li><b>[Mobisys BodySys Workshop 2024]</b> <u>Rucheng Wu</u>, Huanqi Yang, and <b>Weitao Xu</b>. "XSolar: A Generative Framework for Solar-based Human Gesture Sensing via Wearable Signals,"</li>
-<li><b>[CPS-IoT Week CSCAIoTSys Workshop 2024]</b> <u>Shengzhe Lyu</u>, Yongliang Chen, Di Duan, Renqi Jia, and <b>Weitao Xu</b>. "EarDA: Towards Accurate and Data-Efficient Earable Activity Sensing,"</li>
-<li><b>[CPS-IoT Week CSCAIoTSys Workshop 2024]</b> <u>Huanqi Yang</u>, Sijie Ji, Rucheng Wu, and <b>Weitao Xu</b>. "Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs!,"</li>
-<li><b>[UbiComp CPD Workshop 2022]</b> <u>Keqi Song</u>, Zimeng Zhu, Huanqi Yang, Tao Ni, and <b>Weitao Xu</b>. "MobileKey: A Fast and Robust Key Generation System for Mobile Devices,"</li>
-<li><b>[UbiComp CPD Workshop 2021]</b> <u>Tao Ni</u>, Yongliang Chen, Keqi Song, and <b>Weitao Xu</b>. "A Simple and Fast Human Activity Recognition System Using Radio Frequency Energy Harvesting," <b>Best Paper Award</b>.</li>
-  <li><b>[Sensys' 2018]</b> Jun Liu, <b>Weitao Xu</b>, Wen Hu. "Poster Abstract: Energy Efficient LPWAN Decoding via Joint Sparse Approximation,"</li>
-  <li><b>[IoTDI' 2018]</b> Dong Ma, Guohao Lan, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Demo abstract: simultaneous energy harvesting and sensing using piezoelectric energy harvester,"</li>
-  <li><b>[Mobiquitous 2017]</b> Dong Ma, Guohao Lan, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Poster abstract: unobtrusive user verification using piezoelectric energy harvesting,"</li>
-<li><b>[Sensys' 2015]</b> Yiran Shen, Chengwen Luo, <b>Weitao Xu</b>, Wen Hu. "Poster: An Online Approach for Gait Recognition on Smart Glasses,"</li>
-<li><b>[SenSys' 2015 Doctoral Colloquium (DC)]</b> <b>Weitao Xu</b> "Mobile applications based on smart wearable devices,"</li>
-<li><b>[SenSys' 2015]</b> <b>Weitao Xu</b>, Yiran Shen, Neil Bergmann, Wen Hu. "Poster Abstract: Robust and Efficient Sensor-assistedFace Recognition System on Smart Glass,"</li>
-<li><b>[NDSS' 2017]</b> Qi Lin, Yesheng Cui, Shanqing Jiang, Tengyu Ma, <b>Weitao Xu</b>, Wen Hu. "Poster: Automatic Key Generation Using Motion Energy Harvesters,"</li>
+<li><b>[INFOCOM DeepWireless Workshop 2025]</b> <u>Huanqi Yang</u>, and <b>Weitao Xu</b>. "LLMKey: LLM-Powered Wireless Key Generation Scheme for Next-Gen IoV Systems."</li>
+<li><b>[INFOCOM DeepWireless Workshop 2025]</b> <u>Aochen Jiao</u>, Huanqi Yang, and <b>Weitao Xu</b>. "NERecon: Neural-Enhanced Reconciliation for Secure Physical Layer Key Generation."</li>
+<li><b>[EIFCom 2024 2024]</b> <u>Huanqi Yang</u>, Rucheng Wu, and <b>Weitao Xu</b>. "TransCompressor: LLM-Powered Multimodal Data Compression for Smart Transportation" <b>Best Paper Award</b></li>
+<li><b>[Mobisys BodySys Workshop 2024]</b> <u>Rucheng Wu</u>, Huanqi Yang, and <b>Weitao Xu</b>. "XSolar: A Generative Framework for Solar-based Human Gesture Sensing via Wearable Signals."</li>
+<li><b>[CPS-IoT Week CSCAIoTSys Workshop 2024]</b> <u>Shengzhe Lyu</u>, Yongliang Chen, Di Duan, Renqi Jia, and <b>Weitao Xu</b>. "EarDA: Towards Accurate and Data-Efficient Earable Activity Sensing."</li>
+<li><b>[CPS-IoT Week CSCAIoTSys Workshop 2024]</b> <u>Huanqi Yang</u>, Sijie Ji, Rucheng Wu, and <b>Weitao Xu</b>. "Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs!"</li>
+<li><b>[UbiComp CPD Workshop 2022]</b> <u>Keqi Song</u>, Zimeng Zhu, Huanqi Yang, Tao Ni, and <b>Weitao Xu</b>. "MobileKey: A Fast and Robust Key Generation System for Mobile Devices."</li>
+<li><b>[UbiComp CPD Workshop 2021]</b> <u>Tao Ni</u>, Yongliang Chen, Keqi Song, and <b>Weitao Xu</b>. "A Simple and Fast Human Activity Recognition System Using Radio Frequency Energy Harvesting." <b>Best Paper Award</b>.</li>
+  <li><b>[Sensys' 2018]</b> Jun Liu, <b>Weitao Xu</b>, Wen Hu. "Poster Abstract: Energy Efficient LPWAN Decoding via Joint Sparse Approximation."</li>
+  <li><b>[IoTDI' 2018]</b> Dong Ma, Guohao Lan, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Demo abstract: simultaneous energy harvesting and sensing using piezoelectric energy harvester."</li>
+  <li><b>[Mobiquitous 2017]</b> Dong Ma, Guohao Lan, <b>Weitao Xu</b>, Mahbub Hassan, Wen Hu. "Poster abstract: unobtrusive user verification using piezoelectric energy harvesting."</li>
+<li><b>[Sensys' 2015]</b> Yiran Shen, Chengwen Luo, <b>Weitao Xu</b>, Wen Hu. "Poster: An Online Approach for Gait Recognition on Smart Glasses."</li>
+<li><b>[SenSys' 2015 Doctoral Colloquium (DC)]</b> <b>Weitao Xu</b> "Mobile applications based on smart wearable devices."</li>
+<li><b>[SenSys' 2015]</b> <b>Weitao Xu</b>, Yiran Shen, Neil Bergmann, Wen Hu. "Poster Abstract: Robust and Efficient Sensor-assistedFace Recognition System on Smart Glass."</li>
+<li><b>[NDSS' 2017]</b> Qi Lin, Yesheng Cui, Shanqing Jiang, Tengyu Ma, <b>Weitao Xu</b>, Wen Hu. "Poster: Automatic Key Generation Using Motion Energy Harvesters."</li>
 </ol>
 
 <br>
