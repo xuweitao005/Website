@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   company = "City University of Hong Kong"
   location = "Hong Kong"
   date_start = "2019-08-01"
-  date_end = ""
+  date_end = "2025-06-30"
 
 [[experience]]
   title = "Postdoc"
