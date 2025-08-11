@@ -118,7 +118,7 @@ header:
 <ol>
 <li><b>[INFOCOM DeepWireless Workshop 2025]</b> <u>Huanqi Yang</u>, and <b>Weitao Xu</b>. "LLMKey: LLM-Powered Wireless Key Generation Scheme for Next-Gen IoV Systems."</li>
 <li><b>[INFOCOM DeepWireless Workshop 2025]</b> <u>Aochen Jiao</u>, Huanqi Yang, and <b>Weitao Xu</b>. "NERecon: Neural-Enhanced Reconciliation for Secure Physical Layer Key Generation."</li>
-<li><b>[EIFCom 2024 2024]</b> <u>Huanqi Yang</u>, Rucheng Wu, and <b>Weitao Xu</b>. "TransCompressor: LLM-Powered Multimodal Data Compression for Smart Transportation" <b>Best Paper Award</b></li>
+<li><b>[EIFCom 2024 2024]</b> <u>Huanqi Yang</u>, Rucheng Wu, and <b>Weitao Xu</b>. "TransCompressor: LLM-Powered Multimodal Data Compression for Smart Transportation." <b>Best Paper Award</b>.</li>
 <li><b>[Mobisys BodySys Workshop 2024]</b> <u>Rucheng Wu</u>, Huanqi Yang, and <b>Weitao Xu</b>. "XSolar: A Generative Framework for Solar-based Human Gesture Sensing via Wearable Signals."</li>
 <li><b>[CPS-IoT Week CSCAIoTSys Workshop 2024]</b> <u>Shengzhe Lyu</u>, Yongliang Chen, Di Duan, Renqi Jia, and <b>Weitao Xu</b>. "EarDA: Towards Accurate and Data-Efficient Earable Activity Sensing."</li>
 <li><b>[CPS-IoT Week CSCAIoTSys Workshop 2024]</b> <u>Huanqi Yang</u>, Sijie Ji, Rucheng Wu, and <b>Weitao Xu</b>. "Are You Being Tracked? Discover the Power of Zero-Shot Trajectory Tracing with LLMs!"</li>
