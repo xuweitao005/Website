@@ -7,28 +7,27 @@ header:
   caption: ""
   image: ""
 ---
----
 <b>General: </b>
 <br>
 <ul>
-<li>[My principles of PhD supervision](https://bartoszbartk.com/2023/03/05/my-principles-of-phd-supervision/)</li>
+<li>[!My principles of PhD supervision](https://bartoszbartk.com/2023/03/05/my-principles-of-phd-supervision/)</li>
 
 
 </ul>
 
 <br>
-<b>Papers: </b>
+<b>Write Papers: </b>
 <br>
 <ul>
-<li>Jiayao Gao (UNSW PhD student, since 2017)</li>
+<li>To be added</li>
 
 </ul>
 
 <br>
-<b>Research Proposal: </b>
+<b>Research Proposals: </b>
 <br>
 <ul>
-<li>Dr. Chih Wei Ling (Postdoc, September 2024-present)</li>
+<li>To be added</li>
 </ul>
 
 
