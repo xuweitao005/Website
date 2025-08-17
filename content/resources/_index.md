@@ -10,7 +10,7 @@ header:
 <b>General: </b>
 <br>
 <ul>
-<li> [My principles of PhD supervision](https://bartoszbartk.com/2023/03/05/my-principles-of-phd-supervision/) </li>
+<li> <a href="https://bartoszbartk.com/2023/03/05/my-principles-of-phd-supervision/" target="_blank" rel="noopener">My principles of PhD supervision</a></li>
 
 
 </ul>
