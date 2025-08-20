@@ -16,10 +16,11 @@ header:
 </ul>
 
 <br>
-<b>Write Papers: </b>
+<b>Research: </b>
 <br>
 <ul>
-<li>To be added</li>
+<li> <a href="https://github.com/jwwthu/how-to-research" target="_blank" rel="noopener">Resources on how to write paper/do research</a></li>
+
 
 </ul>
 
