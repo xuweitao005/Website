@@ -67,6 +67,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
+<li><b>[TVT]</b> Jia Zhang, Peilin Ren, Shihao Yan,  <b>Weitao Xu</b>, Jiande Sun, and Naofal Al-Dhahir. "Impact of Discrete Phase Shifts on RIS-Enabled Covert Communications," IEEE Transactions on Vehicular Technology, Early Access, August 2025.
 <li><b>[TMC]</b> Huanqi Yang , Zehua Sun , Hongbo Liu , Xianjin Xia , Yu Zhang , Tao Gu , Gerhard Hancke , and <b>Weitao Xu*</b>. "Chirp-level Information-based Collaborative Key Generation for LoRa Networks via Perturbed Compressed Sensing," IEEE Transactions on Mobile Computing, Early Access, July 2025.
 <li><b>[TMC]</b> Tao Ni, Zehua Sun, Yongliang Chen, Yihe Zhou, Jiayimei Wang, <b>Weitao Xu</b>, Qingchuan Zhao, and Cong Wang. "When Good Becomes Evil: Exploring Crosstalk Attack Surfaces on Multi-Port USB Chargers," IEEE Transactions on Mobile Computing, Early Access, July 2025.
 <li><b>[TMC]</b> Xingyu Feng, Zehua Sun, Zhuangzhuang Chen, Chengwen Luo, Zhangbing Zhou, Victor C.M. Leung, and <b>Weitao Xu*</b>. "LLM-CoSen: Revisiting Collaborative Sensing with Large Language Models (LLMs)," IEEE Transactions on Mobile Computing, Early Access, June 2025.
