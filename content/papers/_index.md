@@ -11,6 +11,7 @@ header:
 <b>Conference Papers</b> (The underlined first authors are under my supervision)
 <br>
 <ol>
+<li><b>[SenSys 2026]</b> <u>Huanqi Yang</u>, Mingzhe Li,  Mingda Han, Zhenjiang Li, and <b>Weitao Xu</b>. "AutoEmbed: LLM-driven Automated Software Development for Generic Embedded IoT Systems," In Proceedings of the 24rd ACM Conference on Embedded Networked Sensor Systems (SenSys), Saint-Malo, France, 2026.</li>
 <li><b>[MobiCom 2025]</b> <u>Zehua Sun</u>, Pengfei Hu,  Tao Ni, Tao Gu, and <b>Weitao Xu</b>. "SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing," In Proceedings of the 31st Annual International Conference on Mobile Computing and Networking (MobiCom), Hong Kong, 2025.</li>
 <li><b>[UIST 2025]</b> <u>Rucheng Wu</u>, Tao Ni, Zehua Sun, Jiande Sun, and <b>Weitao Xu</b>. "RingByte: Enhancing Text-Entry Practicality via A Singular Wearable Rotating Smart Ring," In Proceedings of the ACM Symposium on User Interface Software and Technology (UIST), Busan, Republic of Korea, 2025.</li>
 <li><b>[SenSys 2025]</b> <u>Di Duan</u>, Shengzhe Lyu,  Mu Yuan, Hongfei Xue, Tianxing Li, <b>Weitao Xu</b>, Kaishun Wu, and Guoliang Xing. "Argus: Multi-View Egocentric Human Mesh Reconstruction Based on Stripped-Down Wearable mmWave Add-on," In Proceedings of the 23rd ACM Conference on Embedded Networked Sensor Systems (SenSys), Irvine, USA, 2025.</li>
