@@ -8,6 +8,7 @@ header:
   image: ""
 ---
 <ul>
+<li>2025: Stanford's top 2% most highly cited scientists 2025</li>
 <li>2025: ACM SenSys 2025 Best Paper Honorable Mention Award</li>
 <li>2024: ACM EIFCom 2024 Best Paper Award </li>
 <li>2024: ACM MobileHCI Honorable Mention Award (3 out of 141 submissions)</li>
