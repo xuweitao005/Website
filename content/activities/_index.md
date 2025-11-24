@@ -11,9 +11,12 @@ header:
 <b>Services: </b>
 <br><br>
 <ul>
-<li>2024: TPC member of SenSys 2025</li>
-<li>2024: TPC member of MobiCom 2025</li>
-<li>2024: TPC member of DCOSS-IoT 2025</li>
+<li>2025: TPC member of EWSN 2026</li>
+<li>2025: TPC member of WiSEC 2026</li>
+<li>2025: TPC member of DCOSS-IoT 2025</li>
+<li>2025: TPC member of SenSys 2025</li>
+<li>2025: TPC member of MobiCom 2025</li>
+<li>2025: TPC member of DCOSS-IoT 2025</li>
 <li>2024: TPC member of MobiCom PICASSO Workshop 2024</li>
 <li>2024: TPC member of MobiSys BodySys Workshop 2024</li>
 <li>2024: TPC member of MobiCom Artifact Evaluation 2024</li>
