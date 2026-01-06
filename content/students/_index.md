@@ -35,7 +35,7 @@ header:
 <b>Postdoc and RA: </b>
 <br>
 <ul>
-<li>Dr. Chih Wei Ling (Postdoc, September 2024-present)</li>
+<li>Qianren Li (RA, January 2026-present)</li>
 </ul>
 
 
