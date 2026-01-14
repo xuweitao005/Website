@@ -45,7 +45,7 @@ header:
 <ul>
 <li>Dr. Xiaohan Qi (Postdoc, September 2024-November 2025, Peng Cheng Laboratory 鹏城实验室)</li>
 <li>Aochen Jiao (RA, June 2023-September 2025, PhD at Sydney University)</li>
-<li>Zhiyong Wang</a> (Postdoc, January 2025-July 2025, Postdoc at Aalto University)</li>
+<li><a href="https://scholar.google.com/citations?user=zNAy9wQAAAAJ&hl=zh-CN">Zhiyong Wang</a> (Postdoc, January 2025-July 2025, Assistant Professor at Zhejiang University,  Overseas Young Talent Program 海外优青)</li>
 <li><a href="https://scholar.google.com/citations?user=N2cotUwAAAAJ&hl=en" target="_blank">Zehua Sun</a> (PhD, September 2021-June 2025, Postdoc at National University of Singapore)</li>
 <li><a href="https://huanqiyang.site/" target="_blank">Huanqi Yang</a> (PhD, September 2021-June 2025, Huawei Hong Kong)</li>
 <li>Mengzhe Ruan (PhD, September 2020-June 2025, Ant Group 蚂蚁金服)</li>
