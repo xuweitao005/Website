@@ -11,6 +11,7 @@ header:
 <b>Conference Papers</b> (The underlined first authors are under my supervision)
 <br>
 <ol>
+<li><b>[ICASSP 2026]</b> <u>Rucheng</u>, Zehua Sun, and <b>Weitao Xu</b>. "Protolens: A Fine-grained And Adaptive Interpretation Framework For Time Series Data Classification With Prototypes," In Proceedings of 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, 2026.</li>
 <li><b>[SenSys 2026]</b> <u>Huanqi Yang</u>, Mingzhe Li,  Mingda Han, Zhenjiang Li, and <b>Weitao Xu</b>. "AutoEmbed: LLM-driven Automated Software Development for Generic Embedded IoT Systems," In Proceedings of the 24rd ACM Conference on Embedded Networked Sensor Systems (SenSys), Saint-Malo, France, 2026. <a href="https://autoembed.github.io/" target="_blank" rel="noopener">[Project webite]</a></li>
 <li><b>[MobiCom 2025]</b> <u>Zehua Sun</u>, Pengfei Hu,  Tao Ni, Tao Gu, and <b>Weitao Xu</b>. "SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing," In Proceedings of the 31st Annual International Conference on Mobile Computing and Networking (MobiCom), Hong Kong, 2025.</li>
 <li><b>[UIST 2025]</b> <u>Rucheng Wu</u>, Tao Ni, Zehua Sun, Jiande Sun, and <b>Weitao Xu</b>. "RingByte: Enhancing Text-Entry Practicality via A Singular Wearable Rotating Smart Ring," In Proceedings of the ACM Symposium on User Interface Software and Technology (UIST), Busan, Republic of Korea, 2025.</li>
