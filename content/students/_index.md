@@ -44,11 +44,11 @@ header:
 <br>
 <ul>
 <li>Dr. Xiaohan Qi (Postdoc, September 2024-November 2025, Peng Cheng Laboratory 鹏城实验室)</li>
-<li>Aochen Jiao (RA, June 2023-September 2025, PhD at Sydney University)</li>
+<li><a href="https://aochen-jiao.github.io/">Aochen Jiao</a> (RA, June 2023-September 2025, PhD at Sydney University)</li>
 <li><a href="https://scholar.google.com/citations?user=zNAy9wQAAAAJ&hl=zh-CN">Zhiyong Wang</a> (Postdoc, January 2025-July 2025, Assistant Professor at Zhejiang University,  Overseas Young Talent Program 海外优青)</li>
 <li><a href="https://scholar.google.com/citations?user=N2cotUwAAAAJ&hl=en" target="_blank">Zehua Sun</a> (PhD, September 2021-June 2025, Postdoc at National University of Singapore)</li>
 <li><a href="https://huanqiyang.site/" target="_blank">Huanqi Yang</a> (PhD, September 2021-June 2025, Huawei Hong Kong)</li>
-<li>Mengzhe Ruan (PhD, September 2020-June 2025, Ant Group 蚂蚁金服)</li>
+<li><a href="https://mezrua.github.io/">Ruanmeng Zhe</a> (PhD, September 2020-June 2025, Ant Group 蚂蚁金服)</li>
 <li><a href="https://taoni.xyz/" target="_blank">Tao Ni</a> (PhD, January 2021-June 2024, Assistant Professor at King Abdullah University of Science and Technology (KAUST))</li>
 <li><a href="https://raphaelduan.github.io/" target="_blank">Duan Di</a> (PhD, September 2020-June 2024, Postdoc at Chinese University of Hong Kong)</li>
 <li><a href="https://chenyongliang97.github.io/page/" target="_blank">Yongliang Chen</a> (PhD, September 2020-June 2024, Postdoc at City University of Hong Kong)</li>
