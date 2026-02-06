@@ -68,6 +68,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
+<li><b>[TCOM]</b> Wenhao Liu, Zhengyi Zhang, Zhongyi Huang, <b>Weitao Xu*</b>, Linqi Song, and Hanxu Hou. "Efficient Encoding/Decoding Algorithms for Irreducible Polynomial Remainder Codes via Additive FFT," IEEE Transactions on Communications, Early Access, Feb 2026.
 <li><b>[TDSC]</b> Tao Ni, Chaoshun Zuo, Jianfeng Li, Wubing Wang,<b>Weitao Xu</b>, Xiapu Luo, and Qingchuan Zhao. "Characterizing Contactless Side-channel Eavesdropping on Wireless Chargers," IEEE Transactions on Dependable and Secure Computing, Early Access, Dec 2025.
 <li><b>[TCSVT]</b> ZhiYong Wang, Hao Nan Sheng, Hing Cheung So, Jiande Sun, Linqi Song*, and <b>Weitao Xu*</b>. "Robust Federated Learning under Heterogeneity via Rank-One and Column-Sparsity Model," IEEE Transactions on Circuits and Systems for Video Technology, Early Access, Dec 2025.
 <li><b>[TMC]</b> Shengzhe Lyu, Yuhan She, Di Duan, Tao Ni, Yu Hin Chan, Chengwen Luo, Ray Chak-Chung Cheung*, and <b>Weitao Xu*</b>. "SwiftChannel: Algorithm-Hardware Co-Design for Deep Learning-Based 5G Channel Estimation," IEEE Transactions on Mobile Computing, Early Access, Dec 2025.
