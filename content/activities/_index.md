@@ -11,7 +11,8 @@ header:
 <b>Services: </b>
 <br><br>
 <ul>
-<li>2025: TPC member of EWSN 2026</li>
+<li>2026: TPC member of ICDCS 2026</li>
+<li>2026: TPC member of EWSN 2026</li>
 <li>2025: TPC member of WiSEC 2026</li>
 <li>2025: TPC member of DCOSS-IoT 2025</li>
 <li>2025: TPC member of SenSys 2025</li>
