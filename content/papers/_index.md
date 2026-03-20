@@ -70,6 +70,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
+<li><b>[TMC]</b> Xingyu Feng, Huanqi Yang, Zhuangzhuang Chen, Chengwen Luo, Yuzhu Wang, Zhangbing Zhou, <b>Weitao Xu</b>, and Victor C.M. Leung. "E2LLM: Structure-Guided Efficient Inference for LLMs in Distributed Edge-IoT Environments," IEEE Transactions on Mobile Computing, Early Access, March 2026.
 <li><b>[TMC]</b> Mingda Han, Huanqi Yang, Yanni Yang, Guoming Zhang, Yetong Cao, <b>Weitao Xu</b>, Xiuzhen Cheng, and Pengfei Hu. "RFInv: Uncovering Sensitive Data in RF Sensing Systems via Model Inversion," IEEE Transactions on Mobile Computing, Early Access, Feb 2026.
 <li><b>[TCOM]</b> Wenhao Liu, Zhengyi Zhang, Zhongyi Huang, <b>Weitao Xu*</b>, Linqi Song, and Hanxu Hou. "Efficient Encoding/Decoding Algorithms for Irreducible Polynomial Remainder Codes via Additive FFT," IEEE Transactions on Communications, Early Access, Feb 2026.
 <li><b>[TDSC]</b> Tao Ni, Chaoshun Zuo, Jianfeng Li, Wubing Wang,<b>Weitao Xu</b>, Xiapu Luo, and Qingchuan Zhao. "Characterizing Contactless Side-channel Eavesdropping on Wireless Chargers," IEEE Transactions on Dependable and Secure Computing, Early Access, Dec 2025.
