@@ -57,6 +57,13 @@ header:
 <b>Associate Editor: </b>
 <ul>
 <li>Ad Hoc Networks, Nov 2019-present.</li>
+<li>ACM IMWUT, March 2026-present.</li>
+</ul>
+
+<br><br>
+<b>Distinguished Reviewer: </b>
+<ul>
+<li>ACM Transactions on Sensor Networks, January 2026-present.</li>
 </ul>
 
 <br><br>
