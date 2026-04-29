@@ -128,6 +128,8 @@ header:
 <b>Short Papers</b>
 <br>
 <ol>
+<li><b>[MobiSys AutoSys 2025]</b> <u>Qianren Li</u>, Rucheng Wu, and <b>Weitao Xu</b>. "IMU2Video: World Model-Enabled Video Generation from IMU sensors."</li>
+<li><b>[SenSys ENSsys Workshop 2026]</b> <u>Jiawen Chen</u>, Tao Ni, and <b>Weitao Xu</b>. "Open World Radio Frequency Energy Harvesting-Based Eavesdropping Attack Model	."</li>
 <li><b>[INFOCOM DeepWireless Workshop 2025]</b> <u>Huanqi Yang</u>, and <b>Weitao Xu</b>. "LLMKey: LLM-Powered Wireless Key Generation Scheme for Next-Gen IoV Systems."</li>
 <li><b>[INFOCOM DeepWireless Workshop 2025]</b> <u>Aochen Jiao</u>, Huanqi Yang, and <b>Weitao Xu</b>. "NERecon: Neural-Enhanced Reconciliation for Secure Physical Layer Key Generation."</li>
 <li><b>[EIFCom 2024 2024]</b> <u>Huanqi Yang</u>, Rucheng Wu, and <b>Weitao Xu</b>. "TransCompressor: LLM-Powered Multimodal Data Compression for Smart Transportation." <b>Best Paper Award</b>.</li>
