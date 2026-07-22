@@ -10,6 +10,7 @@ header:
 <b>Students: </b>
 <br>
 <ul>
+<li>Qianren Li (PhD, September 2026-present)</li>
 <li>Yishuo Zhao (PhD, September 2025-present)</li>
 <li>Yihan Wang (PhD, January 2025-present)</li>
 <li>Jiawen Chen (PhD, September 2024-present)</li>
@@ -35,7 +36,7 @@ header:
 <b>Postdoc and RA: </b>
 <br>
 <ul>
-<li>Qianren Li (RA, January 2026-present)</li>
+<li>Ruiqi Wang (RA, June 2026-present)</li>
 </ul>
 
 
