@@ -11,6 +11,8 @@ header:
 <b>Services: </b>
 <br><br>
 <ul>
+<li>2026: TPC member of MobiCom 2027</li>
+<li>2026: TPC member of AAAI 2027</li>
 <li>2026: TPC member of INFOCOM 2027</li>
 <li>2026: TPC member of SenSys 2027</li>
 <li>2026: TPC member of ICDCS 2026</li>
