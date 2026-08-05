@@ -9,6 +9,13 @@ header:
 ---
 <img border="0" src="header.jpg">
 
+<br><br>
+<h2>Space computing and Low Earth Orbit Satellite.</h2>
+<ul>
+<li>[MobiCom 2025] "SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing", Zehua Sun, Pengfei Hu, Tao Ni, Tao Gu, and Weitao Xu.</li>
+</ul>
+<img border="0" src="SpaceSched.png" width="600" height="285">
+
 
 <br><br>
 <h2>Application of LLM in tracking.</h2>
