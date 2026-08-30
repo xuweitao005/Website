@@ -32,7 +32,7 @@ header:
 <b>Teaching: </b>
 <br>
 <ul>
-<li><a href="https://drive.google.com/drive/folders/19Tut2GQvvBk7u2pJKwvgfyTa4TtSb--N?usp=sharing" target="_blank" rel="noopener">CS1302 Materials</a></li>
+<li><a href="https://drive.google.com/drive/folders/17SqM3So9b1GkyztTL6oKU_TnFszRHvs4?usp=sharing" target="_blank" rel="noopener">CS1302 Materials</a></li>
 </ul>
 
 
