@@ -71,6 +71,7 @@ header:
 <b>Journal Papers </b>
 <br>
 <ol>
+<li><b>[TCOM]</b> Xibei Jia, Yiyang Gu, Bo Zhang, Yunlai Xu, Weitao Xu, Zhihua Yang, and Xiaohan Qi. "Generalized Deduplication-Based CRDSA in Satellite-Integrated IoT: A Priority-Enabled Successive Interference Cancellation Approach," IEEE Transactions on Communications, Early Access, September 2026.
 <li><b>[TNSM]</b> Hanlin Chen, Fukang Deng, Tengcong Jiang, <b>Weitao Xu</b>, Yuezhong Wu, Xing Chen, and Jie Li. "Enhancing Throughput in Sharded Blockchain via Joint Convex Optimization of System Parameters and Resource Allocation," IEEE Transactions on Network and Service Management, Early Access, April 2026.
 <li><b>[TMC]</b> Xingyu Feng, Huanqi Yang, Zhuangzhuang Chen, Chengwen Luo, Yuzhu Wang, Zhangbing Zhou, <b>Weitao Xu</b>, and Victor C.M. Leung. "E2LLM: Structure-Guided Efficient Inference for LLMs in Distributed Edge-IoT Environments," IEEE Transactions on Mobile Computing, Early Access, March 2026.
 <li><b>[TMC]</b> Mingda Han, Huanqi Yang, Yanni Yang, Guoming Zhang, Yetong Cao, <b>Weitao Xu</b>, Xiuzhen Cheng, and Pengfei Hu. "RFInv: Uncovering Sensitive Data in RF Sensing Systems via Model Inversion," IEEE Transactions on Mobile Computing, Early Access, Feb 2026.
