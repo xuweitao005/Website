@@ -60,7 +60,7 @@ header:
 <br><br>
 <b>Associate Editor: </b>
 <ul>
-<li>Ad Hoc Networks, Nov 2019- August 2016.</li>
+<li>Ad Hoc Networks, Nov 2019- August 2026.</li>
 <li>ACM IMWUT, March 2026-present.</li>
 </ul>
 
