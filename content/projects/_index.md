@@ -7,7 +7,7 @@ header:
   caption: ""
   image: ""
 ---
-<img border="0" src="newheader.jpg">
+<img border="0" src="header.jpg">
 
 <br><br>
 <h2>Space computing and Low Earth Orbit Satellite.</h2>
