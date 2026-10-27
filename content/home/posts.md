@@ -65,6 +65,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+*2026.02 Our paper "XKey: A Unified Deep Learning Framework for Wearable-based Key Generation" has been accepted by UBICOMP 2026. Congrats to all authors!
+
+*2025.10 Our paper "AutoEmbed: LLM-driven Automated Software Development for Generic Embedded IoT Systems" has been accepted by SenSys 2026. Congrats to all authors!
+
+*2025.03 Our paper "SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing" has been accepted by MobiCom 2025. Congrats to all authors!
+
 *2024.08 Our paper "Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions" received the Honorable Mention Award in MobileHCI 2024. Congrats to Aochen nd Di Duan!
 
 *2024.08 Our paper entitled "Seeing the Invisible: Recovering Surveillance Video with COTS mmWave Radar" has been accepted by IEEE Transactions on Mobile Computing. Congrats to Mingda!
